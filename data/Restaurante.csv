@@ -1,0 +1,2501 @@
+﻿Orden;Fecha;Mesa;Atendió;Propina;Tipo de Cliente;Sucursal
+1;01/02/2014;1;Rodolfo;7%;Cliente Nuevo;La Estancia
+2;30/01/2015;17;Mauricio;20%;Cliente Nuevo;La Paz
+3;21/04/2014;1;Joel;9%;Cliente Nuevo;Chapultepec
+4;09/01/2015;6;Mauricio;20%;Cliente Nuevo;La Paz
+5;25/03/2014;2;Valentina;16%;Cliente Repetido;La Paz
+6;03/06/2014;5;Omar;6%;Cliente Nuevo;La Paz
+7;14/08/2014;4;Joel;17%;Cliente Nuevo;La Estancia
+8;31/08/2014;6;Valentina;8%;Cliente Nuevo;La Paz
+9;27/11/2014;2;Saul;13%;Cliente Nuevo;La Paz
+10;28/12/2014;14;Joel;16%;Cliente Nuevo;Chapultepec
+11;12/11/2014;9;Alejandro;7%;Cliente Nuevo;La Paz
+12;07/07/2014;12;Rodolfo;17%;Cliente Nuevo;La Paz
+13;23/02/2014;12;Rodolfo;15%;Cliente Nuevo;Chapultepec
+14;24/01/2015;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+15;16/09/2014;10;Saul;17%;Cliente Repetido;La Estancia
+16;12/11/2014;8;Valentina;11%;Cliente Nuevo;Chapultepec
+17;06/11/2014;2;Alejandro;13%;Cliente Nuevo;La Paz
+18;15/08/2014;5;Omar;6%;Cliente Nuevo;La Estancia
+19;21/07/2014;14;Valentina;8%;Cliente Repetido;Chapultepec
+20;31/03/2014;12;Alejandro;10%;Cliente Nuevo;Chapultepec
+21;05/01/2015;16;Mariana;7%;Cliente Nuevo;Chapultepec
+22;21/04/2014;9;Saul;8%;Cliente Repetido;Chapultepec
+23;20/04/2014;17;Ernesto;15%;Cliente Nuevo;La Estancia
+24;20/07/2014;7;Saul;13%;Cliente Nuevo;Chapultepec
+25;30/11/2014;13;Saul;5%;Cliente Nuevo;La Estancia
+26;22/12/2014;13;Mariana;15%;Cliente Nuevo;Chapultepec
+27;28/03/2014;7;Joel;5%;Cliente Nuevo;Chapultepec
+28;26/07/2014;14;Ernesto;13%;Cliente Repetido;La Estancia
+29;27/01/2015;3;Ernesto;12%;Cliente Nuevo;La Estancia
+30;17/06/2014;1;Joel;15%;Cliente Nuevo;La Paz
+31;20/02/2014;1;Joel;6%;Cliente Nuevo;La Estancia
+32;29/11/2014;16;Mauricio;20%;Cliente Nuevo;La Estancia
+33;27/10/2014;13;Joel;5%;Cliente Repetido;La Paz
+34;10/12/2014;9;Ernesto;11%;Cliente Nuevo;Chapultepec
+35;28/05/2014;7;Valentina;6%;Cliente Repetido;La Estancia
+36;06/04/2014;6;Rodolfo;17%;Cliente Repetido;Chapultepec
+37;02/11/2014;8;Alejandro;9%;Cliente Repetido;La Estancia
+38;06/04/2014;11;Omar;15%;Cliente Repetido;La Paz
+39;27/07/2014;10;Omar;14%;Cliente Nuevo;La Paz
+40;06/10/2014;5;Ernesto;12%;Cliente Repetido;Chapultepec
+41;05/12/2014;16;Mauricio;20%;Cliente Nuevo;La Estancia
+42;03/11/2014;12;Ernesto;13%;Cliente Repetido;La Paz
+43;23/10/2014;6;Omar;17%;Cliente Nuevo;La Estancia
+44;20/05/2014;3;Rodolfo;15%;Cliente Repetido;Chapultepec
+45;15/03/2014;5;Mariana;12%;Cliente Repetido;Chapultepec
+46;07/04/2014;5;Valentina;17%;Cliente Nuevo;Chapultepec
+47;29/04/2014;2;Omar;16%;Cliente Nuevo;La Estancia
+48;26/03/2014;10;Mariana;6%;Cliente Nuevo;Chapultepec
+49;07/12/2014;10;Saul;16%;Cliente Nuevo;La Estancia
+50;10/10/2014;4;Mauricio;20%;Cliente Nuevo;La Paz
+51;02/07/2014;13;Omar;5%;Cliente Nuevo;La Paz
+52;26/07/2014;3;Mariana;14%;Cliente Nuevo;La Estancia
+53;05/10/2014;10;Ernesto;11%;Cliente Nuevo;Chapultepec
+54;22/06/2014;16;Saul;7%;Cliente Repetido;Chapultepec
+55;14/06/2014;14;Rodolfo;9%;Cliente Repetido;La Paz
+56;11/08/2014;7;Omar;5%;Cliente Nuevo;Chapultepec
+57;18/10/2014;7;Mauricio;20%;Cliente Nuevo;La Paz
+58;28/07/2014;8;Omar;6%;Cliente Nuevo;La Paz
+59;07/08/2014;4;Valentina;11%;Cliente Nuevo;La Estancia
+60;23/10/2014;17;Omar;12%;Cliente Nuevo;La Paz
+61;29/05/2014;5;Mariana;6%;Cliente Nuevo;La Estancia
+62;10/02/2014;12;Alejandro;12%;Cliente Repetido;Chapultepec
+63;14/06/2014;3;Mariana;17%;Cliente Nuevo;La Paz
+64;09/09/2014;6;Valentina;6%;Cliente Repetido;La Estancia
+65;07/02/2014;4;Alejandro;14%;Cliente Repetido;Chapultepec
+66;11/10/2014;5;Mauricio;20%;Cliente Nuevo;La Estancia
+67;01/04/2014;4;Saul;14%;Cliente Repetido;La Paz
+68;13/12/2014;15;Mauricio;20%;Cliente Nuevo;La Estancia
+69;10/02/2014;13;Alejandro;13%;Cliente Repetido;Chapultepec
+70;05/03/2014;1;Rodolfo;10%;Cliente Repetido;La Paz
+71;14/03/2014;13;Valentina;12%;Cliente Repetido;La Estancia
+72;06/10/2014;2;Ernesto;14%;Cliente Nuevo;La Paz
+73;04/06/2014;13;Joel;5%;Cliente Nuevo;Chapultepec
+74;28/09/2014;13;Saul;5%;Cliente Repetido;Chapultepec
+75;24/02/2014;17;Valentina;9%;Cliente Nuevo;La Estancia
+76;04/11/2014;6;Mariana;13%;Cliente Repetido;La Paz
+77;24/11/2014;9;Mariana;5%;Cliente Repetido;Chapultepec
+78;17/11/2014;14;Rodolfo;7%;Cliente Nuevo;La Estancia
+79;09/03/2014;15;Mariana;15%;Cliente Repetido;La Paz
+80;10/11/2014;6;Joel;14%;Cliente Nuevo;La Estancia
+81;07/09/2014;13;Mariana;6%;Cliente Nuevo;La Estancia
+82;28/08/2014;10;Ernesto;14%;Cliente Nuevo;La Paz
+83;22/10/2014;1;Omar;5%;Cliente Nuevo;Chapultepec
+84;17/01/2015;5;Mauricio;20%;Cliente Nuevo;Chapultepec
+85;24/10/2014;15;Mauricio;20%;Cliente Nuevo;La Paz
+86;21/08/2014;4;Alejandro;15%;Cliente Nuevo;La Paz
+87;23/09/2014;8;Omar;6%;Cliente Nuevo;La Paz
+88;24/11/2014;9;Alejandro;15%;Cliente Nuevo;La Paz
+89;14/06/2014;9;Alejandro;17%;Cliente Nuevo;Chapultepec
+90;30/03/2014;1;Mariana;9%;Cliente Repetido;Chapultepec
+91;12/01/2015;1;Ernesto;12%;Cliente Nuevo;Chapultepec
+92;20/07/2014;10;Saul;8%;Cliente Repetido;La Paz
+93;18/01/2015;14;Alejandro;17%;Cliente Nuevo;La Paz
+94;10/05/2014;14;Rodolfo;11%;Cliente Nuevo;La Estancia
+95;16/05/2014;3;Ernesto;5%;Cliente Nuevo;Chapultepec
+96;26/04/2014;5;Mariana;16%;Cliente Repetido;La Paz
+97;20/10/2014;7;Saul;15%;Cliente Repetido;La Paz
+98;22/03/2014;5;Alejandro;14%;Cliente Nuevo;La Paz
+99;06/06/2014;6;Rodolfo;11%;Cliente Nuevo;Chapultepec
+100;01/10/2014;9;Ernesto;11%;Cliente Nuevo;La Paz
+101;28/08/2014;9;Joel;11%;Cliente Nuevo;La Estancia
+102;23/05/2014;14;Ernesto;9%;Cliente Nuevo;La Estancia
+103;24/03/2014;8;Saul;14%;Cliente Nuevo;Chapultepec
+104;28/07/2014;8;Alejandro;15%;Cliente Nuevo;Chapultepec
+105;24/06/2014;4;Joel;7%;Cliente Repetido;Chapultepec
+106;10/02/2014;14;Ernesto;7%;Cliente Nuevo;La Estancia
+107;28/11/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+108;04/07/2014;4;Saul;15%;Cliente Nuevo;Chapultepec
+109;12/09/2014;3;Mauricio;20%;Cliente Nuevo;La Estancia
+110;25/03/2014;9;Alejandro;12%;Cliente Repetido;La Paz
+111;23/08/2014;16;Ernesto;6%;Cliente Nuevo;La Estancia
+112;14/01/2015;16;Ernesto;14%;Cliente Nuevo;Chapultepec
+113;26/11/2014;12;Ernesto;11%;Cliente Nuevo;La Paz
+114;21/06/2014;17;Omar;12%;Cliente Nuevo;Chapultepec
+115;10/02/2014;3;Mariana;5%;Cliente Nuevo;Chapultepec
+116;08/12/2014;11;Valentina;10%;Cliente Nuevo;La Estancia
+117;17/12/2014;17;Omar;17%;Cliente Nuevo;La Paz
+118;05/08/2014;15;Rodolfo;8%;Cliente Nuevo;La Paz
+119;20/11/2014;13;Alejandro;6%;Cliente Repetido;Chapultepec
+120;14/02/2014;9;Mariana;13%;Cliente Nuevo;La Paz
+121;08/12/2014;8;Saul;11%;Cliente Nuevo;Chapultepec
+122;04/12/2014;4;Rodolfo;14%;Cliente Nuevo;La Paz
+123;14/09/2014;7;Mariana;10%;Cliente Nuevo;Chapultepec
+124;03/05/2014;17;Valentina;8%;Cliente Nuevo;Chapultepec
+125;09/02/2014;12;Omar;5%;Cliente Repetido;La Estancia
+126;24/09/2014;12;Saul;16%;Cliente Nuevo;Chapultepec
+127;07/06/2014;4;Valentina;7%;Cliente Nuevo;Chapultepec
+128;14/02/2014;10;Mariana;6%;Cliente Repetido;La Paz
+129;26/09/2014;11;Mauricio;20%;Cliente Nuevo;Chapultepec
+130;03/11/2014;4;Valentina;14%;Cliente Nuevo;Chapultepec
+131;18/02/2014;16;Alejandro;8%;Cliente Nuevo;La Paz
+132;16/07/2014;15;Joel;7%;Cliente Repetido;Chapultepec
+133;26/03/2014;2;Alejandro;16%;Cliente Nuevo;Chapultepec
+134;01/08/2014;15;Rodolfo;12%;Cliente Nuevo;La Paz
+135;11/05/2014;1;Joel;11%;Cliente Repetido;La Estancia
+136;05/03/2014;4;Omar;11%;Cliente Nuevo;Chapultepec
+137;21/07/2014;9;Alejandro;6%;Cliente Nuevo;La Estancia
+138;08/06/2014;16;Alejandro;14%;Cliente Nuevo;La Estancia
+139;03/08/2014;1;Joel;11%;Cliente Repetido;Chapultepec
+140;05/09/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+141;21/07/2014;9;Alejandro;13%;Cliente Nuevo;Chapultepec
+142;12/10/2014;6;Mariana;16%;Cliente Repetido;La Paz
+143;25/04/2014;6;Rodolfo;9%;Cliente Nuevo;La Estancia
+144;29/08/2014;2;Ernesto;16%;Cliente Nuevo;Chapultepec
+145;16/04/2014;7;Mariana;9%;Cliente Nuevo;Chapultepec
+146;15/05/2014;8;Joel;5%;Cliente Nuevo;La Estancia
+147;28/11/2014;11;Mauricio;20%;Cliente Nuevo;La Paz
+148;15/08/2014;15;Joel;14%;Cliente Repetido;Chapultepec
+149;10/11/2014;16;Rodolfo;15%;Cliente Nuevo;La Estancia
+150;15/07/2014;13;Ernesto;5%;Cliente Repetido;La Paz
+151;10/09/2014;14;Valentina;12%;Cliente Repetido;La Paz
+152;15/03/2014;1;Mariana;15%;Cliente Nuevo;La Paz
+153;03/01/2015;3;Mauricio;20%;Cliente Nuevo;La Estancia
+154;12/11/2014;17;Alejandro;10%;Cliente Nuevo;La Estancia
+155;09/02/2014;8;Saul;14%;Cliente Nuevo;La Paz
+156;25/08/2014;14;Rodolfo;12%;Cliente Nuevo;La Paz
+157;05/12/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+158;10/01/2015;13;Mauricio;20%;Cliente Nuevo;Chapultepec
+159;11/05/2014;5;Saul;8%;Cliente Nuevo;La Estancia
+160;27/02/2014;14;Joel;12%;Cliente Nuevo;La Estancia
+161;26/09/2014;7;Mauricio;20%;Cliente Nuevo;Chapultepec
+162;08/04/2014;17;Rodolfo;5%;Cliente Nuevo;La Paz
+163;27/02/2014;5;Mariana;7%;Cliente Nuevo;La Estancia
+164;24/08/2014;14;Omar;17%;Cliente Nuevo;Chapultepec
+165;20/03/2014;14;Rodolfo;14%;Cliente Repetido;La Paz
+166;08/03/2014;9;Ernesto;8%;Cliente Nuevo;Chapultepec
+167;17/08/2014;11;Omar;17%;Cliente Nuevo;La Estancia
+168;12/09/2014;4;Mauricio;20%;Cliente Nuevo;La Paz
+169;28/07/2014;17;Ernesto;7%;Cliente Nuevo;La Paz
+170;23/09/2014;16;Joel;14%;Cliente Nuevo;La Estancia
+171;03/09/2014;1;Omar;17%;Cliente Nuevo;Chapultepec
+172;04/09/2014;9;Rodolfo;9%;Cliente Nuevo;Chapultepec
+173;15/12/2014;4;Joel;14%;Cliente Nuevo;La Paz
+174;10/08/2014;17;Saul;14%;Cliente Nuevo;Chapultepec
+175;16/02/2014;14;Rodolfo;9%;Cliente Nuevo;Chapultepec
+176;25/10/2014;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+177;21/12/2014;2;Mariana;14%;Cliente Nuevo;La Paz
+178;07/07/2014;17;Alejandro;10%;Cliente Nuevo;La Estancia
+179;14/04/2014;2;Omar;7%;Cliente Repetido;La Paz
+180;13/01/2015;15;Joel;10%;Cliente Nuevo;La Estancia
+181;23/04/2014;4;Valentina;9%;Cliente Nuevo;La Paz
+182;10/08/2014;1;Rodolfo;5%;Cliente Nuevo;Chapultepec
+183;08/09/2014;4;Valentina;11%;Cliente Repetido;La Estancia
+184;20/03/2014;5;Omar;8%;Cliente Nuevo;Chapultepec
+185;24/05/2014;14;Omar;17%;Cliente Repetido;La Paz
+186;29/10/2014;9;Mariana;8%;Cliente Nuevo;Chapultepec
+187;12/05/2014;10;Ernesto;11%;Cliente Nuevo;La Paz
+188;13/01/2015;16;Alejandro;8%;Cliente Nuevo;La Estancia
+189;23/03/2014;14;Mariana;13%;Cliente Repetido;La Paz
+190;30/10/2014;2;Valentina;12%;Cliente Repetido;La Estancia
+191;15/11/2014;9;Mauricio;20%;Cliente Nuevo;La Estancia
+192;03/10/2014;13;Mauricio;20%;Cliente Nuevo;La Estancia
+193;19/02/2014;8;Omar;14%;Cliente Nuevo;La Paz
+194;14/03/2014;14;Joel;17%;Cliente Nuevo;La Paz
+195;13/01/2015;12;Mariana;11%;Cliente Nuevo;La Paz
+196;11/05/2014;5;Joel;11%;Cliente Nuevo;La Estancia
+197;20/08/2014;5;Mariana;17%;Cliente Nuevo;La Estancia
+198;24/08/2014;1;Valentina;14%;Cliente Nuevo;Chapultepec
+199;05/07/2014;16;Valentina;6%;Cliente Nuevo;La Estancia
+200;03/02/2014;8;Mariana;12%;Cliente Repetido;Chapultepec
+201;01/09/2014;10;Mariana;10%;Cliente Nuevo;La Paz
+202;18/04/2014;17;Saul;11%;Cliente Repetido;La Paz
+203;30/06/2014;10;Alejandro;5%;Cliente Nuevo;La Estancia
+204;12/11/2014;8;Mariana;5%;Cliente Nuevo;La Estancia
+205;28/06/2014;14;Mariana;6%;Cliente Nuevo;La Paz
+206;26/11/2014;2;Alejandro;11%;Cliente Nuevo;La Paz
+207;18/02/2014;7;Omar;12%;Cliente Nuevo;La Paz
+208;24/03/2014;15;Alejandro;7%;Cliente Nuevo;La Estancia
+209;05/09/2014;10;Mauricio;20%;Cliente Nuevo;La Estancia
+210;17/04/2014;10;Rodolfo;8%;Cliente Nuevo;Chapultepec
+211;11/07/2014;16;Omar;7%;Cliente Nuevo;Chapultepec
+212;31/01/2015;16;Mauricio;20%;Cliente Nuevo;Chapultepec
+213;09/11/2014;2;Alejandro;6%;Cliente Nuevo;La Estancia
+214;28/09/2014;2;Valentina;16%;Cliente Nuevo;La Paz
+215;09/01/2015;10;Mauricio;20%;Cliente Nuevo;Chapultepec
+216;26/06/2014;17;Valentina;8%;Cliente Repetido;Chapultepec
+217;10/09/2014;2;Saul;16%;Cliente Repetido;La Estancia
+218;18/02/2014;14;Omar;5%;Cliente Nuevo;Chapultepec
+219;18/02/2014;13;Joel;9%;Cliente Nuevo;La Estancia
+220;27/01/2015;11;Valentina;7%;Cliente Nuevo;Chapultepec
+221;05/12/2014;4;Mauricio;20%;Cliente Nuevo;La Paz
+222;22/05/2014;1;Joel;16%;Cliente Repetido;La Estancia
+223;04/08/2014;3;Joel;5%;Cliente Nuevo;Chapultepec
+224;13/08/2014;12;Mariana;11%;Cliente Nuevo;La Estancia
+225;12/02/2014;6;Alejandro;15%;Cliente Nuevo;Chapultepec
+226;16/12/2014;2;Rodolfo;6%;Cliente Nuevo;La Paz
+227;09/03/2014;15;Joel;10%;Cliente Nuevo;Chapultepec
+228;29/12/2014;12;Ernesto;16%;Cliente Nuevo;La Estancia
+229;01/10/2014;3;Ernesto;13%;Cliente Nuevo;Chapultepec
+230;31/10/2014;3;Mauricio;20%;Cliente Nuevo;La Estancia
+231;17/11/2014;5;Valentina;10%;Cliente Repetido;La Paz
+232;25/11/2014;10;Saul;9%;Cliente Nuevo;La Paz
+233;07/02/2014;9;Rodolfo;11%;Cliente Repetido;Chapultepec
+234;13/12/2014;7;Mauricio;20%;Cliente Nuevo;La Paz
+235;26/07/2014;12;Alejandro;9%;Cliente Repetido;La Paz
+236;11/06/2014;16;Alejandro;12%;Cliente Nuevo;La Estancia
+237;08/06/2014;11;Saul;15%;Cliente Repetido;Chapultepec
+238;17/05/2014;11;Saul;9%;Cliente Nuevo;Chapultepec
+239;13/05/2014;3;Mariana;14%;Cliente Nuevo;La Paz
+240;26/10/2014;7;Joel;7%;Cliente Repetido;La Estancia
+241;22/02/2014;8;Ernesto;7%;Cliente Nuevo;La Estancia
+242;29/06/2014;9;Mariana;9%;Cliente Repetido;Chapultepec
+243;07/03/2014;4;Joel;17%;Cliente Nuevo;La Paz
+244;30/06/2014;13;Alejandro;7%;Cliente Nuevo;La Paz
+245;05/07/2014;15;Rodolfo;14%;Cliente Nuevo;La Paz
+246;14/03/2014;16;Ernesto;6%;Cliente Repetido;La Estancia
+247;12/02/2014;15;Ernesto;5%;Cliente Repetido;Chapultepec
+248;16/05/2014;8;Rodolfo;6%;Cliente Repetido;Chapultepec
+249;10/10/2014;9;Omar;11%;Cliente Nuevo;La Estancia
+250;20/12/2014;1;Rodolfo;10%;Cliente Nuevo;Chapultepec
+251;22/08/2014;6;Saul;17%;Cliente Repetido;Chapultepec
+252;05/09/2014;14;Ernesto;11%;Cliente Nuevo;La Estancia
+253;08/06/2014;9;Ernesto;14%;Cliente Nuevo;Chapultepec
+254;12/07/2014;6;Rodolfo;6%;Cliente Nuevo;La Estancia
+255;17/05/2014;11;Joel;11%;Cliente Nuevo;La Estancia
+256;17/10/2014;12;Joel;7%;Cliente Nuevo;La Estancia
+257;21/06/2014;14;Mariana;13%;Cliente Nuevo;La Estancia
+258;10/11/2014;14;Rodolfo;12%;Cliente Nuevo;La Estancia
+259;24/12/2014;8;Ernesto;13%;Cliente Nuevo;La Paz
+260;04/04/2014;6;Alejandro;10%;Cliente Nuevo;Chapultepec
+261;05/10/2014;4;Joel;16%;Cliente Nuevo;Chapultepec
+262;29/09/2014;1;Mariana;12%;Cliente Nuevo;Chapultepec
+263;29/03/2014;1;Omar;15%;Cliente Nuevo;Chapultepec
+264;01/10/2014;1;Ernesto;15%;Cliente Repetido;Chapultepec
+265;12/10/2014;4;Rodolfo;14%;Cliente Nuevo;La Paz
+266;18/07/2014;5;Ernesto;12%;Cliente Repetido;La Paz
+267;20/04/2014;2;Mariana;7%;Cliente Repetido;La Paz
+268;23/09/2014;13;Omar;5%;Cliente Nuevo;Chapultepec
+269;07/06/2014;12;Saul;11%;Cliente Nuevo;La Paz
+270;26/04/2014;7;Rodolfo;16%;Cliente Nuevo;La Estancia
+271;24/09/2014;8;Valentina;11%;Cliente Nuevo;La Paz
+272;06/04/2014;11;Saul;9%;Cliente Nuevo;Chapultepec
+273;03/10/2014;9;Mauricio;20%;Cliente Nuevo;La Estancia
+274;28/06/2014;2;Ernesto;5%;Cliente Repetido;La Paz
+275;26/03/2014;6;Saul;13%;Cliente Nuevo;La Estancia
+276;21/01/2015;5;Valentina;17%;Cliente Nuevo;La Estancia
+277;20/06/2014;3;Ernesto;9%;Cliente Nuevo;La Estancia
+278;11/04/2014;12;Omar;17%;Cliente Nuevo;La Paz
+279;29/01/2015;4;Alejandro;10%;Cliente Repetido;Chapultepec
+280;09/11/2014;7;Mariana;17%;Cliente Repetido;Chapultepec
+281;19/06/2014;9;Valentina;14%;Cliente Nuevo;La Estancia
+282;23/10/2014;11;Ernesto;11%;Cliente Repetido;La Paz
+283;15/08/2014;16;Saul;14%;Cliente Repetido;La Estancia
+284;26/07/2014;14;Joel;15%;Cliente Nuevo;La Estancia
+285;27/07/2014;15;Alejandro;11%;Cliente Repetido;Chapultepec
+286;11/06/2014;11;Ernesto;7%;Cliente Nuevo;Chapultepec
+287;08/12/2014;5;Saul;11%;Cliente Repetido;La Estancia
+288;19/01/2015;2;Joel;15%;Cliente Nuevo;La Paz
+289;13/07/2014;10;Ernesto;12%;Cliente Repetido;La Paz
+290;01/02/2014;11;Valentina;14%;Cliente Nuevo;Chapultepec
+291;04/07/2014;12;Joel;17%;Cliente Nuevo;Chapultepec
+292;10/02/2014;14;Joel;14%;Cliente Nuevo;Chapultepec
+293;15/06/2014;10;Ernesto;8%;Cliente Nuevo;Chapultepec
+294;10/09/2014;3;Rodolfo;13%;Cliente Nuevo;La Paz
+295;30/01/2015;6;Mauricio;20%;Cliente Nuevo;Chapultepec
+296;27/09/2014;6;Mauricio;20%;Cliente Nuevo;La Paz
+297;11/02/2014;1;Alejandro;5%;Cliente Nuevo;Chapultepec
+298;19/04/2014;5;Omar;16%;Cliente Nuevo;Chapultepec
+299;15/10/2014;8;Alejandro;16%;Cliente Nuevo;Chapultepec
+300;14/10/2014;8;Alejandro;13%;Cliente Nuevo;Chapultepec
+301;10/07/2014;14;Mariana;11%;Cliente Nuevo;La Estancia
+302;13/09/2014;12;Alejandro;5%;Cliente Nuevo;La Estancia
+303;12/03/2014;5;Rodolfo;9%;Cliente Nuevo;Chapultepec
+304;07/03/2014;1;Rodolfo;12%;Cliente Repetido;La Paz
+305;18/11/2014;17;Rodolfo;5%;Cliente Nuevo;Chapultepec
+306;12/06/2014;16;Mariana;10%;Cliente Repetido;Chapultepec
+307;04/12/2014;5;Rodolfo;10%;Cliente Nuevo;Chapultepec
+308;24/08/2014;5;Joel;6%;Cliente Nuevo;La Paz
+309;01/03/2014;12;Omar;17%;Cliente Nuevo;La Estancia
+310;16/09/2014;15;Saul;16%;Cliente Repetido;La Estancia
+311;04/01/2015;12;Rodolfo;15%;Cliente Nuevo;La Paz
+312;04/04/2014;10;Joel;17%;Cliente Nuevo;La Estancia
+313;06/04/2014;13;Alejandro;17%;Cliente Nuevo;La Paz
+314;11/09/2014;9;Ernesto;10%;Cliente Repetido;La Estancia
+315;25/06/2014;13;Omar;12%;Cliente Nuevo;La Estancia
+316;05/03/2014;6;Joel;9%;Cliente Nuevo;Chapultepec
+317;30/10/2014;9;Joel;16%;Cliente Repetido;La Estancia
+318;04/04/2014;15;Ernesto;14%;Cliente Repetido;La Estancia
+319;11/06/2014;10;Alejandro;16%;Cliente Nuevo;Chapultepec
+320;21/02/2014;16;Alejandro;11%;Cliente Repetido;La Estancia
+321;28/07/2014;9;Mariana;15%;Cliente Nuevo;Chapultepec
+322;17/12/2014;1;Mariana;12%;Cliente Nuevo;Chapultepec
+323;05/02/2014;8;Rodolfo;10%;Cliente Nuevo;Chapultepec
+324;15/03/2014;3;Ernesto;16%;Cliente Nuevo;La Estancia
+325;06/04/2014;13;Omar;9%;Cliente Nuevo;Chapultepec
+326;02/05/2014;1;Alejandro;12%;Cliente Nuevo;La Paz
+327;25/03/2014;16;Saul;9%;Cliente Nuevo;Chapultepec
+328;05/01/2015;8;Joel;8%;Cliente Nuevo;La Paz
+329;25/02/2014;2;Ernesto;9%;Cliente Nuevo;La Paz
+330;15/08/2014;4;Mariana;15%;Cliente Repetido;Chapultepec
+331;30/03/2014;4;Valentina;10%;Cliente Nuevo;La Paz
+332;21/03/2014;11;Alejandro;17%;Cliente Nuevo;La Estancia
+333;10/08/2014;1;Joel;14%;Cliente Nuevo;La Paz
+334;25/10/2014;8;Mauricio;20%;Cliente Nuevo;La Estancia
+335;12/05/2014;4;Rodolfo;6%;Cliente Repetido;La Estancia
+336;03/06/2014;2;Ernesto;10%;Cliente Nuevo;Chapultepec
+337;31/12/2014;7;Omar;14%;Cliente Nuevo;Chapultepec
+338;10/11/2014;15;Saul;13%;Cliente Nuevo;La Paz
+339;17/09/2014;11;Ernesto;15%;Cliente Nuevo;La Paz
+340;23/11/2014;17;Mariana;10%;Cliente Nuevo;La Estancia
+341;03/06/2014;8;Saul;7%;Cliente Nuevo;La Estancia
+342;23/02/2014;12;Alejandro;10%;Cliente Repetido;La Paz
+343;24/01/2015;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+344;06/07/2014;8;Mariana;6%;Cliente Nuevo;Chapultepec
+345;27/09/2014;9;Mauricio;20%;Cliente Nuevo;La Estancia
+346;05/08/2014;13;Alejandro;15%;Cliente Nuevo;La Paz
+347;08/03/2014;15;Ernesto;10%;Cliente Nuevo;La Paz
+348;08/10/2014;2;Mariana;6%;Cliente Nuevo;La Estancia
+349;20/01/2015;12;Omar;17%;Cliente Nuevo;Chapultepec
+350;21/11/2014;8;Rodolfo;11%;Cliente Nuevo;La Estancia
+351;23/08/2014;10;Valentina;13%;Cliente Repetido;La Paz
+352;22/01/2015;11;Ernesto;12%;Cliente Nuevo;Chapultepec
+353;15/12/2014;16;Omar;7%;Cliente Nuevo;Chapultepec
+354;29/10/2014;15;Saul;8%;Cliente Repetido;La Estancia
+355;18/06/2014;3;Ernesto;11%;Cliente Repetido;La Paz
+356;30/09/2014;7;Saul;10%;Cliente Nuevo;Chapultepec
+357;13/10/2014;7;Ernesto;5%;Cliente Repetido;La Estancia
+358;14/04/2014;15;Joel;16%;Cliente Repetido;Chapultepec
+359;23/05/2014;12;Omar;14%;Cliente Repetido;La Estancia
+360;01/04/2014;6;Rodolfo;15%;Cliente Repetido;Chapultepec
+361;04/07/2014;4;Alejandro;11%;Cliente Nuevo;Chapultepec
+362;19/07/2014;1;Saul;15%;Cliente Nuevo;Chapultepec
+363;15/12/2014;2;Mariana;6%;Cliente Repetido;La Estancia
+364;25/01/2015;15;Valentina;16%;Cliente Nuevo;La Paz
+365;06/08/2014;14;Saul;9%;Cliente Nuevo;Chapultepec
+366;13/02/2014;11;Joel;17%;Cliente Nuevo;Chapultepec
+367;01/10/2014;1;Joel;10%;Cliente Repetido;La Estancia
+368;12/01/2015;17;Omar;9%;Cliente Nuevo;La Paz
+369;20/02/2014;5;Omar;16%;Cliente Nuevo;La Paz
+370;24/11/2014;17;Mariana;14%;Cliente Repetido;La Paz
+371;01/04/2014;13;Ernesto;15%;Cliente Nuevo;La Estancia
+372;01/07/2014;16;Rodolfo;12%;Cliente Nuevo;La Estancia
+373;15/05/2014;2;Saul;10%;Cliente Nuevo;Chapultepec
+374;21/03/2014;9;Joel;12%;Cliente Nuevo;La Paz
+375;14/11/2014;14;Rodolfo;5%;Cliente Nuevo;La Paz
+376;12/07/2014;3;Alejandro;8%;Cliente Nuevo;Chapultepec
+377;15/12/2014;12;Valentina;9%;Cliente Repetido;La Estancia
+378;17/03/2014;9;Ernesto;17%;Cliente Nuevo;La Estancia
+379;16/05/2014;9;Valentina;5%;Cliente Nuevo;La Paz
+380;13/12/2014;5;Mariana;6%;Cliente Nuevo;La Estancia
+381;29/12/2014;12;Omar;13%;Cliente Repetido;La Paz
+382;01/11/2014;1;Rodolfo;13%;Cliente Nuevo;Chapultepec
+383;14/03/2014;4;Saul;5%;Cliente Nuevo;Chapultepec
+384;30/11/2014;5;Omar;13%;Cliente Nuevo;La Estancia
+385;03/07/2014;13;Joel;17%;Cliente Repetido;Chapultepec
+386;11/09/2014;5;Omar;17%;Cliente Repetido;La Paz
+387;02/04/2014;14;Omar;8%;Cliente Nuevo;La Estancia
+388;31/12/2014;15;Saul;13%;Cliente Nuevo;Chapultepec
+389;11/10/2014;14;Mauricio;20%;Cliente Nuevo;La Estancia
+390;18/06/2014;10;Saul;7%;Cliente Nuevo;La Estancia
+391;08/06/2014;12;Alejandro;12%;Cliente Nuevo;Chapultepec
+392;29/08/2014;17;Valentina;5%;Cliente Nuevo;La Paz
+393;11/07/2014;3;Joel;11%;Cliente Nuevo;La Paz
+394;16/07/2014;4;Mariana;10%;Cliente Nuevo;Chapultepec
+395;16/11/2014;9;Rodolfo;16%;Cliente Nuevo;La Estancia
+396;31/01/2015;15;Alejandro;7%;Cliente Repetido;Chapultepec
+397;20/02/2014;15;Rodolfo;17%;Cliente Repetido;La Paz
+398;14/03/2014;16;Mariana;17%;Cliente Nuevo;La Estancia
+399;02/08/2014;3;Mariana;6%;Cliente Nuevo;La Paz
+400;13/08/2014;13;Omar;15%;Cliente Repetido;La Paz
+401;05/02/2014;17;Alejandro;8%;Cliente Nuevo;La Paz
+402;18/04/2014;17;Rodolfo;9%;Cliente Nuevo;La Estancia
+403;04/03/2014;16;Mariana;13%;Cliente Nuevo;Chapultepec
+404;30/01/2015;16;Mauricio;20%;Cliente Nuevo;La Estancia
+405;25/10/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+406;01/07/2014;9;Mariana;14%;Cliente Nuevo;Chapultepec
+407;04/02/2014;2;Alejandro;9%;Cliente Repetido;La Paz
+408;02/08/2014;3;Saul;14%;Cliente Nuevo;La Paz
+409;27/10/2014;1;Alejandro;6%;Cliente Nuevo;La Paz
+410;31/05/2014;13;Joel;13%;Cliente Nuevo;La Estancia
+411;15/11/2014;17;Mauricio;20%;Cliente Nuevo;Chapultepec
+412;09/02/2014;10;Ernesto;7%;Cliente Repetido;Chapultepec
+413;30/10/2014;17;Joel;10%;Cliente Nuevo;Chapultepec
+414;11/08/2014;17;Rodolfo;14%;Cliente Nuevo;Chapultepec
+415;07/02/2014;5;Omar;17%;Cliente Nuevo;La Paz
+416;26/01/2015;5;Saul;14%;Cliente Nuevo;La Paz
+417;05/11/2014;6;Omar;16%;Cliente Nuevo;Chapultepec
+418;06/06/2014;1;Mariana;15%;Cliente Repetido;La Estancia
+419;25/08/2014;12;Rodolfo;7%;Cliente Repetido;La Estancia
+420;07/10/2014;15;Valentina;14%;Cliente Nuevo;La Paz
+421;07/07/2014;17;Saul;17%;Cliente Nuevo;La Paz
+422;09/04/2014;12;Joel;13%;Cliente Nuevo;La Estancia
+423;15/10/2014;8;Ernesto;5%;Cliente Nuevo;La Paz
+424;14/08/2014;6;Alejandro;6%;Cliente Repetido;Chapultepec
+425;04/11/2014;9;Saul;9%;Cliente Nuevo;La Estancia
+426;08/01/2015;11;Omar;11%;Cliente Nuevo;La Paz
+427;29/03/2014;6;Joel;10%;Cliente Repetido;La Paz
+428;18/05/2014;2;Saul;16%;Cliente Nuevo;Chapultepec
+429;14/08/2014;6;Joel;9%;Cliente Nuevo;La Estancia
+430;13/02/2014;10;Rodolfo;5%;Cliente Nuevo;La Estancia
+431;24/05/2014;12;Ernesto;10%;Cliente Nuevo;La Paz
+432;13/05/2014;4;Rodolfo;10%;Cliente Nuevo;La Paz
+433;08/07/2014;2;Joel;9%;Cliente Nuevo;La Paz
+434;24/01/2015;13;Joel;6%;Cliente Nuevo;Chapultepec
+435;08/09/2014;7;Alejandro;8%;Cliente Nuevo;La Estancia
+436;27/11/2014;10;Valentina;12%;Cliente Repetido;La Estancia
+437;24/04/2014;4;Joel;16%;Cliente Nuevo;La Paz
+438;11/09/2014;12;Mariana;11%;Cliente Nuevo;La Estancia
+439;22/03/2014;7;Valentina;13%;Cliente Nuevo;Chapultepec
+440;15/08/2014;2;Ernesto;16%;Cliente Repetido;La Paz
+441;20/02/2014;16;Saul;12%;Cliente Repetido;La Estancia
+442;15/03/2014;16;Alejandro;15%;Cliente Nuevo;La Paz
+443;20/11/2014;2;Joel;6%;Cliente Nuevo;Chapultepec
+444;10/07/2014;4;Ernesto;13%;Cliente Repetido;La Estancia
+445;01/09/2014;11;Valentina;15%;Cliente Repetido;La Estancia
+446;06/09/2014;15;Mauricio;20%;Cliente Nuevo;Chapultepec
+447;15/02/2014;13;Mariana;17%;Cliente Nuevo;La Paz
+448;11/11/2014;17;Joel;9%;Cliente Nuevo;La Paz
+449;15/11/2014;8;Mauricio;20%;Cliente Nuevo;La Paz
+450;19/12/2014;8;Rodolfo;8%;Cliente Nuevo;La Estancia
+451;21/12/2014;4;Saul;12%;Cliente Nuevo;La Paz
+452;09/10/2014;9;Valentina;10%;Cliente Nuevo;La Paz
+453;18/09/2014;9;Alejandro;13%;Cliente Repetido;Chapultepec
+454;31/03/2014;2;Alejandro;16%;Cliente Nuevo;La Paz
+455;22/07/2014;12;Mariana;5%;Cliente Nuevo;La Estancia
+456;21/05/2014;7;Rodolfo;12%;Cliente Nuevo;La Estancia
+457;21/07/2014;3;Omar;13%;Cliente Nuevo;La Paz
+458;21/12/2014;15;Saul;10%;Cliente Nuevo;Chapultepec
+459;14/05/2014;15;Ernesto;14%;Cliente Nuevo;Chapultepec
+460;28/12/2014;14;Mariana;11%;Cliente Nuevo;La Paz
+461;28/10/2014;17;Omar;11%;Cliente Repetido;Chapultepec
+462;28/04/2014;4;Joel;15%;Cliente Nuevo;Chapultepec
+463;19/08/2014;9;Saul;10%;Cliente Nuevo;Chapultepec
+464;14/04/2014;13;Joel;9%;Cliente Nuevo;La Estancia
+465;27/01/2015;11;Mariana;12%;Cliente Nuevo;La Estancia
+466;01/12/2014;1;Valentina;13%;Cliente Nuevo;Chapultepec
+467;14/09/2014;12;Saul;13%;Cliente Nuevo;Chapultepec
+468;09/04/2014;5;Rodolfo;16%;Cliente Repetido;Chapultepec
+469;08/05/2014;8;Ernesto;16%;Cliente Nuevo;Chapultepec
+470;20/09/2014;12;Rodolfo;8%;Cliente Nuevo;Chapultepec
+471;17/08/2014;5;Omar;14%;Cliente Repetido;La Paz
+472;19/11/2014;2;Valentina;9%;Cliente Nuevo;Chapultepec
+473;25/07/2014;12;Rodolfo;11%;Cliente Nuevo;La Estancia
+474;13/03/2014;12;Omar;15%;Cliente Nuevo;Chapultepec
+475;31/03/2014;3;Saul;16%;Cliente Nuevo;Chapultepec
+476;18/03/2014;14;Alejandro;10%;Cliente Nuevo;La Paz
+477;09/07/2014;2;Mariana;8%;Cliente Nuevo;Chapultepec
+478;26/10/2014;9;Valentina;12%;Cliente Nuevo;Chapultepec
+479;24/06/2014;10;Mariana;10%;Cliente Nuevo;La Estancia
+480;20/05/2014;4;Omar;5%;Cliente Nuevo;La Estancia
+481;31/10/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+482;10/04/2014;12;Joel;13%;Cliente Nuevo;La Estancia
+483;04/12/2014;17;Omar;16%;Cliente Repetido;La Estancia
+484;01/03/2014;17;Saul;11%;Cliente Nuevo;La Paz
+485;31/03/2014;9;Ernesto;7%;Cliente Repetido;La Estancia
+486;03/05/2014;11;Mariana;8%;Cliente Nuevo;Chapultepec
+487;11/04/2014;10;Joel;12%;Cliente Nuevo;La Paz
+488;26/11/2014;14;Joel;6%;Cliente Nuevo;La Paz
+489;29/10/2014;16;Ernesto;10%;Cliente Nuevo;Chapultepec
+490;31/08/2014;3;Joel;5%;Cliente Nuevo;Chapultepec
+491;28/06/2014;13;Saul;17%;Cliente Nuevo;La Paz
+492;31/07/2014;13;Alejandro;14%;Cliente Repetido;Chapultepec
+493;03/05/2014;8;Alejandro;8%;Cliente Nuevo;Chapultepec
+494;27/04/2014;9;Alejandro;16%;Cliente Nuevo;La Estancia
+495;14/09/2014;10;Saul;9%;Cliente Nuevo;La Paz
+496;15/11/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+497;08/07/2014;15;Joel;6%;Cliente Nuevo;La Paz
+498;20/12/2014;7;Mauricio;20%;Cliente Nuevo;La Estancia
+499;31/08/2014;2;Mariana;15%;Cliente Nuevo;La Estancia
+500;21/02/2014;12;Rodolfo;8%;Cliente Nuevo;La Paz
+501;23/04/2014;3;Saul;15%;Cliente Repetido;La Paz
+502;17/02/2014;7;Valentina;11%;Cliente Repetido;La Paz
+503;03/06/2014;14;Ernesto;17%;Cliente Repetido;La Paz
+504;28/04/2014;12;Joel;8%;Cliente Repetido;La Estancia
+505;21/05/2014;17;Ernesto;8%;Cliente Nuevo;Chapultepec
+506;03/08/2014;1;Saul;5%;Cliente Nuevo;La Estancia
+507;14/04/2014;8;Saul;7%;Cliente Nuevo;La Paz
+508;15/02/2014;1;Saul;16%;Cliente Nuevo;La Estancia
+509;01/02/2014;5;Valentina;17%;Cliente Nuevo;La Estancia
+510;29/08/2014;15;Joel;10%;Cliente Nuevo;La Estancia
+511;22/11/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+512;10/11/2014;15;Saul;5%;Cliente Nuevo;La Estancia
+513;25/11/2014;13;Omar;12%;Cliente Repetido;La Estancia
+514;06/07/2014;9;Ernesto;6%;Cliente Nuevo;La Paz
+515;21/11/2014;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+516;31/08/2014;10;Omar;14%;Cliente Repetido;Chapultepec
+517;10/09/2014;17;Saul;16%;Cliente Nuevo;La Estancia
+518;14/03/2014;4;Omar;14%;Cliente Nuevo;Chapultepec
+519;06/01/2015;2;Mariana;13%;Cliente Nuevo;La Estancia
+520;14/05/2014;8;Alejandro;5%;Cliente Nuevo;La Estancia
+521;20/09/2014;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+522;28/10/2014;5;Joel;17%;Cliente Repetido;La Estancia
+523;30/04/2014;11;Omar;11%;Cliente Repetido;La Paz
+524;17/01/2015;2;Mauricio;20%;Cliente Nuevo;La Estancia
+525;27/10/2014;1;Saul;9%;Cliente Nuevo;Chapultepec
+526;01/01/2015;16;Joel;7%;Cliente Repetido;Chapultepec
+527;08/05/2014;11;Alejandro;9%;Cliente Repetido;La Paz
+528;25/11/2014;1;Valentina;5%;Cliente Nuevo;La Estancia
+529;31/01/2015;6;Mauricio;20%;Cliente Nuevo;La Estancia
+530;10/12/2014;7;Saul;5%;Cliente Repetido;La Estancia
+531;22/02/2014;16;Rodolfo;17%;Cliente Repetido;Chapultepec
+532;28/12/2014;7;Rodolfo;11%;Cliente Nuevo;La Estancia
+533;16/04/2014;13;Alejandro;11%;Cliente Nuevo;Chapultepec
+534;04/09/2014;10;Ernesto;15%;Cliente Nuevo;La Paz
+535;13/06/2014;11;Alejandro;9%;Cliente Repetido;La Paz
+536;18/10/2014;11;Mauricio;20%;Cliente Nuevo;Chapultepec
+537;09/06/2014;12;Omar;16%;Cliente Repetido;La Estancia
+538;14/12/2014;11;Omar;15%;Cliente Nuevo;Chapultepec
+539;23/07/2014;14;Saul;10%;Cliente Nuevo;La Estancia
+540;16/04/2014;15;Saul;6%;Cliente Nuevo;Chapultepec
+541;18/08/2014;16;Joel;10%;Cliente Nuevo;Chapultepec
+542;13/09/2014;5;Mauricio;20%;Cliente Nuevo;Chapultepec
+543;18/07/2014;3;Valentina;8%;Cliente Nuevo;La Paz
+544;20/02/2014;4;Omar;8%;Cliente Repetido;La Paz
+545;15/02/2014;6;Mariana;15%;Cliente Nuevo;Chapultepec
+546;19/03/2014;10;Joel;6%;Cliente Nuevo;La Estancia
+547;07/08/2014;16;Mariana;14%;Cliente Nuevo;La Estancia
+548;21/05/2014;10;Valentina;8%;Cliente Nuevo;La Paz
+549;15/06/2014;5;Alejandro;8%;Cliente Nuevo;La Estancia
+550;09/05/2014;14;Valentina;8%;Cliente Nuevo;La Paz
+551;01/10/2014;1;Joel;12%;Cliente Nuevo;La Paz
+552;08/08/2014;2;Omar;15%;Cliente Nuevo;Chapultepec
+553;29/01/2015;14;Omar;10%;Cliente Repetido;Chapultepec
+554;23/04/2014;10;Rodolfo;5%;Cliente Repetido;La Paz
+555;18/05/2014;6;Valentina;9%;Cliente Repetido;Chapultepec
+556;12/11/2014;14;Joel;7%;Cliente Repetido;Chapultepec
+557;22/06/2014;8;Mariana;16%;Cliente Nuevo;La Estancia
+558;07/05/2014;17;Rodolfo;5%;Cliente Nuevo;Chapultepec
+559;09/04/2014;4;Omar;8%;Cliente Nuevo;La Estancia
+560;24/09/2014;11;Omar;16%;Cliente Repetido;Chapultepec
+561;17/08/2014;2;Omar;9%;Cliente Nuevo;La Paz
+562;02/02/2014;4;Alejandro;13%;Cliente Nuevo;La Paz
+563;25/02/2014;15;Rodolfo;14%;Cliente Nuevo;La Paz
+564;14/07/2014;16;Alejandro;15%;Cliente Nuevo;Chapultepec
+565;01/10/2014;3;Rodolfo;12%;Cliente Nuevo;Chapultepec
+566;04/11/2014;3;Ernesto;14%;Cliente Repetido;La Paz
+567;26/03/2014;14;Valentina;11%;Cliente Nuevo;La Estancia
+568;03/12/2014;11;Rodolfo;15%;Cliente Repetido;La Estancia
+569;20/10/2014;10;Ernesto;12%;Cliente Repetido;La Estancia
+570;06/12/2014;17;Mauricio;20%;Cliente Nuevo;La Estancia
+571;07/02/2014;7;Rodolfo;6%;Cliente Nuevo;Chapultepec
+572;30/07/2014;17;Saul;11%;Cliente Nuevo;La Paz
+573;17/09/2014;11;Omar;10%;Cliente Repetido;La Paz
+574;10/03/2014;4;Mariana;14%;Cliente Repetido;La Paz
+575;09/06/2014;17;Mariana;7%;Cliente Repetido;La Estancia
+576;27/08/2014;10;Valentina;16%;Cliente Nuevo;Chapultepec
+577;28/01/2015;13;Omar;17%;Cliente Repetido;Chapultepec
+578;01/04/2014;5;Omar;9%;Cliente Repetido;La Estancia
+579;24/02/2014;16;Rodolfo;9%;Cliente Nuevo;La Paz
+580;31/08/2014;6;Alejandro;8%;Cliente Nuevo;La Estancia
+581;29/04/2014;6;Omar;10%;Cliente Nuevo;La Estancia
+582;27/06/2014;8;Omar;13%;Cliente Nuevo;La Paz
+583;16/10/2014;8;Valentina;8%;Cliente Repetido;Chapultepec
+584;08/01/2015;17;Mariana;7%;Cliente Repetido;Chapultepec
+585;13/01/2015;1;Omar;16%;Cliente Repetido;La Estancia
+586;20/04/2014;11;Valentina;6%;Cliente Nuevo;La Paz
+587;26/02/2014;3;Ernesto;6%;Cliente Nuevo;La Paz
+588;19/09/2014;3;Mauricio;20%;Cliente Nuevo;Chapultepec
+589;07/07/2014;3;Saul;15%;Cliente Nuevo;La Estancia
+590;28/12/2014;7;Valentina;17%;Cliente Nuevo;Chapultepec
+591;19/12/2014;15;Mauricio;20%;Cliente Nuevo;Chapultepec
+592;21/07/2014;10;Joel;15%;Cliente Nuevo;La Estancia
+593;01/08/2014;7;Omar;8%;Cliente Nuevo;La Estancia
+594;22/03/2014;8;Rodolfo;11%;Cliente Repetido;Chapultepec
+595;02/06/2014;15;Omar;9%;Cliente Nuevo;La Estancia
+596;02/10/2014;11;Alejandro;7%;Cliente Nuevo;Chapultepec
+597;06/07/2014;7;Rodolfo;8%;Cliente Nuevo;La Paz
+598;18/12/2014;16;Mariana;5%;Cliente Nuevo;La Estancia
+599;14/02/2014;16;Joel;14%;Cliente Repetido;La Estancia
+600;25/05/2014;8;Mariana;10%;Cliente Repetido;La Estancia
+601;01/04/2014;4;Omar;16%;Cliente Repetido;La Paz
+602;01/11/2014;3;Mauricio;20%;Cliente Nuevo;La Paz
+603;14/10/2014;11;Joel;7%;Cliente Nuevo;Chapultepec
+604;27/12/2014;13;Mauricio;20%;Cliente Nuevo;La Estancia
+605;27/04/2014;15;Ernesto;5%;Cliente Repetido;La Estancia
+606;12/04/2014;15;Valentina;15%;Cliente Nuevo;La Estancia
+607;09/11/2014;13;Saul;15%;Cliente Nuevo;Chapultepec
+608;12/04/2014;3;Mariana;16%;Cliente Nuevo;Chapultepec
+609;18/04/2014;1;Alejandro;5%;Cliente Repetido;La Paz
+610;09/04/2014;17;Rodolfo;7%;Cliente Repetido;La Paz
+611;30/01/2015;8;Mauricio;20%;Cliente Nuevo;La Estancia
+612;26/05/2014;14;Ernesto;14%;Cliente Nuevo;Chapultepec
+613;14/12/2014;6;Omar;10%;Cliente Repetido;La Estancia
+614;06/04/2014;17;Mariana;13%;Cliente Repetido;La Paz
+615;24/03/2014;15;Omar;15%;Cliente Nuevo;Chapultepec
+616;30/08/2014;9;Valentina;11%;Cliente Nuevo;Chapultepec
+617;23/03/2014;7;Mariana;5%;Cliente Nuevo;Chapultepec
+618;13/04/2014;14;Ernesto;5%;Cliente Nuevo;La Estancia
+619;13/05/2014;12;Ernesto;11%;Cliente Nuevo;La Paz
+620;23/01/2015;12;Mauricio;20%;Cliente Nuevo;La Paz
+621;07/08/2014;9;Saul;11%;Cliente Nuevo;Chapultepec
+622;15/06/2014;4;Ernesto;17%;Cliente Nuevo;La Estancia
+623;07/06/2014;16;Valentina;9%;Cliente Nuevo;Chapultepec
+624;10/01/2015;7;Mauricio;20%;Cliente Nuevo;Chapultepec
+625;07/10/2014;6;Omar;11%;Cliente Repetido;La Estancia
+626;09/08/2014;12;Rodolfo;6%;Cliente Repetido;La Paz
+627;19/03/2014;14;Joel;8%;Cliente Repetido;La Estancia
+628;30/01/2015;10;Mauricio;20%;Cliente Nuevo;La Paz
+629;29/06/2014;8;Ernesto;13%;Cliente Nuevo;La Paz
+630;04/03/2014;14;Valentina;8%;Cliente Nuevo;Chapultepec
+631;22/06/2014;2;Mariana;8%;Cliente Repetido;Chapultepec
+632;26/08/2014;17;Mariana;6%;Cliente Nuevo;Chapultepec
+633;09/10/2014;7;Ernesto;7%;Cliente Nuevo;Chapultepec
+634;20/02/2014;6;Mariana;8%;Cliente Nuevo;Chapultepec
+635;16/10/2014;7;Rodolfo;17%;Cliente Repetido;La Paz
+636;25/09/2014;6;Joel;9%;Cliente Nuevo;La Estancia
+637;08/08/2014;2;Rodolfo;12%;Cliente Nuevo;La Estancia
+638;18/06/2014;9;Saul;7%;Cliente Repetido;Chapultepec
+639;20/05/2014;9;Joel;9%;Cliente Nuevo;La Estancia
+640;30/08/2014;11;Omar;6%;Cliente Nuevo;Chapultepec
+641;11/03/2014;10;Saul;8%;Cliente Nuevo;La Estancia
+642;26/10/2014;1;Alejandro;14%;Cliente Nuevo;La Paz
+643;25/04/2014;3;Rodolfo;8%;Cliente Nuevo;Chapultepec
+644;18/02/2014;2;Omar;9%;Cliente Nuevo;La Estancia
+645;31/07/2014;15;Alejandro;13%;Cliente Nuevo;La Paz
+646;03/11/2014;2;Saul;5%;Cliente Repetido;Chapultepec
+647;17/12/2014;4;Valentina;7%;Cliente Repetido;La Estancia
+648;15/08/2014;15;Omar;15%;Cliente Nuevo;La Estancia
+649;20/08/2014;4;Joel;8%;Cliente Nuevo;La Estancia
+650;05/03/2014;5;Omar;11%;Cliente Nuevo;La Estancia
+651;30/01/2015;8;Mauricio;20%;Cliente Nuevo;La Estancia
+652;05/10/2014;5;Saul;6%;Cliente Nuevo;La Estancia
+653;30/10/2014;10;Alejandro;8%;Cliente Nuevo;Chapultepec
+654;09/08/2014;12;Ernesto;13%;Cliente Nuevo;Chapultepec
+655;09/07/2014;9;Omar;13%;Cliente Nuevo;La Paz
+656;25/07/2014;14;Valentina;9%;Cliente Repetido;Chapultepec
+657;18/07/2014;15;Ernesto;5%;Cliente Repetido;Chapultepec
+658;10/07/2014;1;Ernesto;15%;Cliente Nuevo;La Estancia
+659;28/01/2015;3;Valentina;15%;Cliente Nuevo;La Estancia
+660;22/01/2015;14;Alejandro;14%;Cliente Repetido;La Paz
+661;24/03/2014;4;Omar;6%;Cliente Nuevo;La Paz
+662;31/12/2014;2;Ernesto;7%;Cliente Repetido;La Paz
+663;14/07/2014;2;Valentina;5%;Cliente Repetido;La Paz
+664;20/12/2014;12;Mauricio;20%;Cliente Nuevo;Chapultepec
+665;24/03/2014;17;Ernesto;9%;Cliente Repetido;La Estancia
+666;19/07/2014;3;Alejandro;12%;Cliente Nuevo;Chapultepec
+667;05/02/2014;14;Valentina;6%;Cliente Nuevo;La Estancia
+668;10/04/2014;12;Joel;10%;Cliente Repetido;Chapultepec
+669;05/08/2014;6;Saul;16%;Cliente Repetido;Chapultepec
+670;02/12/2014;5;Rodolfo;10%;Cliente Nuevo;Chapultepec
+671;17/10/2014;2;Mauricio;20%;Cliente Nuevo;La Paz
+672;15/07/2014;11;Alejandro;15%;Cliente Repetido;La Estancia
+673;12/05/2014;6;Mariana;5%;Cliente Repetido;Chapultepec
+674;22/10/2014;3;Valentina;11%;Cliente Nuevo;Chapultepec
+675;27/08/2014;17;Joel;7%;Cliente Nuevo;La Paz
+676;01/01/2015;7;Valentina;16%;Cliente Nuevo;La Paz
+677;01/03/2014;8;Ernesto;9%;Cliente Repetido;La Estancia
+678;23/10/2014;2;Valentina;13%;Cliente Nuevo;Chapultepec
+679;30/09/2014;6;Valentina;10%;Cliente Nuevo;La Paz
+680;01/10/2014;12;Rodolfo;9%;Cliente Nuevo;La Estancia
+681;14/04/2014;3;Joel;6%;Cliente Nuevo;La Estancia
+682;04/05/2014;3;Omar;17%;Cliente Repetido;La Estancia
+683;03/10/2014;5;Mauricio;20%;Cliente Nuevo;Chapultepec
+684;20/07/2014;14;Saul;15%;Cliente Repetido;La Paz
+685;31/01/2015;8;Mauricio;20%;Cliente Nuevo;Chapultepec
+686;29/05/2014;4;Alejandro;8%;Cliente Repetido;La Paz
+687;04/03/2014;7;Rodolfo;16%;Cliente Nuevo;La Estancia
+688;12/08/2014;10;Saul;15%;Cliente Nuevo;La Paz
+689;10/02/2014;17;Joel;17%;Cliente Nuevo;La Estancia
+690;02/08/2014;6;Saul;15%;Cliente Repetido;La Estancia
+691;26/12/2014;15;Mauricio;20%;Cliente Nuevo;La Paz
+692;23/12/2014;4;Ernesto;16%;Cliente Nuevo;La Estancia
+693;16/12/2014;10;Omar;11%;Cliente Nuevo;Chapultepec
+694;30/08/2014;9;Ernesto;8%;Cliente Nuevo;La Paz
+695;25/02/2014;16;Valentina;8%;Cliente Nuevo;La Paz
+696;14/04/2014;5;Valentina;6%;Cliente Nuevo;La Estancia
+697;12/12/2014;16;Mauricio;20%;Cliente Nuevo;Chapultepec
+698;08/04/2014;3;Omar;8%;Cliente Nuevo;La Paz
+699;20/05/2014;6;Ernesto;12%;Cliente Nuevo;La Estancia
+700;03/09/2014;8;Valentina;8%;Cliente Repetido;La Paz
+701;31/03/2014;15;Rodolfo;5%;Cliente Repetido;Chapultepec
+702;03/01/2015;17;Mauricio;20%;Cliente Nuevo;La Paz
+703;04/03/2014;11;Valentina;13%;Cliente Nuevo;Chapultepec
+704;28/11/2014;10;Mauricio;20%;Cliente Nuevo;La Estancia
+705;11/10/2014;10;Mauricio;20%;Cliente Nuevo;La Estancia
+706;23/06/2014;14;Ernesto;7%;Cliente Nuevo;La Paz
+707;22/05/2014;3;Ernesto;16%;Cliente Nuevo;La Paz
+708;10/09/2014;5;Rodolfo;17%;Cliente Nuevo;Chapultepec
+709;21/07/2014;17;Rodolfo;14%;Cliente Repetido;Chapultepec
+710;06/02/2014;17;Valentina;13%;Cliente Nuevo;Chapultepec
+711;28/12/2014;17;Joel;6%;Cliente Repetido;La Paz
+712;03/01/2015;14;Mauricio;20%;Cliente Nuevo;Chapultepec
+713;21/09/2014;13;Alejandro;12%;Cliente Nuevo;La Paz
+714;15/12/2014;8;Joel;13%;Cliente Nuevo;Chapultepec
+715;19/11/2014;16;Saul;15%;Cliente Nuevo;La Estancia
+716;05/04/2014;15;Omar;5%;Cliente Repetido;La Estancia
+717;23/01/2015;9;Mauricio;20%;Cliente Nuevo;La Estancia
+718;10/11/2014;4;Joel;15%;Cliente Nuevo;Chapultepec
+719;23/05/2014;9;Saul;14%;Cliente Nuevo;Chapultepec
+720;31/12/2014;11;Saul;6%;Cliente Nuevo;Chapultepec
+721;03/10/2014;14;Mauricio;20%;Cliente Nuevo;La Paz
+722;10/07/2014;16;Alejandro;11%;Cliente Nuevo;La Estancia
+723;30/04/2014;2;Valentina;9%;Cliente Repetido;La Estancia
+724;26/01/2015;14;Ernesto;5%;Cliente Nuevo;La Paz
+725;25/01/2015;8;Mariana;17%;Cliente Nuevo;Chapultepec
+726;20/06/2014;8;Alejandro;15%;Cliente Nuevo;La Estancia
+727;07/06/2014;4;Alejandro;12%;Cliente Nuevo;La Paz
+728;02/04/2014;4;Joel;15%;Cliente Nuevo;Chapultepec
+729;12/09/2014;13;Mauricio;20%;Cliente Nuevo;Chapultepec
+730;17/11/2014;11;Ernesto;12%;Cliente Repetido;La Estancia
+731;16/05/2014;1;Ernesto;14%;Cliente Repetido;La Paz
+732;15/05/2014;5;Saul;9%;Cliente Nuevo;La Estancia
+733;19/09/2014;8;Mauricio;20%;Cliente Nuevo;La Paz
+734;27/02/2014;10;Joel;9%;Cliente Repetido;Chapultepec
+735;13/08/2014;9;Ernesto;16%;Cliente Nuevo;Chapultepec
+736;03/09/2014;5;Omar;5%;Cliente Repetido;Chapultepec
+737;22/03/2014;4;Valentina;17%;Cliente Nuevo;Chapultepec
+738;12/01/2015;12;Ernesto;16%;Cliente Repetido;La Paz
+739;13/06/2014;7;Joel;12%;Cliente Nuevo;Chapultepec
+740;15/09/2014;2;Joel;11%;Cliente Repetido;Chapultepec
+741;23/10/2014;17;Mariana;13%;Cliente Nuevo;Chapultepec
+742;04/08/2014;3;Alejandro;9%;Cliente Repetido;Chapultepec
+743;02/05/2014;8;Alejandro;10%;Cliente Nuevo;La Estancia
+744;25/08/2014;16;Mariana;12%;Cliente Nuevo;La Paz
+745;25/01/2015;3;Mariana;13%;Cliente Repetido;La Estancia
+746;01/11/2014;3;Mauricio;20%;Cliente Nuevo;Chapultepec
+747;22/05/2014;13;Alejandro;15%;Cliente Nuevo;Chapultepec
+748;05/06/2014;14;Alejandro;6%;Cliente Nuevo;Chapultepec
+749;19/03/2014;14;Ernesto;16%;Cliente Nuevo;La Paz
+750;18/05/2014;3;Omar;5%;Cliente Nuevo;Chapultepec
+751;07/10/2014;14;Alejandro;11%;Cliente Repetido;La Paz
+752;13/06/2014;5;Mariana;9%;Cliente Nuevo;Chapultepec
+753;07/01/2015;5;Omar;16%;Cliente Repetido;La Estancia
+754;22/06/2014;3;Ernesto;15%;Cliente Repetido;Chapultepec
+755;06/08/2014;5;Joel;14%;Cliente Nuevo;Chapultepec
+756;23/03/2014;12;Omar;16%;Cliente Nuevo;La Estancia
+757;21/02/2014;9;Omar;6%;Cliente Repetido;La Paz
+758;06/01/2015;1;Omar;8%;Cliente Nuevo;La Paz
+759;05/01/2015;6;Alejandro;7%;Cliente Nuevo;La Estancia
+760;18/10/2014;3;Mauricio;20%;Cliente Nuevo;Chapultepec
+761;14/06/2014;13;Ernesto;9%;Cliente Repetido;Chapultepec
+762;06/10/2014;9;Ernesto;13%;Cliente Nuevo;Chapultepec
+763;12/09/2014;15;Mauricio;20%;Cliente Nuevo;La Paz
+764;04/11/2014;5;Alejandro;16%;Cliente Nuevo;La Estancia
+765;24/02/2014;10;Valentina;10%;Cliente Nuevo;Chapultepec
+766;31/12/2014;10;Valentina;6%;Cliente Nuevo;Chapultepec
+767;09/11/2014;16;Omar;13%;Cliente Nuevo;Chapultepec
+768;31/03/2014;12;Joel;12%;Cliente Nuevo;Chapultepec
+769;28/07/2014;16;Omar;8%;Cliente Nuevo;Chapultepec
+770;03/10/2014;6;Mauricio;20%;Cliente Nuevo;La Paz
+771;16/08/2014;11;Alejandro;16%;Cliente Nuevo;Chapultepec
+772;26/07/2014;6;Mariana;12%;Cliente Nuevo;La Estancia
+773;06/01/2015;1;Omar;11%;Cliente Nuevo;La Estancia
+774;23/08/2014;14;Omar;9%;Cliente Nuevo;La Estancia
+775;18/10/2014;13;Mauricio;20%;Cliente Nuevo;Chapultepec
+776;14/06/2014;2;Mariana;12%;Cliente Nuevo;La Estancia
+777;16/10/2014;17;Ernesto;9%;Cliente Nuevo;La Paz
+778;05/01/2015;17;Ernesto;12%;Cliente Repetido;La Paz
+779;16/10/2014;2;Joel;9%;Cliente Nuevo;La Estancia
+780;03/03/2014;11;Rodolfo;13%;Cliente Nuevo;La Estancia
+781;08/07/2014;13;Saul;8%;Cliente Nuevo;Chapultepec
+782;04/11/2014;3;Saul;14%;Cliente Nuevo;La Estancia
+783;03/04/2014;2;Valentina;17%;Cliente Nuevo;Chapultepec
+784;05/05/2014;2;Ernesto;7%;Cliente Nuevo;Chapultepec
+785;21/02/2014;13;Joel;13%;Cliente Repetido;La Estancia
+786;06/04/2014;16;Saul;17%;Cliente Nuevo;Chapultepec
+787;22/04/2014;15;Joel;6%;Cliente Repetido;La Paz
+788;18/02/2014;13;Valentina;5%;Cliente Repetido;La Paz
+789;08/05/2014;5;Alejandro;15%;Cliente Nuevo;Chapultepec
+790;27/11/2014;14;Mariana;6%;Cliente Nuevo;Chapultepec
+791;30/01/2015;13;Mauricio;20%;Cliente Nuevo;La Estancia
+792;13/12/2014;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+793;26/03/2014;11;Saul;8%;Cliente Nuevo;La Estancia
+794;12/03/2014;8;Mariana;10%;Cliente Repetido;Chapultepec
+795;03/11/2014;4;Omar;5%;Cliente Nuevo;La Paz
+796;08/07/2014;11;Alejandro;10%;Cliente Nuevo;La Estancia
+797;06/07/2014;11;Joel;12%;Cliente Nuevo;Chapultepec
+798;29/03/2014;14;Mariana;14%;Cliente Nuevo;La Paz
+799;13/08/2014;15;Rodolfo;17%;Cliente Nuevo;Chapultepec
+800;11/02/2014;16;Ernesto;11%;Cliente Repetido;La Paz
+801;25/08/2014;3;Joel;9%;Cliente Repetido;La Estancia
+802;27/04/2014;16;Rodolfo;10%;Cliente Nuevo;La Paz
+803;06/01/2015;8;Joel;16%;Cliente Repetido;La Paz
+804;05/10/2014;11;Alejandro;9%;Cliente Repetido;Chapultepec
+805;25/04/2014;10;Saul;17%;Cliente Nuevo;La Estancia
+806;16/11/2014;14;Joel;15%;Cliente Nuevo;La Paz
+807;07/08/2014;6;Rodolfo;17%;Cliente Nuevo;Chapultepec
+808;14/01/2015;13;Ernesto;10%;Cliente Repetido;La Paz
+809;07/04/2014;2;Joel;17%;Cliente Nuevo;Chapultepec
+810;15/09/2014;3;Valentina;17%;Cliente Repetido;Chapultepec
+811;05/05/2014;16;Mariana;11%;Cliente Repetido;La Paz
+812;24/09/2014;1;Joel;11%;Cliente Nuevo;La Estancia
+813;01/09/2014;13;Alejandro;6%;Cliente Nuevo;La Estancia
+814;30/07/2014;5;Ernesto;17%;Cliente Nuevo;La Estancia
+815;16/05/2014;7;Rodolfo;17%;Cliente Nuevo;La Estancia
+816;18/11/2014;17;Rodolfo;11%;Cliente Nuevo;La Paz
+817;19/11/2014;6;Joel;12%;Cliente Nuevo;La Estancia
+818;28/10/2014;3;Saul;13%;Cliente Nuevo;La Paz
+819;28/11/2014;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+820;27/10/2014;16;Rodolfo;6%;Cliente Repetido;La Estancia
+821;29/05/2014;6;Valentina;9%;Cliente Nuevo;La Paz
+822;21/12/2014;4;Alejandro;8%;Cliente Nuevo;La Estancia
+823;29/06/2014;12;Ernesto;16%;Cliente Nuevo;La Estancia
+824;11/02/2014;3;Ernesto;11%;Cliente Repetido;Chapultepec
+825;10/04/2014;17;Mariana;16%;Cliente Nuevo;La Paz
+826;24/05/2014;4;Alejandro;6%;Cliente Nuevo;La Estancia
+827;31/05/2014;11;Valentina;11%;Cliente Nuevo;Chapultepec
+828;11/02/2014;10;Joel;10%;Cliente Nuevo;Chapultepec
+829;16/03/2014;4;Valentina;17%;Cliente Nuevo;Chapultepec
+830;04/10/2014;13;Ernesto;8%;Cliente Nuevo;La Paz
+831;30/06/2014;2;Mariana;12%;Cliente Nuevo;La Paz
+832;15/06/2014;17;Rodolfo;16%;Cliente Nuevo;La Estancia
+833;15/10/2014;13;Joel;17%;Cliente Nuevo;Chapultepec
+834;21/01/2015;9;Omar;9%;Cliente Repetido;La Paz
+835;06/06/2014;6;Valentina;10%;Cliente Repetido;Chapultepec
+836;31/10/2014;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+837;22/02/2014;10;Mariana;9%;Cliente Nuevo;La Estancia
+838;04/04/2014;12;Alejandro;6%;Cliente Nuevo;La Estancia
+839;23/07/2014;7;Rodolfo;7%;Cliente Repetido;La Estancia
+840;08/04/2014;7;Saul;8%;Cliente Nuevo;Chapultepec
+841;18/04/2014;16;Omar;8%;Cliente Nuevo;La Paz
+842;14/10/2014;8;Saul;12%;Cliente Nuevo;Chapultepec
+843;14/04/2014;3;Joel;10%;Cliente Nuevo;La Paz
+844;29/05/2014;12;Ernesto;10%;Cliente Nuevo;La Estancia
+845;27/06/2014;3;Valentina;6%;Cliente Repetido;La Paz
+846;17/07/2014;6;Valentina;16%;Cliente Nuevo;Chapultepec
+847;05/02/2014;13;Saul;14%;Cliente Nuevo;La Paz
+848;18/11/2014;15;Rodolfo;10%;Cliente Nuevo;La Estancia
+849;07/03/2014;11;Mariana;5%;Cliente Nuevo;La Paz
+850;05/05/2014;5;Saul;11%;Cliente Repetido;Chapultepec
+851;18/12/2014;2;Joel;15%;Cliente Repetido;La Estancia
+852;17/09/2014;6;Rodolfo;17%;Cliente Nuevo;La Paz
+853;11/06/2014;17;Alejandro;11%;Cliente Repetido;La Estancia
+854;09/07/2014;12;Ernesto;7%;Cliente Nuevo;Chapultepec
+855;30/01/2015;9;Mauricio;20%;Cliente Nuevo;La Estancia
+856;04/04/2014;12;Rodolfo;10%;Cliente Nuevo;La Paz
+857;13/05/2014;7;Omar;15%;Cliente Nuevo;Chapultepec
+858;21/09/2014;8;Ernesto;5%;Cliente Repetido;La Paz
+859;17/04/2014;3;Alejandro;8%;Cliente Nuevo;Chapultepec
+860;30/04/2014;2;Mariana;10%;Cliente Repetido;La Estancia
+861;11/09/2014;2;Omar;11%;Cliente Nuevo;La Paz
+862;06/01/2015;8;Mariana;15%;Cliente Nuevo;La Paz
+863;09/10/2014;7;Joel;15%;Cliente Nuevo;La Paz
+864;18/12/2014;17;Alejandro;7%;Cliente Nuevo;Chapultepec
+865;09/09/2014;7;Rodolfo;15%;Cliente Repetido;La Estancia
+866;17/05/2014;15;Omar;6%;Cliente Repetido;Chapultepec
+867;06/04/2014;17;Omar;13%;Cliente Nuevo;La Estancia
+868;14/08/2014;9;Ernesto;10%;Cliente Nuevo;Chapultepec
+869;10/09/2014;4;Mariana;12%;Cliente Nuevo;La Estancia
+870;10/06/2014;14;Rodolfo;13%;Cliente Nuevo;Chapultepec
+871;12/11/2014;11;Mariana;7%;Cliente Repetido;La Paz
+872;23/03/2014;8;Valentina;13%;Cliente Nuevo;La Estancia
+873;23/06/2014;1;Ernesto;5%;Cliente Repetido;La Paz
+874;26/01/2015;1;Saul;17%;Cliente Nuevo;La Estancia
+875;16/12/2014;8;Ernesto;6%;Cliente Nuevo;La Estancia
+876;27/09/2014;14;Mauricio;20%;Cliente Nuevo;La Paz
+877;22/07/2014;1;Rodolfo;5%;Cliente Nuevo;Chapultepec
+878;31/10/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+879;12/06/2014;17;Valentina;16%;Cliente Nuevo;La Estancia
+880;17/03/2014;13;Saul;12%;Cliente Nuevo;Chapultepec
+881;03/07/2014;12;Valentina;17%;Cliente Nuevo;La Paz
+882;23/12/2014;14;Alejandro;13%;Cliente Nuevo;Chapultepec
+883;20/10/2014;3;Rodolfo;14%;Cliente Nuevo;La Estancia
+884;24/03/2014;12;Joel;15%;Cliente Repetido;Chapultepec
+885;09/12/2014;5;Omar;13%;Cliente Repetido;Chapultepec
+886;19/12/2014;5;Mauricio;20%;Cliente Nuevo;La Paz
+887;24/11/2014;14;Omar;13%;Cliente Nuevo;La Paz
+888;03/10/2014;2;Mauricio;20%;Cliente Nuevo;La Paz
+889;17/12/2014;11;Ernesto;17%;Cliente Nuevo;La Estancia
+890;01/09/2014;4;Saul;13%;Cliente Nuevo;La Estancia
+891;01/08/2014;12;Omar;10%;Cliente Repetido;Chapultepec
+892;21/06/2014;1;Ernesto;12%;Cliente Repetido;La Estancia
+893;19/04/2014;1;Ernesto;6%;Cliente Nuevo;Chapultepec
+894;16/03/2014;10;Omar;8%;Cliente Nuevo;La Estancia
+895;09/11/2014;16;Valentina;12%;Cliente Nuevo;La Estancia
+896;17/09/2014;8;Ernesto;9%;Cliente Nuevo;La Estancia
+897;21/04/2014;9;Ernesto;15%;Cliente Repetido;Chapultepec
+898;13/03/2014;15;Joel;17%;Cliente Nuevo;Chapultepec
+899;29/08/2014;5;Mariana;6%;Cliente Repetido;La Estancia
+900;20/09/2014;14;Mauricio;20%;Cliente Nuevo;Chapultepec
+901;13/11/2014;5;Alejandro;12%;Cliente Repetido;La Paz
+902;02/12/2014;8;Ernesto;12%;Cliente Nuevo;La Estancia
+903;09/10/2014;17;Rodolfo;13%;Cliente Nuevo;La Paz
+904;09/12/2014;16;Saul;12%;Cliente Nuevo;Chapultepec
+905;08/03/2014;11;Alejandro;15%;Cliente Repetido;La Estancia
+906;14/01/2015;5;Rodolfo;6%;Cliente Nuevo;Chapultepec
+907;25/06/2014;6;Ernesto;12%;Cliente Nuevo;La Paz
+908;10/09/2014;14;Rodolfo;12%;Cliente Nuevo;Chapultepec
+909;08/04/2014;6;Rodolfo;13%;Cliente Repetido;La Estancia
+910;02/01/2015;6;Mauricio;20%;Cliente Nuevo;La Paz
+911;04/05/2014;1;Ernesto;15%;Cliente Nuevo;La Paz
+912;23/06/2014;8;Valentina;11%;Cliente Nuevo;Chapultepec
+913;29/03/2014;7;Ernesto;17%;Cliente Nuevo;Chapultepec
+914;07/07/2014;14;Alejandro;11%;Cliente Nuevo;La Paz
+915;19/02/2014;11;Ernesto;15%;Cliente Nuevo;La Estancia
+916;24/03/2014;1;Mariana;16%;Cliente Nuevo;Chapultepec
+917;03/04/2014;11;Joel;5%;Cliente Nuevo;La Paz
+918;01/07/2014;15;Rodolfo;8%;Cliente Nuevo;Chapultepec
+919;18/03/2014;3;Joel;12%;Cliente Nuevo;La Estancia
+920;01/09/2014;14;Rodolfo;13%;Cliente Nuevo;Chapultepec
+921;25/05/2014;4;Ernesto;6%;Cliente Repetido;La Paz
+922;29/07/2014;9;Ernesto;7%;Cliente Nuevo;Chapultepec
+923;09/02/2014;9;Alejandro;17%;Cliente Nuevo;Chapultepec
+924;21/10/2014;8;Joel;16%;Cliente Nuevo;Chapultepec
+925;01/12/2014;7;Valentina;16%;Cliente Nuevo;La Estancia
+926;01/05/2014;15;Alejandro;12%;Cliente Repetido;Chapultepec
+927;17/12/2014;6;Rodolfo;17%;Cliente Nuevo;La Estancia
+928;25/08/2014;11;Omar;13%;Cliente Repetido;La Paz
+929;30/11/2014;3;Saul;14%;Cliente Nuevo;La Estancia
+930;08/04/2014;8;Mariana;15%;Cliente Repetido;Chapultepec
+931;19/07/2014;2;Mariana;5%;Cliente Nuevo;La Paz
+932;23/10/2014;10;Joel;13%;Cliente Nuevo;La Estancia
+933;18/11/2014;16;Rodolfo;9%;Cliente Nuevo;Chapultepec
+934;16/09/2014;3;Alejandro;8%;Cliente Nuevo;Chapultepec
+935;14/02/2014;11;Alejandro;13%;Cliente Nuevo;Chapultepec
+936;22/09/2014;7;Ernesto;14%;Cliente Nuevo;La Estancia
+937;14/07/2014;4;Alejandro;6%;Cliente Nuevo;Chapultepec
+938;09/04/2014;15;Valentina;16%;Cliente Nuevo;La Paz
+939;28/05/2014;7;Rodolfo;14%;Cliente Nuevo;La Paz
+940;17/02/2014;4;Joel;16%;Cliente Nuevo;Chapultepec
+941;27/07/2014;5;Ernesto;16%;Cliente Nuevo;La Paz
+942;28/08/2014;7;Valentina;15%;Cliente Nuevo;La Estancia
+943;31/03/2014;11;Ernesto;6%;Cliente Nuevo;La Estancia
+944;31/07/2014;2;Joel;7%;Cliente Nuevo;La Paz
+945;22/05/2014;12;Joel;10%;Cliente Nuevo;La Estancia
+946;05/04/2014;5;Omar;17%;Cliente Nuevo;La Estancia
+947;14/10/2014;15;Omar;7%;Cliente Nuevo;Chapultepec
+948;24/09/2014;10;Joel;10%;Cliente Nuevo;La Estancia
+949;23/03/2014;7;Omar;8%;Cliente Nuevo;La Estancia
+950;11/11/2014;3;Mariana;7%;Cliente Nuevo;La Paz
+951;06/12/2014;8;Mauricio;20%;Cliente Nuevo;La Paz
+952;04/02/2014;1;Joel;5%;Cliente Nuevo;La Estancia
+953;09/08/2014;5;Mariana;10%;Cliente Repetido;La Estancia
+954;05/08/2014;14;Ernesto;15%;Cliente Nuevo;Chapultepec
+955;29/04/2014;15;Saul;9%;Cliente Nuevo;La Estancia
+956;05/07/2014;8;Saul;6%;Cliente Nuevo;La Estancia
+957;02/04/2014;16;Valentina;17%;Cliente Repetido;La Paz
+958;27/10/2014;8;Joel;11%;Cliente Repetido;La Paz
+959;26/02/2014;11;Ernesto;9%;Cliente Nuevo;Chapultepec
+960;21/04/2014;8;Saul;17%;Cliente Repetido;La Estancia
+961;12/11/2014;10;Alejandro;7%;Cliente Repetido;Chapultepec
+962;24/02/2014;13;Valentina;5%;Cliente Nuevo;La Paz
+963;04/07/2014;7;Alejandro;13%;Cliente Repetido;Chapultepec
+964;10/04/2014;16;Alejandro;8%;Cliente Nuevo;La Estancia
+965;31/10/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+966;11/08/2014;9;Rodolfo;17%;Cliente Repetido;La Paz
+967;22/01/2015;12;Saul;7%;Cliente Nuevo;La Paz
+968;15/04/2014;14;Ernesto;7%;Cliente Repetido;La Estancia
+969;05/06/2014;4;Valentina;15%;Cliente Nuevo;La Paz
+970;15/07/2014;1;Valentina;13%;Cliente Nuevo;Chapultepec
+971;06/04/2014;10;Saul;17%;Cliente Nuevo;La Paz
+972;25/02/2014;7;Ernesto;17%;Cliente Nuevo;La Paz
+973;03/05/2014;3;Joel;11%;Cliente Repetido;La Estancia
+974;19/07/2014;7;Joel;15%;Cliente Nuevo;La Estancia
+975;17/11/2014;10;Omar;14%;Cliente Repetido;La Paz
+976;26/04/2014;16;Alejandro;17%;Cliente Repetido;La Estancia
+977;07/12/2014;7;Omar;13%;Cliente Repetido;La Estancia
+978;31/08/2014;14;Alejandro;17%;Cliente Nuevo;La Estancia
+979;29/03/2014;12;Saul;15%;Cliente Repetido;Chapultepec
+980;07/10/2014;6;Saul;13%;Cliente Repetido;La Paz
+981;30/06/2014;9;Alejandro;7%;Cliente Repetido;La Paz
+982;08/08/2014;5;Valentina;13%;Cliente Nuevo;La Estancia
+983;27/07/2014;1;Joel;5%;Cliente Nuevo;Chapultepec
+984;11/07/2014;12;Valentina;16%;Cliente Nuevo;La Estancia
+985;23/07/2014;8;Ernesto;13%;Cliente Repetido;La Paz
+986;20/04/2014;17;Valentina;12%;Cliente Repetido;La Paz
+987;22/04/2014;6;Saul;6%;Cliente Repetido;Chapultepec
+988;22/06/2014;12;Omar;15%;Cliente Nuevo;La Estancia
+989;07/08/2014;2;Omar;12%;Cliente Repetido;La Estancia
+990;13/07/2014;13;Joel;13%;Cliente Repetido;La Estancia
+991;31/03/2014;1;Saul;15%;Cliente Repetido;Chapultepec
+992;14/02/2014;7;Joel;11%;Cliente Nuevo;La Paz
+993;21/10/2014;2;Valentina;11%;Cliente Nuevo;La Estancia
+994;09/07/2014;11;Omar;14%;Cliente Nuevo;Chapultepec
+995;27/11/2014;10;Omar;12%;Cliente Repetido;La Estancia
+996;07/01/2015;2;Mariana;14%;Cliente Nuevo;La Estancia
+997;12/06/2014;17;Mariana;5%;Cliente Nuevo;La Paz
+998;20/06/2014;4;Saul;17%;Cliente Nuevo;La Estancia
+999;14/08/2014;12;Ernesto;15%;Cliente Repetido;La Paz
+1000;19/11/2014;2;Rodolfo;11%;Cliente Repetido;La Estancia
+1001;16/04/2014;7;Mariana;13%;Cliente Repetido;Chapultepec
+1002;04/03/2014;12;Alejandro;13%;Cliente Nuevo;Chapultepec
+1003;16/11/2014;9;Saul;16%;Cliente Nuevo;La Estancia
+1004;06/06/2014;6;Saul;16%;Cliente Repetido;Chapultepec
+1005;29/09/2014;3;Valentina;12%;Cliente Nuevo;La Estancia
+1006;16/12/2014;2;Mariana;15%;Cliente Nuevo;La Estancia
+1007;09/09/2014;12;Saul;12%;Cliente Repetido;La Estancia
+1008;24/11/2014;10;Rodolfo;5%;Cliente Nuevo;La Estancia
+1009;22/07/2014;16;Alejandro;16%;Cliente Repetido;Chapultepec
+1010;04/07/2014;17;Ernesto;5%;Cliente Nuevo;La Paz
+1011;06/12/2014;12;Mauricio;20%;Cliente Nuevo;La Estancia
+1012;01/11/2014;14;Mauricio;20%;Cliente Nuevo;Chapultepec
+1013;30/09/2014;17;Rodolfo;7%;Cliente Nuevo;Chapultepec
+1014;10/09/2014;17;Ernesto;10%;Cliente Repetido;Chapultepec
+1015;15/10/2014;5;Alejandro;14%;Cliente Nuevo;La Paz
+1016;08/05/2014;3;Rodolfo;6%;Cliente Repetido;La Paz
+1017;13/08/2014;5;Joel;10%;Cliente Nuevo;La Paz
+1018;29/09/2014;10;Omar;14%;Cliente Nuevo;La Paz
+1019;18/10/2014;10;Mauricio;20%;Cliente Nuevo;La Paz
+1020;31/07/2014;7;Joel;5%;Cliente Repetido;La Estancia
+1021;16/05/2014;13;Saul;9%;Cliente Nuevo;La Estancia
+1022;10/08/2014;12;Valentina;10%;Cliente Repetido;La Estancia
+1023;30/01/2015;14;Alejandro;9%;Cliente Repetido;La Paz
+1024;10/07/2014;12;Mariana;9%;Cliente Nuevo;La Paz
+1025;06/10/2014;10;Saul;16%;Cliente Nuevo;La Estancia
+1026;18/05/2014;15;Rodolfo;8%;Cliente Nuevo;La Paz
+1027;08/11/2014;12;Mauricio;20%;Cliente Nuevo;La Paz
+1028;02/11/2014;16;Valentina;12%;Cliente Nuevo;La Estancia
+1029;04/05/2014;8;Saul;12%;Cliente Repetido;La Paz
+1030;23/09/2014;12;Valentina;5%;Cliente Nuevo;La Paz
+1031;01/11/2014;7;Ernesto;17%;Cliente Nuevo;Chapultepec
+1032;12/03/2014;8;Alejandro;8%;Cliente Nuevo;La Paz
+1033;23/10/2014;10;Saul;10%;Cliente Nuevo;La Estancia
+1034;06/06/2014;3;Mariana;7%;Cliente Nuevo;Chapultepec
+1035;20/02/2014;14;Mariana;9%;Cliente Nuevo;La Paz
+1036;31/05/2014;17;Saul;11%;Cliente Repetido;La Estancia
+1037;06/02/2014;12;Valentina;8%;Cliente Nuevo;La Paz
+1038;03/12/2014;11;Mariana;17%;Cliente Nuevo;La Paz
+1039;10/05/2014;9;Joel;15%;Cliente Nuevo;La Paz
+1040;16/04/2014;7;Mariana;6%;Cliente Repetido;La Estancia
+1041;05/08/2014;3;Omar;14%;Cliente Nuevo;La Estancia
+1042;07/02/2014;13;Joel;15%;Cliente Nuevo;La Estancia
+1043;23/11/2014;1;Valentina;11%;Cliente Repetido;La Paz
+1044;15/03/2014;2;Ernesto;10%;Cliente Nuevo;La Paz
+1045;10/11/2014;16;Joel;8%;Cliente Nuevo;La Estancia
+1046;24/05/2014;7;Omar;17%;Cliente Nuevo;La Paz
+1047;12/10/2014;15;Alejandro;10%;Cliente Repetido;Chapultepec
+1048;01/03/2014;17;Ernesto;15%;Cliente Repetido;La Paz
+1049;10/04/2014;9;Mariana;17%;Cliente Repetido;La Paz
+1050;08/11/2014;9;Rodolfo;12%;Cliente Repetido;Chapultepec
+1051;09/05/2014;4;Alejandro;16%;Cliente Repetido;Chapultepec
+1052;05/05/2014;15;Joel;6%;Cliente Nuevo;La Estancia
+1053;18/02/2014;10;Mariana;7%;Cliente Nuevo;Chapultepec
+1054;17/11/2014;8;Omar;17%;Cliente Repetido;La Estancia
+1055;02/01/2015;10;Mauricio;20%;Cliente Nuevo;La Paz
+1056;17/02/2014;11;Valentina;8%;Cliente Nuevo;La Estancia
+1057;22/02/2014;11;Ernesto;9%;Cliente Nuevo;La Estancia
+1058;24/04/2014;15;Alejandro;12%;Cliente Nuevo;La Paz
+1059;07/01/2015;13;Omar;9%;Cliente Repetido;Chapultepec
+1060;05/09/2014;12;Mauricio;20%;Cliente Nuevo;La Estancia
+1061;24/04/2014;7;Rodolfo;10%;Cliente Repetido;La Estancia
+1062;29/11/2014;2;Mauricio;20%;Cliente Nuevo;La Paz
+1063;19/01/2015;1;Omar;15%;Cliente Nuevo;La Paz
+1064;28/10/2014;7;Rodolfo;17%;Cliente Nuevo;Chapultepec
+1065;21/11/2014;11;Rodolfo;9%;Cliente Nuevo;Chapultepec
+1066;01/01/2015;16;Omar;12%;Cliente Nuevo;Chapultepec
+1067;11/04/2014;10;Ernesto;11%;Cliente Nuevo;La Paz
+1068;09/09/2014;15;Joel;8%;Cliente Nuevo;Chapultepec
+1069;24/03/2014;4;Alejandro;13%;Cliente Repetido;La Estancia
+1070;29/07/2014;12;Omar;13%;Cliente Nuevo;Chapultepec
+1071;04/07/2014;10;Joel;12%;Cliente Nuevo;Chapultepec
+1072;13/03/2014;2;Rodolfo;17%;Cliente Nuevo;La Estancia
+1073;19/07/2014;13;Saul;9%;Cliente Repetido;La Estancia
+1074;11/02/2014;16;Valentina;15%;Cliente Repetido;Chapultepec
+1075;29/12/2014;2;Rodolfo;15%;Cliente Nuevo;La Estancia
+1076;20/04/2014;13;Omar;16%;Cliente Nuevo;La Estancia
+1077;22/10/2014;7;Valentina;7%;Cliente Nuevo;Chapultepec
+1078;28/06/2014;6;Alejandro;9%;Cliente Nuevo;Chapultepec
+1079;01/05/2014;9;Saul;15%;Cliente Nuevo;Chapultepec
+1080;05/09/2014;2;Mauricio;20%;Cliente Nuevo;Chapultepec
+1081;12/01/2015;4;Ernesto;14%;Cliente Nuevo;Chapultepec
+1082;30/04/2014;6;Ernesto;17%;Cliente Repetido;Chapultepec
+1083;07/02/2014;3;Omar;11%;Cliente Repetido;Chapultepec
+1084;18/07/2014;6;Valentina;12%;Cliente Nuevo;Chapultepec
+1085;29/03/2014;14;Omar;6%;Cliente Repetido;La Estancia
+1086;11/01/2015;14;Joel;5%;Cliente Nuevo;La Paz
+1087;04/02/2014;13;Joel;9%;Cliente Nuevo;La Paz
+1088;26/09/2014;2;Joel;5%;Cliente Repetido;La Estancia
+1089;29/06/2014;3;Mariana;8%;Cliente Nuevo;Chapultepec
+1090;14/04/2014;17;Valentina;16%;Cliente Nuevo;La Paz
+1091;19/02/2014;14;Mariana;7%;Cliente Repetido;La Estancia
+1092;12/12/2014;2;Alejandro;7%;Cliente Nuevo;La Paz
+1093;09/09/2014;11;Ernesto;15%;Cliente Nuevo;La Estancia
+1094;25/07/2014;5;Valentina;15%;Cliente Repetido;Chapultepec
+1095;03/11/2014;5;Mariana;11%;Cliente Nuevo;La Estancia
+1096;09/06/2014;12;Valentina;6%;Cliente Repetido;Chapultepec
+1097;08/01/2015;2;Valentina;6%;Cliente Nuevo;La Paz
+1098;16/11/2014;10;Mariana;16%;Cliente Nuevo;Chapultepec
+1099;08/06/2014;4;Ernesto;10%;Cliente Nuevo;La Paz
+1100;07/07/2014;9;Valentina;10%;Cliente Repetido;La Paz
+1101;25/02/2014;14;Joel;10%;Cliente Nuevo;La Paz
+1102;16/10/2014;12;Alejandro;7%;Cliente Nuevo;La Paz
+1103;24/10/2014;2;Mauricio;20%;Cliente Nuevo;La Estancia
+1104;03/06/2014;1;Rodolfo;16%;Cliente Nuevo;La Estancia
+1105;22/09/2014;9;Joel;16%;Cliente Nuevo;La Paz
+1106;24/06/2014;1;Rodolfo;9%;Cliente Nuevo;La Estancia
+1107;07/03/2014;15;Omar;8%;Cliente Repetido;La Paz
+1108;11/07/2014;9;Valentina;5%;Cliente Nuevo;La Estancia
+1109;04/04/2014;6;Mariana;5%;Cliente Nuevo;La Paz
+1110;03/11/2014;17;Joel;12%;Cliente Repetido;Chapultepec
+1111;16/11/2014;7;Omar;16%;Cliente Nuevo;La Estancia
+1112;13/09/2014;2;Mauricio;20%;Cliente Nuevo;La Estancia
+1113;06/12/2014;7;Alejandro;7%;Cliente Nuevo;La Estancia
+1114;18/12/2014;10;Rodolfo;11%;Cliente Nuevo;Chapultepec
+1115;01/06/2014;14;Mariana;11%;Cliente Nuevo;La Paz
+1116;07/10/2014;14;Valentina;8%;Cliente Nuevo;La Paz
+1117;10/09/2014;9;Saul;5%;Cliente Nuevo;Chapultepec
+1118;24/09/2014;14;Alejandro;8%;Cliente Nuevo;La Estancia
+1119;21/12/2014;13;Ernesto;11%;Cliente Repetido;Chapultepec
+1120;07/10/2014;4;Omar;13%;Cliente Nuevo;La Estancia
+1121;25/09/2014;6;Ernesto;12%;Cliente Nuevo;La Estancia
+1122;19/03/2014;1;Rodolfo;14%;Cliente Nuevo;La Paz
+1123;10/01/2015;5;Mauricio;20%;Cliente Nuevo;La Estancia
+1124;17/01/2015;7;Alejandro;5%;Cliente Repetido;Chapultepec
+1125;27/10/2014;11;Saul;14%;Cliente Nuevo;La Estancia
+1126;29/09/2014;3;Ernesto;10%;Cliente Nuevo;La Estancia
+1127;03/01/2015;5;Mauricio;20%;Cliente Nuevo;La Paz
+1128;25/07/2014;7;Valentina;10%;Cliente Repetido;La Paz
+1129;14/11/2014;6;Mauricio;20%;Cliente Nuevo;La Paz
+1130;21/08/2014;10;Alejandro;12%;Cliente Repetido;La Estancia
+1131;16/04/2014;14;Mariana;12%;Cliente Repetido;Chapultepec
+1132;02/06/2014;14;Omar;10%;Cliente Nuevo;Chapultepec
+1133;01/10/2014;17;Joel;11%;Cliente Nuevo;La Estancia
+1134;25/06/2014;6;Rodolfo;7%;Cliente Nuevo;Chapultepec
+1135;26/04/2014;2;Ernesto;13%;Cliente Nuevo;La Paz
+1136;25/12/2014;2;Mariana;11%;Cliente Nuevo;La Estancia
+1137;25/05/2014;4;Joel;11%;Cliente Nuevo;La Paz
+1138;14/09/2014;13;Alejandro;7%;Cliente Repetido;Chapultepec
+1139;02/08/2014;14;Valentina;13%;Cliente Nuevo;La Estancia
+1140;28/06/2014;8;Joel;6%;Cliente Nuevo;La Estancia
+1141;13/04/2014;15;Mariana;12%;Cliente Nuevo;La Paz
+1142;17/07/2014;17;Ernesto;12%;Cliente Nuevo;La Estancia
+1143;10/12/2014;17;Rodolfo;13%;Cliente Nuevo;La Estancia
+1144;07/08/2014;10;Alejandro;10%;Cliente Nuevo;La Estancia
+1145;22/03/2014;11;Joel;14%;Cliente Nuevo;La Estancia
+1146;04/03/2014;7;Mariana;8%;Cliente Repetido;Chapultepec
+1147;06/12/2014;1;Saul;13%;Cliente Repetido;La Paz
+1148;01/06/2014;1;Mariana;15%;Cliente Nuevo;La Estancia
+1149;28/04/2014;2;Alejandro;9%;Cliente Nuevo;Chapultepec
+1150;17/07/2014;5;Valentina;6%;Cliente Repetido;La Estancia
+1151;27/05/2014;5;Omar;14%;Cliente Nuevo;Chapultepec
+1152;27/12/2014;12;Ernesto;6%;Cliente Nuevo;La Paz
+1153;04/09/2014;17;Omar;16%;Cliente Nuevo;Chapultepec
+1154;22/04/2014;7;Saul;5%;Cliente Repetido;Chapultepec
+1155;27/11/2014;14;Saul;10%;Cliente Nuevo;La Paz
+1156;11/06/2014;4;Saul;12%;Cliente Nuevo;La Estancia
+1157;04/07/2014;13;Ernesto;6%;Cliente Nuevo;Chapultepec
+1158;10/09/2014;10;Mariana;15%;Cliente Nuevo;La Estancia
+1159;17/08/2014;7;Mariana;5%;Cliente Repetido;La Paz
+1160;28/07/2014;11;Alejandro;7%;Cliente Nuevo;La Paz
+1161;01/03/2014;17;Rodolfo;17%;Cliente Nuevo;Chapultepec
+1162;17/07/2014;3;Alejandro;5%;Cliente Nuevo;La Paz
+1163;16/07/2014;7;Valentina;15%;Cliente Nuevo;La Paz
+1164;30/04/2014;13;Rodolfo;10%;Cliente Nuevo;La Estancia
+1165;02/03/2014;12;Valentina;16%;Cliente Nuevo;La Estancia
+1166;11/08/2014;6;Ernesto;16%;Cliente Nuevo;La Estancia
+1167;28/02/2014;10;Mariana;9%;Cliente Nuevo;La Paz
+1168;22/03/2014;16;Mariana;6%;Cliente Nuevo;Chapultepec
+1169;07/11/2014;14;Rodolfo;13%;Cliente Repetido;Chapultepec
+1170;29/10/2014;6;Joel;10%;Cliente Nuevo;Chapultepec
+1171;28/03/2014;11;Ernesto;10%;Cliente Nuevo;Chapultepec
+1172;10/07/2014;8;Ernesto;16%;Cliente Repetido;Chapultepec
+1173;31/12/2014;11;Valentina;16%;Cliente Nuevo;Chapultepec
+1174;25/12/2014;5;Alejandro;8%;Cliente Nuevo;Chapultepec
+1175;03/10/2014;2;Mauricio;20%;Cliente Nuevo;La Estancia
+1176;29/11/2014;12;Alejandro;14%;Cliente Nuevo;La Estancia
+1177;04/02/2014;14;Mariana;17%;Cliente Nuevo;La Paz
+1178;04/09/2014;16;Mariana;13%;Cliente Nuevo;La Estancia
+1179;29/05/2014;3;Rodolfo;6%;Cliente Nuevo;La Paz
+1180;06/06/2014;11;Ernesto;12%;Cliente Nuevo;La Estancia
+1181;02/09/2014;6;Mariana;15%;Cliente Repetido;Chapultepec
+1182;14/09/2014;8;Mariana;17%;Cliente Nuevo;La Estancia
+1183;02/06/2014;3;Mariana;6%;Cliente Repetido;La Estancia
+1184;10/07/2014;13;Ernesto;16%;Cliente Repetido;Chapultepec
+1185;11/05/2014;17;Ernesto;5%;Cliente Nuevo;Chapultepec
+1186;06/02/2014;10;Omar;5%;Cliente Nuevo;Chapultepec
+1187;30/08/2014;4;Valentina;16%;Cliente Repetido;La Estancia
+1188;11/07/2014;7;Saul;17%;Cliente Nuevo;La Paz
+1189;24/05/2014;9;Alejandro;11%;Cliente Repetido;La Estancia
+1190;13/12/2014;6;Mauricio;20%;Cliente Nuevo;La Estancia
+1191;31/05/2014;12;Valentina;15%;Cliente Repetido;Chapultepec
+1192;10/01/2015;11;Saul;10%;Cliente Repetido;Chapultepec
+1193;14/04/2014;2;Alejandro;6%;Cliente Nuevo;Chapultepec
+1194;01/03/2014;10;Mariana;11%;Cliente Nuevo;La Paz
+1195;15/06/2014;9;Omar;7%;Cliente Nuevo;Chapultepec
+1196;21/06/2014;10;Omar;6%;Cliente Nuevo;Chapultepec
+1197;04/02/2014;7;Saul;11%;Cliente Nuevo;La Estancia
+1198;13/05/2014;3;Omar;5%;Cliente Nuevo;La Estancia
+1199;15/09/2014;14;Valentina;6%;Cliente Nuevo;La Paz
+1200;29/07/2014;16;Saul;12%;Cliente Nuevo;La Estancia
+1201;23/01/2015;10;Omar;12%;Cliente Nuevo;La Estancia
+1202;13/02/2014;2;Alejandro;15%;Cliente Nuevo;La Paz
+1203;15/12/2014;17;Ernesto;14%;Cliente Nuevo;La Paz
+1204;10/01/2015;1;Saul;11%;Cliente Nuevo;La Paz
+1205;19/02/2014;16;Rodolfo;13%;Cliente Nuevo;La Paz
+1206;19/10/2014;4;Rodolfo;17%;Cliente Repetido;Chapultepec
+1207;16/09/2014;2;Ernesto;11%;Cliente Nuevo;La Estancia
+1208;03/05/2014;6;Omar;16%;Cliente Repetido;La Paz
+1209;09/05/2014;12;Omar;16%;Cliente Nuevo;La Paz
+1210;03/02/2014;7;Mariana;15%;Cliente Nuevo;Chapultepec
+1211;22/08/2014;8;Ernesto;15%;Cliente Nuevo;La Estancia
+1212;04/05/2014;2;Ernesto;5%;Cliente Repetido;Chapultepec
+1213;29/09/2014;13;Rodolfo;5%;Cliente Nuevo;Chapultepec
+1214;06/12/2014;15;Mariana;9%;Cliente Nuevo;La Estancia
+1215;29/06/2014;14;Ernesto;15%;Cliente Repetido;Chapultepec
+1216;25/09/2014;14;Omar;16%;Cliente Nuevo;Chapultepec
+1217;01/04/2014;6;Rodolfo;8%;Cliente Repetido;La Paz
+1218;05/10/2014;10;Valentina;6%;Cliente Nuevo;Chapultepec
+1219;17/05/2014;7;Alejandro;9%;Cliente Nuevo;La Estancia
+1220;25/03/2014;9;Omar;10%;Cliente Nuevo;La Estancia
+1221;16/08/2014;2;Alejandro;13%;Cliente Nuevo;La Estancia
+1222;14/12/2014;3;Ernesto;8%;Cliente Nuevo;La Paz
+1223;16/01/2015;9;Saul;7%;Cliente Nuevo;La Estancia
+1224;17/06/2014;8;Omar;17%;Cliente Nuevo;Chapultepec
+1225;06/06/2014;7;Saul;13%;Cliente Nuevo;La Paz
+1226;07/09/2014;15;Rodolfo;8%;Cliente Nuevo;Chapultepec
+1227;10/11/2014;12;Omar;12%;Cliente Nuevo;Chapultepec
+1228;28/12/2014;16;Mariana;5%;Cliente Nuevo;Chapultepec
+1229;13/11/2014;3;Alejandro;14%;Cliente Nuevo;La Paz
+1230;10/06/2014;7;Ernesto;9%;Cliente Repetido;La Estancia
+1231;26/10/2014;15;Joel;9%;Cliente Repetido;La Paz
+1232;19/06/2014;11;Valentina;5%;Cliente Nuevo;La Paz
+1233;25/06/2014;8;Valentina;10%;Cliente Nuevo;Chapultepec
+1234;22/12/2014;12;Rodolfo;15%;Cliente Nuevo;Chapultepec
+1235;15/04/2014;6;Joel;14%;Cliente Nuevo;Chapultepec
+1236;24/04/2014;2;Mariana;9%;Cliente Nuevo;Chapultepec
+1237;10/09/2014;12;Valentina;11%;Cliente Nuevo;La Estancia
+1238;04/07/2014;9;Saul;16%;Cliente Nuevo;La Paz
+1239;03/09/2014;8;Joel;12%;Cliente Nuevo;Chapultepec
+1240;16/06/2014;8;Rodolfo;15%;Cliente Nuevo;La Estancia
+1241;01/03/2014;12;Mariana;16%;Cliente Repetido;Chapultepec
+1242;21/03/2014;6;Saul;15%;Cliente Repetido;La Estancia
+1243;25/04/2014;10;Mariana;17%;Cliente Repetido;Chapultepec
+1244;26/01/2015;17;Mariana;14%;Cliente Nuevo;La Paz
+1245;02/05/2014;2;Valentina;10%;Cliente Nuevo;Chapultepec
+1246;23/12/2014;5;Ernesto;14%;Cliente Nuevo;La Paz
+1247;04/01/2015;5;Saul;10%;Cliente Nuevo;La Paz
+1248;10/10/2014;7;Mauricio;20%;Cliente Nuevo;La Estancia
+1249;29/01/2015;7;Saul;5%;Cliente Nuevo;La Paz
+1250;05/03/2014;8;Rodolfo;11%;Cliente Nuevo;La Paz
+1251;26/12/2014;9;Saul;10%;Cliente Nuevo;La Estancia
+1252;16/12/2014;9;Alejandro;15%;Cliente Nuevo;La Paz
+1253;06/07/2014;12;Rodolfo;17%;Cliente Nuevo;Chapultepec
+1254;06/11/2014;8;Rodolfo;11%;Cliente Repetido;La Paz
+1255;01/07/2014;16;Saul;7%;Cliente Nuevo;La Paz
+1256;05/08/2014;14;Mariana;11%;Cliente Repetido;La Paz
+1257;24/06/2014;13;Alejandro;16%;Cliente Repetido;La Paz
+1258;24/07/2014;3;Alejandro;6%;Cliente Repetido;Chapultepec
+1259;22/03/2014;1;Joel;13%;Cliente Repetido;La Estancia
+1260;11/02/2014;14;Mariana;5%;Cliente Nuevo;Chapultepec
+1261;25/09/2014;16;Omar;12%;Cliente Nuevo;Chapultepec
+1262;25/10/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+1263;30/06/2014;11;Omar;7%;Cliente Repetido;La Paz
+1264;22/06/2014;16;Joel;12%;Cliente Nuevo;La Paz
+1265;27/01/2015;10;Saul;15%;Cliente Nuevo;Chapultepec
+1266;12/02/2014;15;Omar;6%;Cliente Repetido;La Paz
+1267;03/01/2015;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+1268;08/09/2014;11;Rodolfo;8%;Cliente Repetido;Chapultepec
+1269;12/03/2014;15;Omar;11%;Cliente Nuevo;La Paz
+1270;11/06/2014;12;Mariana;6%;Cliente Nuevo;La Paz
+1271;24/09/2014;3;Valentina;6%;Cliente Nuevo;Chapultepec
+1272;20/04/2014;8;Omar;15%;Cliente Nuevo;La Estancia
+1273;07/04/2014;9;Rodolfo;5%;Cliente Repetido;La Paz
+1274;10/06/2014;15;Saul;17%;Cliente Nuevo;La Estancia
+1275;26/10/2014;13;Ernesto;11%;Cliente Nuevo;La Estancia
+1276;27/04/2014;11;Alejandro;12%;Cliente Repetido;La Estancia
+1277;19/12/2014;15;Valentina;16%;Cliente Nuevo;La Estancia
+1278;22/03/2014;17;Rodolfo;12%;Cliente Nuevo;La Paz
+1279;16/11/2014;3;Rodolfo;10%;Cliente Nuevo;La Paz
+1280;17/08/2014;15;Rodolfo;12%;Cliente Nuevo;La Paz
+1281;16/12/2014;14;Ernesto;10%;Cliente Nuevo;La Paz
+1282;10/11/2014;17;Alejandro;15%;Cliente Nuevo;La Paz
+1283;25/03/2014;9;Omar;13%;Cliente Nuevo;La Paz
+1284;12/08/2014;6;Alejandro;8%;Cliente Nuevo;Chapultepec
+1285;26/09/2014;6;Mariana;6%;Cliente Nuevo;Chapultepec
+1286;04/06/2014;15;Mariana;14%;Cliente Nuevo;Chapultepec
+1287;16/12/2014;6;Ernesto;5%;Cliente Repetido;Chapultepec
+1288;13/01/2015;6;Omar;12%;Cliente Nuevo;Chapultepec
+1289;13/07/2014;4;Saul;6%;Cliente Nuevo;La Paz
+1290;20/12/2014;8;Mariana;15%;Cliente Repetido;La Paz
+1291;15/05/2014;8;Mariana;13%;Cliente Repetido;La Estancia
+1292;07/01/2015;17;Joel;15%;Cliente Repetido;La Paz
+1293;27/04/2014;3;Saul;14%;Cliente Nuevo;La Paz
+1294;28/01/2015;10;Valentina;6%;Cliente Repetido;La Paz
+1295;02/01/2015;8;Mauricio;20%;Cliente Nuevo;La Estancia
+1296;28/08/2014;7;Valentina;14%;Cliente Nuevo;La Paz
+1297;21/07/2014;12;Saul;15%;Cliente Nuevo;La Estancia
+1298;30/03/2014;11;Omar;13%;Cliente Repetido;Chapultepec
+1299;25/07/2014;10;Omar;6%;Cliente Nuevo;La Estancia
+1300;12/05/2014;13;Ernesto;17%;Cliente Repetido;Chapultepec
+1301;21/07/2014;14;Valentina;10%;Cliente Nuevo;La Paz
+1302;29/10/2014;16;Mariana;7%;Cliente Repetido;La Paz
+1303;03/02/2014;17;Alejandro;10%;Cliente Nuevo;Chapultepec
+1304;11/12/2014;14;Rodolfo;11%;Cliente Nuevo;La Estancia
+1305;29/05/2014;1;Alejandro;12%;Cliente Nuevo;La Paz
+1306;01/08/2014;2;Mariana;10%;Cliente Nuevo;La Estancia
+1307;13/01/2015;12;Ernesto;5%;Cliente Repetido;La Estancia
+1308;20/08/2014;3;Rodolfo;8%;Cliente Repetido;La Paz
+1309;10/12/2014;9;Ernesto;11%;Cliente Nuevo;La Paz
+1310;06/03/2014;10;Alejandro;6%;Cliente Nuevo;Chapultepec
+1311;27/08/2014;3;Rodolfo;11%;Cliente Nuevo;Chapultepec
+1312;24/04/2014;13;Mariana;16%;Cliente Nuevo;Chapultepec
+1313;21/09/2014;13;Alejandro;14%;Cliente Nuevo;La Paz
+1314;06/01/2015;6;Omar;15%;Cliente Nuevo;Chapultepec
+1315;05/09/2014;1;Mauricio;20%;Cliente Nuevo;Chapultepec
+1316;08/02/2014;14;Ernesto;17%;Cliente Nuevo;La Estancia
+1317;20/05/2014;15;Joel;15%;Cliente Repetido;La Paz
+1318;31/01/2015;8;Mauricio;20%;Cliente Nuevo;La Paz
+1319;20/01/2015;17;Ernesto;17%;Cliente Nuevo;La Paz
+1320;02/06/2014;11;Ernesto;9%;Cliente Nuevo;La Estancia
+1321;19/06/2014;10;Mariana;8%;Cliente Repetido;La Estancia
+1322;09/03/2014;12;Valentina;11%;Cliente Nuevo;Chapultepec
+1323;27/01/2015;2;Ernesto;11%;Cliente Nuevo;La Estancia
+1324;25/04/2014;17;Alejandro;17%;Cliente Nuevo;Chapultepec
+1325;13/07/2014;10;Saul;9%;Cliente Nuevo;Chapultepec
+1326;30/12/2014;9;Mariana;12%;Cliente Nuevo;La Estancia
+1327;30/03/2014;4;Omar;17%;Cliente Nuevo;Chapultepec
+1328;16/02/2014;5;Omar;15%;Cliente Repetido;Chapultepec
+1329;29/11/2014;5;Mauricio;20%;Cliente Nuevo;La Paz
+1330;01/10/2014;2;Valentina;5%;Cliente Repetido;La Paz
+1331;27/12/2014;6;Valentina;14%;Cliente Nuevo;La Estancia
+1332;29/10/2014;11;Saul;15%;Cliente Nuevo;Chapultepec
+1333;16/05/2014;17;Rodolfo;12%;Cliente Repetido;La Paz
+1334;31/08/2014;10;Valentina;15%;Cliente Nuevo;La Estancia
+1335;20/11/2014;16;Ernesto;11%;Cliente Repetido;La Paz
+1336;19/01/2015;9;Mariana;7%;Cliente Nuevo;La Estancia
+1337;08/07/2014;9;Rodolfo;13%;Cliente Nuevo;La Estancia
+1338;17/01/2015;13;Joel;5%;Cliente Repetido;La Estancia
+1339;05/04/2014;9;Omar;7%;Cliente Nuevo;La Estancia
+1340;18/07/2014;14;Omar;13%;Cliente Nuevo;La Paz
+1341;20/06/2014;14;Ernesto;9%;Cliente Nuevo;La Estancia
+1342;25/04/2014;6;Joel;16%;Cliente Repetido;La Estancia
+1343;23/12/2014;16;Omar;10%;Cliente Repetido;La Estancia
+1344;18/12/2014;7;Alejandro;6%;Cliente Nuevo;La Estancia
+1345;27/03/2014;1;Saul;6%;Cliente Repetido;Chapultepec
+1346;01/07/2014;17;Mariana;8%;Cliente Nuevo;Chapultepec
+1347;16/09/2014;5;Mariana;13%;Cliente Repetido;La Estancia
+1348;02/02/2014;3;Alejandro;15%;Cliente Nuevo;La Paz
+1349;02/09/2014;10;Joel;17%;Cliente Nuevo;La Estancia
+1350;14/02/2014;2;Joel;16%;Cliente Nuevo;Chapultepec
+1351;20/07/2014;8;Alejandro;12%;Cliente Nuevo;Chapultepec
+1352;13/04/2014;7;Rodolfo;8%;Cliente Repetido;Chapultepec
+1353;30/03/2014;17;Alejandro;7%;Cliente Nuevo;La Estancia
+1354;05/06/2014;9;Rodolfo;10%;Cliente Nuevo;La Estancia
+1355;26/05/2014;6;Joel;9%;Cliente Nuevo;La Paz
+1356;12/05/2014;14;Rodolfo;7%;Cliente Repetido;La Estancia
+1357;19/04/2014;1;Omar;14%;Cliente Repetido;La Paz
+1358;08/09/2014;10;Valentina;13%;Cliente Nuevo;La Paz
+1359;15/06/2014;14;Joel;14%;Cliente Nuevo;La Estancia
+1360;01/03/2014;14;Alejandro;15%;Cliente Nuevo;Chapultepec
+1361;19/06/2014;2;Omar;8%;Cliente Nuevo;La Paz
+1362;26/01/2015;11;Valentina;11%;Cliente Nuevo;Chapultepec
+1363;13/06/2014;8;Joel;16%;Cliente Repetido;Chapultepec
+1364;17/11/2014;15;Alejandro;12%;Cliente Repetido;Chapultepec
+1365;03/06/2014;4;Saul;6%;Cliente Repetido;La Paz
+1366;13/02/2014;3;Ernesto;14%;Cliente Repetido;La Paz
+1367;28/08/2014;9;Rodolfo;12%;Cliente Nuevo;Chapultepec
+1368;25/04/2014;17;Omar;8%;Cliente Repetido;Chapultepec
+1369;24/03/2014;15;Joel;16%;Cliente Repetido;La Paz
+1370;22/02/2014;3;Rodolfo;7%;Cliente Repetido;La Paz
+1371;10/06/2014;12;Ernesto;14%;Cliente Repetido;La Paz
+1372;06/11/2014;15;Ernesto;10%;Cliente Nuevo;La Paz
+1373;02/08/2014;16;Ernesto;7%;Cliente Nuevo;Chapultepec
+1374;07/06/2014;2;Joel;10%;Cliente Nuevo;Chapultepec
+1375;08/12/2014;6;Saul;14%;Cliente Repetido;Chapultepec
+1376;17/12/2014;11;Joel;15%;Cliente Nuevo;Chapultepec
+1377;28/11/2014;16;Omar;15%;Cliente Nuevo;Chapultepec
+1378;28/03/2014;7;Mariana;9%;Cliente Nuevo;La Paz
+1379;21/11/2014;6;Saul;17%;Cliente Nuevo;Chapultepec
+1380;25/11/2014;2;Mariana;13%;Cliente Nuevo;La Paz
+1381;22/11/2014;9;Saul;7%;Cliente Nuevo;Chapultepec
+1382;25/11/2014;11;Omar;12%;Cliente Repetido;La Estancia
+1383;24/02/2014;5;Rodolfo;14%;Cliente Nuevo;La Estancia
+1384;04/11/2014;4;Rodolfo;10%;Cliente Nuevo;La Paz
+1385;15/12/2014;10;Joel;17%;Cliente Repetido;Chapultepec
+1386;13/10/2014;11;Omar;6%;Cliente Nuevo;La Estancia
+1387;20/10/2014;15;Joel;7%;Cliente Nuevo;La Estancia
+1388;08/09/2014;5;Mariana;8%;Cliente Repetido;La Paz
+1389;21/03/2014;9;Mariana;10%;Cliente Repetido;La Paz
+1390;14/10/2014;6;Joel;15%;Cliente Nuevo;La Estancia
+1391;12/03/2014;1;Valentina;5%;Cliente Nuevo;La Estancia
+1392;08/09/2014;8;Alejandro;8%;Cliente Nuevo;La Paz
+1393;31/07/2014;12;Omar;15%;Cliente Nuevo;La Paz
+1394;22/05/2014;2;Ernesto;7%;Cliente Nuevo;La Paz
+1395;05/01/2015;6;Joel;11%;Cliente Nuevo;La Paz
+1396;04/12/2014;4;Rodolfo;11%;Cliente Nuevo;Chapultepec
+1397;15/03/2014;8;Omar;8%;Cliente Nuevo;Chapultepec
+1398;12/07/2014;7;Saul;16%;Cliente Nuevo;La Estancia
+1399;30/10/2014;6;Valentina;6%;Cliente Nuevo;La Paz
+1400;20/10/2014;12;Valentina;12%;Cliente Nuevo;Chapultepec
+1401;08/01/2015;16;Saul;13%;Cliente Nuevo;La Estancia
+1402;07/06/2014;4;Omar;16%;Cliente Repetido;La Estancia
+1403;24/09/2014;14;Mariana;8%;Cliente Nuevo;La Paz
+1404;12/03/2014;15;Rodolfo;13%;Cliente Repetido;La Paz
+1405;12/09/2014;8;Mauricio;20%;Cliente Nuevo;Chapultepec
+1406;22/06/2014;8;Ernesto;13%;Cliente Nuevo;La Estancia
+1407;25/03/2014;3;Joel;11%;Cliente Repetido;Chapultepec
+1408;22/02/2014;13;Omar;11%;Cliente Nuevo;La Estancia
+1409;11/08/2014;16;Saul;16%;Cliente Nuevo;La Estancia
+1410;19/12/2014;11;Joel;16%;Cliente Nuevo;La Estancia
+1411;26/07/2014;1;Joel;15%;Cliente Repetido;Chapultepec
+1412;04/06/2014;11;Saul;13%;Cliente Nuevo;Chapultepec
+1413;24/11/2014;10;Mariana;5%;Cliente Nuevo;La Estancia
+1414;25/09/2014;11;Rodolfo;6%;Cliente Nuevo;La Paz
+1415;19/09/2014;3;Joel;8%;Cliente Nuevo;La Paz
+1416;13/06/2014;10;Joel;14%;Cliente Nuevo;La Estancia
+1417;05/07/2014;3;Rodolfo;13%;Cliente Nuevo;La Paz
+1418;18/10/2014;13;Ernesto;15%;Cliente Nuevo;La Estancia
+1419;25/10/2014;5;Ernesto;7%;Cliente Nuevo;Chapultepec
+1420;29/08/2014;15;Saul;11%;Cliente Nuevo;La Paz
+1421;03/04/2014;3;Alejandro;12%;Cliente Nuevo;La Paz
+1422;01/08/2014;14;Saul;6%;Cliente Repetido;La Estancia
+1423;23/10/2014;14;Joel;10%;Cliente Nuevo;La Paz
+1424;02/09/2014;15;Mariana;12%;Cliente Nuevo;La Estancia
+1425;08/01/2015;1;Omar;12%;Cliente Nuevo;La Paz
+1426;01/03/2014;1;Omar;8%;Cliente Nuevo;La Estancia
+1427;12/05/2014;14;Rodolfo;13%;Cliente Nuevo;La Paz
+1428;09/01/2015;1;Mauricio;20%;Cliente Nuevo;La Estancia
+1429;30/12/2014;13;Mariana;16%;Cliente Nuevo;La Paz
+1430;03/02/2014;2;Valentina;15%;Cliente Nuevo;Chapultepec
+1431;01/05/2014;15;Joel;8%;Cliente Nuevo;Chapultepec
+1432;27/09/2014;9;Saul;13%;Cliente Repetido;La Estancia
+1433;09/10/2014;15;Valentina;10%;Cliente Repetido;Chapultepec
+1434;02/02/2014;3;Joel;8%;Cliente Repetido;La Paz
+1435;06/01/2015;8;Valentina;10%;Cliente Nuevo;La Estancia
+1436;25/12/2014;17;Omar;16%;Cliente Nuevo;La Estancia
+1437;17/01/2015;10;Rodolfo;9%;Cliente Nuevo;Chapultepec
+1438;11/03/2014;11;Rodolfo;12%;Cliente Nuevo;La Estancia
+1439;16/03/2014;17;Saul;13%;Cliente Nuevo;Chapultepec
+1440;25/10/2014;6;Mauricio;20%;Cliente Nuevo;Chapultepec
+1441;13/03/2014;3;Rodolfo;10%;Cliente Nuevo;La Paz
+1442;10/03/2014;16;Valentina;13%;Cliente Nuevo;La Estancia
+1443;08/01/2015;4;Mariana;10%;Cliente Nuevo;La Estancia
+1444;31/03/2014;8;Saul;16%;Cliente Nuevo;La Estancia
+1445;18/11/2014;1;Alejandro;7%;Cliente Repetido;La Estancia
+1446;30/07/2014;2;Saul;16%;Cliente Nuevo;Chapultepec
+1447;15/09/2014;5;Saul;10%;Cliente Repetido;Chapultepec
+1448;22/01/2015;12;Mariana;12%;Cliente Repetido;La Paz
+1449;04/02/2014;9;Ernesto;17%;Cliente Nuevo;La Estancia
+1450;28/04/2014;7;Rodolfo;13%;Cliente Repetido;La Estancia
+1451;27/09/2014;1;Mauricio;20%;Cliente Nuevo;La Estancia
+1452;27/02/2014;7;Omar;16%;Cliente Repetido;Chapultepec
+1453;02/02/2014;8;Omar;15%;Cliente Nuevo;La Estancia
+1454;14/02/2014;11;Alejandro;10%;Cliente Nuevo;Chapultepec
+1455;21/12/2014;13;Alejandro;13%;Cliente Repetido;La Paz
+1456;15/10/2014;13;Alejandro;10%;Cliente Nuevo;La Estancia
+1457;30/09/2014;6;Rodolfo;10%;Cliente Nuevo;La Paz
+1458;08/08/2014;16;Joel;10%;Cliente Nuevo;La Estancia
+1459;27/09/2014;2;Mauricio;20%;Cliente Nuevo;La Estancia
+1460;09/11/2014;13;Valentina;6%;Cliente Nuevo;La Paz
+1461;12/04/2014;2;Ernesto;17%;Cliente Nuevo;La Paz
+1462;28/07/2014;2;Saul;15%;Cliente Nuevo;La Paz
+1463;09/11/2014;12;Rodolfo;8%;Cliente Nuevo;La Estancia
+1464;10/07/2014;7;Mariana;12%;Cliente Nuevo;Chapultepec
+1465;09/03/2014;17;Omar;17%;Cliente Nuevo;La Estancia
+1466;11/04/2014;11;Saul;13%;Cliente Nuevo;La Estancia
+1467;07/03/2014;11;Alejandro;5%;Cliente Nuevo;La Paz
+1468;03/07/2014;7;Joel;13%;Cliente Nuevo;Chapultepec
+1469;14/02/2014;10;Joel;12%;Cliente Nuevo;La Paz
+1470;21/04/2014;11;Ernesto;15%;Cliente Repetido;La Paz
+1471;28/11/2014;8;Mauricio;20%;Cliente Nuevo;Chapultepec
+1472;19/02/2014;12;Omar;16%;Cliente Repetido;La Paz
+1473;22/10/2014;16;Saul;16%;Cliente Nuevo;La Paz
+1474;12/09/2014;11;Mauricio;20%;Cliente Nuevo;La Estancia
+1475;02/06/2014;14;Joel;6%;Cliente Nuevo;Chapultepec
+1476;12/01/2015;10;Mariana;17%;Cliente Nuevo;La Paz
+1477;03/02/2014;2;Rodolfo;11%;Cliente Nuevo;La Paz
+1478;08/07/2014;7;Ernesto;9%;Cliente Repetido;La Estancia
+1479;01/03/2014;16;Valentina;6%;Cliente Nuevo;La Paz
+1480;10/11/2014;15;Alejandro;6%;Cliente Repetido;La Estancia
+1481;30/01/2015;1;Mauricio;20%;Cliente Nuevo;Chapultepec
+1482;11/05/2014;11;Rodolfo;7%;Cliente Nuevo;La Estancia
+1483;09/08/2014;13;Saul;9%;Cliente Repetido;Chapultepec
+1484;18/09/2014;14;Rodolfo;8%;Cliente Nuevo;La Paz
+1485;09/04/2014;7;Rodolfo;8%;Cliente Repetido;La Paz
+1486;21/02/2014;5;Ernesto;15%;Cliente Repetido;La Estancia
+1487;22/10/2014;10;Joel;12%;Cliente Nuevo;La Estancia
+1488;14/11/2014;5;Mauricio;20%;Cliente Nuevo;La Paz
+1489;27/10/2014;2;Joel;11%;Cliente Nuevo;La Estancia
+1490;08/08/2014;1;Valentina;6%;Cliente Nuevo;Chapultepec
+1491;13/03/2014;14;Alejandro;16%;Cliente Repetido;La Paz
+1492;23/01/2015;3;Mauricio;20%;Cliente Nuevo;La Paz
+1493;03/02/2014;8;Saul;16%;Cliente Nuevo;La Estancia
+1494;05/04/2014;15;Joel;9%;Cliente Nuevo;Chapultepec
+1495;20/11/2014;3;Joel;10%;Cliente Repetido;Chapultepec
+1496;30/08/2014;5;Joel;5%;Cliente Nuevo;La Paz
+1497;06/02/2014;3;Alejandro;5%;Cliente Repetido;La Paz
+1498;12/02/2014;13;Joel;7%;Cliente Nuevo;La Paz
+1499;30/08/2014;11;Mariana;10%;Cliente Nuevo;La Estancia
+1500;18/08/2014;10;Saul;6%;Cliente Nuevo;La Estancia
+1501;10/01/2015;5;Mauricio;20%;Cliente Nuevo;La Estancia
+1502;20/04/2014;14;Mariana;9%;Cliente Repetido;La Paz
+1503;14/12/2014;10;Alejandro;9%;Cliente Nuevo;La Paz
+1504;11/07/2014;15;Omar;6%;Cliente Repetido;Chapultepec
+1505;31/03/2014;3;Rodolfo;16%;Cliente Nuevo;Chapultepec
+1506;15/03/2014;1;Omar;14%;Cliente Nuevo;La Estancia
+1507;14/03/2014;8;Joel;13%;Cliente Nuevo;La Paz
+1508;05/01/2015;13;Omar;17%;Cliente Repetido;La Paz
+1509;21/06/2014;2;Saul;5%;Cliente Nuevo;Chapultepec
+1510;18/05/2014;8;Rodolfo;7%;Cliente Nuevo;La Estancia
+1511;22/09/2014;10;Joel;13%;Cliente Nuevo;La Estancia
+1512;27/05/2014;15;Ernesto;6%;Cliente Nuevo;La Paz
+1513;23/01/2015;12;Mauricio;20%;Cliente Nuevo;La Estancia
+1514;01/09/2014;2;Ernesto;13%;Cliente Repetido;La Paz
+1515;12/11/2014;14;Rodolfo;5%;Cliente Nuevo;La Estancia
+1516;27/03/2014;9;Ernesto;9%;Cliente Nuevo;La Estancia
+1517;08/06/2014;12;Valentina;17%;Cliente Nuevo;La Estancia
+1518;20/01/2015;3;Rodolfo;9%;Cliente Nuevo;La Estancia
+1519;20/12/2014;13;Mauricio;20%;Cliente Nuevo;Chapultepec
+1520;28/08/2014;4;Saul;5%;Cliente Nuevo;La Paz
+1521;19/01/2015;2;Valentina;12%;Cliente Nuevo;La Paz
+1522;20/10/2014;11;Joel;17%;Cliente Nuevo;La Estancia
+1523;10/09/2014;6;Alejandro;12%;Cliente Nuevo;La Paz
+1524;08/01/2015;5;Mariana;13%;Cliente Nuevo;Chapultepec
+1525;24/04/2014;4;Ernesto;12%;Cliente Repetido;La Paz
+1526;15/12/2014;3;Omar;17%;Cliente Nuevo;Chapultepec
+1527;07/01/2015;6;Valentina;11%;Cliente Repetido;La Estancia
+1528;19/06/2014;1;Rodolfo;12%;Cliente Nuevo;Chapultepec
+1529;29/01/2015;2;Valentina;10%;Cliente Nuevo;La Paz
+1530;21/12/2014;2;Saul;8%;Cliente Nuevo;La Estancia
+1531;21/10/2014;8;Ernesto;5%;Cliente Repetido;La Paz
+1532;18/05/2014;9;Omar;8%;Cliente Nuevo;La Paz
+1533;10/02/2014;1;Joel;12%;Cliente Nuevo;Chapultepec
+1534;15/06/2014;7;Ernesto;12%;Cliente Nuevo;Chapultepec
+1535;25/11/2014;2;Alejandro;5%;Cliente Repetido;La Estancia
+1536;29/01/2015;1;Saul;10%;Cliente Repetido;Chapultepec
+1537;06/10/2014;13;Alejandro;9%;Cliente Repetido;Chapultepec
+1538;01/11/2014;8;Mauricio;20%;Cliente Nuevo;Chapultepec
+1539;24/07/2014;9;Valentina;17%;Cliente Nuevo;La Estancia
+1540;18/03/2014;7;Rodolfo;12%;Cliente Repetido;Chapultepec
+1541;21/03/2014;11;Mariana;12%;Cliente Nuevo;La Estancia
+1542;13/08/2014;9;Saul;13%;Cliente Nuevo;Chapultepec
+1543;04/01/2015;5;Alejandro;8%;Cliente Nuevo;La Paz
+1544;19/12/2014;10;Mauricio;20%;Cliente Nuevo;La Paz
+1545;19/10/2014;9;Ernesto;7%;Cliente Nuevo;Chapultepec
+1546;23/03/2014;1;Ernesto;15%;Cliente Repetido;La Paz
+1547;10/03/2014;5;Valentina;13%;Cliente Repetido;La Estancia
+1548;23/12/2014;4;Omar;7%;Cliente Nuevo;La Estancia
+1549;25/10/2014;10;Mauricio;20%;Cliente Nuevo;La Estancia
+1550;23/06/2014;5;Mariana;5%;Cliente Nuevo;Chapultepec
+1551;10/08/2014;14;Valentina;5%;Cliente Nuevo;La Paz
+1552;19/03/2014;7;Ernesto;12%;Cliente Nuevo;Chapultepec
+1553;04/11/2014;16;Omar;6%;Cliente Nuevo;La Estancia
+1554;21/07/2014;6;Mariana;7%;Cliente Repetido;La Estancia
+1555;12/08/2014;6;Joel;8%;Cliente Nuevo;Chapultepec
+1556;02/12/2014;12;Rodolfo;12%;Cliente Repetido;La Paz
+1557;04/09/2014;12;Mariana;15%;Cliente Nuevo;La Estancia
+1558;24/09/2014;15;Alejandro;16%;Cliente Nuevo;Chapultepec
+1559;21/11/2014;3;Mauricio;20%;Cliente Nuevo;La Estancia
+1560;08/03/2014;17;Ernesto;8%;Cliente Nuevo;La Estancia
+1561;15/05/2014;15;Alejandro;13%;Cliente Nuevo;La Estancia
+1562;11/11/2014;5;Alejandro;7%;Cliente Nuevo;Chapultepec
+1563;11/02/2014;17;Mariana;14%;Cliente Nuevo;Chapultepec
+1564;17/10/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+1565;18/04/2014;9;Rodolfo;6%;Cliente Repetido;La Paz
+1566;21/03/2014;2;Saul;5%;Cliente Nuevo;La Paz
+1567;07/02/2014;4;Joel;11%;Cliente Nuevo;La Estancia
+1568;12/04/2014;4;Mariana;8%;Cliente Nuevo;Chapultepec
+1569;12/03/2014;5;Omar;5%;Cliente Nuevo;Chapultepec
+1570;23/02/2014;17;Valentina;15%;Cliente Nuevo;Chapultepec
+1571;07/09/2014;13;Joel;14%;Cliente Repetido;Chapultepec
+1572;19/12/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+1573;24/08/2014;3;Valentina;5%;Cliente Nuevo;La Paz
+1574;06/05/2014;11;Omar;13%;Cliente Nuevo;Chapultepec
+1575;02/06/2014;13;Joel;14%;Cliente Nuevo;Chapultepec
+1576;14/11/2014;3;Mauricio;20%;Cliente Nuevo;La Paz
+1577;22/02/2014;16;Valentina;12%;Cliente Nuevo;Chapultepec
+1578;16/03/2014;10;Omar;6%;Cliente Nuevo;Chapultepec
+1579;11/02/2014;16;Joel;7%;Cliente Repetido;La Paz
+1580;22/11/2014;14;Mauricio;20%;Cliente Nuevo;La Estancia
+1581;23/04/2014;3;Rodolfo;5%;Cliente Nuevo;La Estancia
+1582;04/08/2014;1;Joel;11%;Cliente Repetido;La Paz
+1583;06/07/2014;11;Mariana;13%;Cliente Nuevo;Chapultepec
+1584;22/02/2014;8;Mariana;11%;Cliente Nuevo;La Paz
+1585;22/12/2014;11;Rodolfo;11%;Cliente Nuevo;Chapultepec
+1586;31/07/2014;12;Saul;15%;Cliente Repetido;La Paz
+1587;21/06/2014;8;Joel;16%;Cliente Nuevo;La Estancia
+1588;27/12/2014;10;Mauricio;20%;Cliente Nuevo;La Estancia
+1589;31/12/2014;7;Mariana;16%;Cliente Nuevo;La Estancia
+1590;11/03/2014;3;Joel;12%;Cliente Nuevo;Chapultepec
+1591;13/01/2015;2;Omar;16%;Cliente Nuevo;Chapultepec
+1592;03/08/2014;12;Rodolfo;9%;Cliente Nuevo;Chapultepec
+1593;12/03/2014;14;Omar;11%;Cliente Repetido;La Estancia
+1594;28/10/2014;5;Saul;15%;Cliente Nuevo;La Paz
+1595;05/10/2014;3;Rodolfo;13%;Cliente Repetido;Chapultepec
+1596;01/03/2014;12;Omar;14%;Cliente Nuevo;Chapultepec
+1597;18/04/2014;14;Omar;9%;Cliente Nuevo;La Paz
+1598;15/08/2014;2;Mariana;13%;Cliente Nuevo;La Paz
+1599;24/12/2014;14;Ernesto;9%;Cliente Nuevo;La Estancia
+1600;30/06/2014;2;Rodolfo;8%;Cliente Repetido;La Paz
+1601;28/01/2015;7;Joel;6%;Cliente Nuevo;La Paz
+1602;16/03/2014;16;Saul;9%;Cliente Repetido;La Paz
+1603;09/09/2014;17;Mariana;16%;Cliente Nuevo;Chapultepec
+1604;09/06/2014;12;Omar;12%;Cliente Repetido;Chapultepec
+1605;03/11/2014;3;Joel;11%;Cliente Nuevo;Chapultepec
+1606;17/03/2014;16;Saul;6%;Cliente Nuevo;La Estancia
+1607;28/07/2014;15;Rodolfo;10%;Cliente Repetido;La Paz
+1608;21/06/2014;11;Alejandro;12%;Cliente Nuevo;La Estancia
+1609;09/08/2014;2;Alejandro;11%;Cliente Nuevo;Chapultepec
+1610;17/10/2014;3;Mauricio;20%;Cliente Nuevo;Chapultepec
+1611;24/12/2014;9;Mariana;11%;Cliente Nuevo;Chapultepec
+1612;13/02/2014;15;Ernesto;12%;Cliente Repetido;La Estancia
+1613;23/07/2014;2;Valentina;8%;Cliente Nuevo;Chapultepec
+1614;03/06/2014;4;Rodolfo;13%;Cliente Nuevo;Chapultepec
+1615;13/06/2014;5;Joel;10%;Cliente Nuevo;Chapultepec
+1616;24/08/2014;1;Saul;8%;Cliente Nuevo;La Paz
+1617;07/08/2014;17;Joel;8%;Cliente Nuevo;Chapultepec
+1618;24/04/2014;4;Saul;7%;Cliente Nuevo;Chapultepec
+1619;29/12/2014;10;Joel;17%;Cliente Nuevo;Chapultepec
+1620;10/09/2014;10;Rodolfo;6%;Cliente Nuevo;Chapultepec
+1621;14/03/2014;10;Alejandro;5%;Cliente Repetido;La Paz
+1622;02/06/2014;6;Ernesto;16%;Cliente Repetido;Chapultepec
+1623;10/12/2014;12;Alejandro;5%;Cliente Repetido;Chapultepec
+1624;29/05/2014;10;Alejandro;15%;Cliente Nuevo;La Estancia
+1625;15/11/2014;8;Mauricio;20%;Cliente Nuevo;La Paz
+1626;15/08/2014;1;Omar;5%;Cliente Nuevo;La Estancia
+1627;20/11/2014;4;Saul;8%;Cliente Nuevo;Chapultepec
+1628;06/06/2014;17;Alejandro;10%;Cliente Repetido;Chapultepec
+1629;24/04/2014;7;Alejandro;5%;Cliente Nuevo;La Estancia
+1630;29/10/2014;3;Ernesto;16%;Cliente Nuevo;Chapultepec
+1631;18/01/2015;15;Ernesto;16%;Cliente Nuevo;La Paz
+1632;12/06/2014;13;Rodolfo;5%;Cliente Nuevo;La Estancia
+1633;10/08/2014;14;Valentina;10%;Cliente Nuevo;Chapultepec
+1634;28/03/2014;14;Joel;7%;Cliente Nuevo;Chapultepec
+1635;01/05/2014;10;Valentina;13%;Cliente Nuevo;Chapultepec
+1636;19/06/2014;11;Mariana;5%;Cliente Repetido;Chapultepec
+1637;10/01/2015;17;Mauricio;20%;Cliente Nuevo;La Paz
+1638;25/06/2014;16;Alejandro;15%;Cliente Repetido;La Estancia
+1639;31/07/2014;17;Ernesto;8%;Cliente Nuevo;Chapultepec
+1640;01/01/2015;14;Rodolfo;17%;Cliente Nuevo;La Paz
+1641;16/06/2014;6;Rodolfo;10%;Cliente Nuevo;La Paz
+1642;28/07/2014;14;Mariana;16%;Cliente Nuevo;La Estancia
+1643;10/06/2014;6;Saul;6%;Cliente Nuevo;La Estancia
+1644;03/08/2014;8;Mariana;9%;Cliente Nuevo;Chapultepec
+1645;29/03/2014;5;Rodolfo;12%;Cliente Repetido;La Paz
+1646;01/09/2014;4;Ernesto;8%;Cliente Nuevo;La Paz
+1647;27/06/2014;6;Valentina;16%;Cliente Nuevo;La Estancia
+1648;28/10/2014;11;Saul;9%;Cliente Nuevo;La Paz
+1649;01/03/2014;3;Alejandro;6%;Cliente Nuevo;La Estancia
+1650;24/05/2014;13;Valentina;7%;Cliente Nuevo;Chapultepec
+1651;18/04/2014;8;Rodolfo;14%;Cliente Nuevo;La Estancia
+1652;27/10/2014;4;Saul;17%;Cliente Nuevo;Chapultepec
+1653;14/11/2014;3;Mauricio;20%;Cliente Nuevo;Chapultepec
+1654;14/07/2014;11;Rodolfo;14%;Cliente Nuevo;Chapultepec
+1655;24/11/2014;5;Valentina;17%;Cliente Nuevo;La Paz
+1656;27/07/2014;8;Saul;5%;Cliente Nuevo;La Paz
+1657;31/07/2014;11;Mariana;11%;Cliente Repetido;La Paz
+1658;07/04/2014;16;Saul;9%;Cliente Nuevo;La Estancia
+1659;16/07/2014;4;Joel;9%;Cliente Nuevo;Chapultepec
+1660;16/04/2014;3;Omar;6%;Cliente Repetido;Chapultepec
+1661;25/10/2014;12;Mauricio;20%;Cliente Nuevo;La Estancia
+1662;19/02/2014;14;Joel;8%;Cliente Nuevo;La Estancia
+1663;21/03/2014;15;Omar;10%;Cliente Nuevo;La Paz
+1664;23/04/2014;1;Rodolfo;10%;Cliente Nuevo;Chapultepec
+1665;11/06/2014;2;Rodolfo;16%;Cliente Repetido;Chapultepec
+1666;07/12/2014;13;Joel;9%;Cliente Nuevo;La Estancia
+1667;21/12/2014;15;Valentina;5%;Cliente Repetido;Chapultepec
+1668;15/04/2014;10;Saul;9%;Cliente Nuevo;La Estancia
+1669;08/10/2014;3;Saul;13%;Cliente Nuevo;Chapultepec
+1670;05/07/2014;10;Saul;12%;Cliente Nuevo;La Paz
+1671;06/04/2014;4;Alejandro;10%;Cliente Repetido;La Estancia
+1672;26/03/2014;13;Omar;16%;Cliente Repetido;La Estancia
+1673;10/06/2014;17;Alejandro;14%;Cliente Repetido;Chapultepec
+1674;23/02/2014;10;Mariana;10%;Cliente Nuevo;La Paz
+1675;05/09/2014;2;Mauricio;20%;Cliente Nuevo;La Estancia
+1676;10/12/2014;3;Mariana;14%;Cliente Repetido;Chapultepec
+1677;06/07/2014;4;Alejandro;7%;Cliente Repetido;La Estancia
+1678;09/02/2014;11;Valentina;11%;Cliente Repetido;La Estancia
+1679;19/09/2014;12;Mauricio;20%;Cliente Nuevo;Chapultepec
+1680;12/01/2015;15;Alejandro;15%;Cliente Repetido;La Paz
+1681;17/06/2014;11;Saul;5%;Cliente Nuevo;Chapultepec
+1682;13/02/2014;2;Omar;10%;Cliente Nuevo;La Estancia
+1683;01/04/2014;16;Rodolfo;8%;Cliente Nuevo;La Estancia
+1684;20/06/2014;12;Joel;16%;Cliente Nuevo;Chapultepec
+1685;26/07/2014;8;Joel;15%;Cliente Nuevo;Chapultepec
+1686;18/02/2014;2;Alejandro;11%;Cliente Nuevo;Chapultepec
+1687;15/12/2014;17;Omar;13%;Cliente Nuevo;Chapultepec
+1688;19/11/2014;16;Mariana;5%;Cliente Nuevo;La Paz
+1689;29/01/2015;13;Saul;5%;Cliente Nuevo;Chapultepec
+1690;17/09/2014;7;Omar;5%;Cliente Nuevo;La Estancia
+1691;13/05/2014;12;Omar;17%;Cliente Nuevo;La Paz
+1692;01/11/2014;11;Mariana;14%;Cliente Nuevo;La Estancia
+1693;04/01/2015;11;Ernesto;8%;Cliente Repetido;La Estancia
+1694;30/04/2014;11;Ernesto;15%;Cliente Nuevo;La Paz
+1695;13/06/2014;11;Mariana;11%;Cliente Nuevo;La Estancia
+1696;05/12/2014;15;Mauricio;20%;Cliente Nuevo;La Paz
+1697;04/11/2014;6;Saul;11%;Cliente Nuevo;Chapultepec
+1698;10/10/2014;11;Mauricio;20%;Cliente Nuevo;La Estancia
+1699;07/06/2014;3;Alejandro;9%;Cliente Nuevo;La Paz
+1700;07/01/2015;6;Rodolfo;7%;Cliente Repetido;La Estancia
+1701;21/02/2014;11;Mariana;11%;Cliente Repetido;Chapultepec
+1702;12/12/2014;15;Mauricio;20%;Cliente Nuevo;La Paz
+1703;20/08/2014;9;Joel;15%;Cliente Nuevo;La Paz
+1704;28/02/2014;9;Saul;7%;Cliente Repetido;Chapultepec
+1705;16/09/2014;9;Omar;10%;Cliente Nuevo;La Paz
+1706;24/02/2014;14;Saul;11%;Cliente Nuevo;Chapultepec
+1707;23/08/2014;2;Ernesto;6%;Cliente Nuevo;Chapultepec
+1708;09/11/2014;2;Saul;14%;Cliente Nuevo;Chapultepec
+1709;28/01/2015;12;Saul;15%;Cliente Nuevo;Chapultepec
+1710;16/08/2014;10;Omar;10%;Cliente Nuevo;La Estancia
+1711;14/10/2014;2;Alejandro;11%;Cliente Repetido;La Estancia
+1712;08/10/2014;1;Omar;5%;Cliente Repetido;La Estancia
+1713;06/10/2014;14;Omar;5%;Cliente Nuevo;La Estancia
+1714;17/06/2014;14;Ernesto;6%;Cliente Nuevo;Chapultepec
+1715;15/05/2014;13;Omar;7%;Cliente Repetido;La Estancia
+1716;06/07/2014;9;Rodolfo;12%;Cliente Nuevo;La Estancia
+1717;04/07/2014;5;Alejandro;15%;Cliente Nuevo;Chapultepec
+1718;17/05/2014;12;Alejandro;6%;Cliente Nuevo;Chapultepec
+1719;20/01/2015;3;Valentina;6%;Cliente Nuevo;La Paz
+1720;25/01/2015;13;Alejandro;16%;Cliente Nuevo;La Paz
+1721;07/08/2014;13;Saul;8%;Cliente Nuevo;La Paz
+1722;28/05/2014;1;Mariana;8%;Cliente Nuevo;Chapultepec
+1723;04/04/2014;4;Saul;9%;Cliente Repetido;Chapultepec
+1724;26/07/2014;13;Alejandro;5%;Cliente Repetido;Chapultepec
+1725;23/03/2014;16;Rodolfo;6%;Cliente Nuevo;La Estancia
+1726;20/03/2014;14;Valentina;13%;Cliente Nuevo;La Paz
+1727;13/11/2014;10;Alejandro;5%;Cliente Nuevo;La Estancia
+1728;31/03/2014;14;Omar;6%;Cliente Nuevo;La Paz
+1729;24/12/2014;9;Ernesto;9%;Cliente Nuevo;La Estancia
+1730;22/08/2014;5;Rodolfo;7%;Cliente Nuevo;La Estancia
+1731;19/11/2014;14;Omar;5%;Cliente Nuevo;La Estancia
+1732;22/08/2014;6;Valentina;5%;Cliente Nuevo;La Paz
+1733;23/07/2014;9;Saul;14%;Cliente Nuevo;La Paz
+1734;07/12/2014;5;Ernesto;15%;Cliente Repetido;La Paz
+1735;24/06/2014;17;Rodolfo;9%;Cliente Repetido;La Paz
+1736;10/03/2014;7;Alejandro;8%;Cliente Repetido;La Paz
+1737;23/03/2014;14;Joel;8%;Cliente Nuevo;La Estancia
+1738;14/12/2014;7;Ernesto;14%;Cliente Repetido;Chapultepec
+1739;18/07/2014;16;Ernesto;15%;Cliente Nuevo;Chapultepec
+1740;11/08/2014;15;Mariana;13%;Cliente Repetido;Chapultepec
+1741;23/01/2015;7;Mauricio;20%;Cliente Nuevo;La Paz
+1742;11/08/2014;6;Ernesto;6%;Cliente Nuevo;La Paz
+1743;11/01/2015;11;Joel;6%;Cliente Repetido;Chapultepec
+1744;13/10/2014;16;Rodolfo;15%;Cliente Nuevo;Chapultepec
+1745;18/02/2014;15;Joel;14%;Cliente Nuevo;La Paz
+1746;26/03/2014;11;Omar;5%;Cliente Nuevo;La Estancia
+1747;15/12/2014;17;Rodolfo;17%;Cliente Nuevo;Chapultepec
+1748;11/11/2014;10;Omar;9%;Cliente Nuevo;La Estancia
+1749;15/08/2014;6;Rodolfo;15%;Cliente Nuevo;La Paz
+1750;07/05/2014;11;Joel;8%;Cliente Nuevo;La Paz
+1751;07/09/2014;5;Omar;7%;Cliente Repetido;La Estancia
+1752;13/01/2015;2;Mariana;13%;Cliente Nuevo;La Estancia
+1753;25/02/2014;7;Ernesto;15%;Cliente Nuevo;La Paz
+1754;14/09/2014;2;Alejandro;12%;Cliente Nuevo;Chapultepec
+1755;13/09/2014;14;Mauricio;20%;Cliente Nuevo;La Estancia
+1756;05/12/2014;17;Alejandro;10%;Cliente Repetido;La Estancia
+1757;02/06/2014;9;Rodolfo;6%;Cliente Nuevo;La Paz
+1758;14/05/2014;12;Omar;8%;Cliente Repetido;La Paz
+1759;21/02/2014;8;Omar;16%;Cliente Nuevo;Chapultepec
+1760;12/01/2015;5;Valentina;11%;Cliente Nuevo;La Estancia
+1761;30/07/2014;10;Omar;17%;Cliente Nuevo;Chapultepec
+1762;23/07/2014;15;Joel;8%;Cliente Nuevo;Chapultepec
+1763;26/07/2014;1;Ernesto;10%;Cliente Nuevo;La Estancia
+1764;24/08/2014;17;Mariana;11%;Cliente Nuevo;Chapultepec
+1765;15/06/2014;6;Ernesto;8%;Cliente Nuevo;La Estancia
+1766;14/08/2014;3;Valentina;7%;Cliente Nuevo;Chapultepec
+1767;04/11/2014;15;Mariana;9%;Cliente Nuevo;La Estancia
+1768;21/08/2014;10;Ernesto;9%;Cliente Nuevo;La Estancia
+1769;31/08/2014;10;Saul;9%;Cliente Nuevo;La Estancia
+1770;24/06/2014;5;Saul;5%;Cliente Repetido;Chapultepec
+1771;20/03/2014;6;Mariana;11%;Cliente Repetido;La Estancia
+1772;25/11/2014;5;Joel;13%;Cliente Nuevo;Chapultepec
+1773;06/11/2014;1;Ernesto;8%;Cliente Nuevo;La Paz
+1774;08/07/2014;17;Valentina;11%;Cliente Nuevo;La Estancia
+1775;26/10/2014;16;Ernesto;11%;Cliente Nuevo;Chapultepec
+1776;08/04/2014;8;Mariana;15%;Cliente Nuevo;La Estancia
+1777;07/07/2014;3;Joel;10%;Cliente Nuevo;Chapultepec
+1778;31/03/2014;16;Ernesto;10%;Cliente Nuevo;La Paz
+1779;23/02/2014;16;Mariana;15%;Cliente Repetido;La Paz
+1780;16/06/2014;2;Mariana;14%;Cliente Nuevo;La Estancia
+1781;08/04/2014;15;Joel;11%;Cliente Nuevo;Chapultepec
+1782;23/04/2014;7;Saul;6%;Cliente Nuevo;Chapultepec
+1783;07/10/2014;14;Mariana;16%;Cliente Nuevo;La Paz
+1784;09/05/2014;1;Valentina;8%;Cliente Nuevo;La Paz
+1785;31/05/2014;15;Ernesto;14%;Cliente Nuevo;La Estancia
+1786;16/05/2014;13;Joel;14%;Cliente Nuevo;La Estancia
+1787;21/10/2014;2;Joel;15%;Cliente Nuevo;Chapultepec
+1788;29/05/2014;7;Omar;5%;Cliente Repetido;Chapultepec
+1789;04/12/2014;11;Omar;12%;Cliente Nuevo;La Estancia
+1790;17/09/2014;10;Mariana;5%;Cliente Nuevo;La Estancia
+1791;07/09/2014;5;Ernesto;6%;Cliente Nuevo;La Estancia
+1792;18/04/2014;3;Joel;7%;Cliente Nuevo;La Estancia
+1793;29/08/2014;9;Omar;13%;Cliente Nuevo;Chapultepec
+1794;01/03/2014;1;Valentina;12%;Cliente Repetido;Chapultepec
+1795;07/01/2015;5;Omar;11%;Cliente Repetido;La Paz
+1796;26/06/2014;9;Alejandro;13%;Cliente Nuevo;La Estancia
+1797;01/03/2014;3;Alejandro;14%;Cliente Nuevo;Chapultepec
+1798;05/09/2014;5;Mauricio;20%;Cliente Nuevo;La Estancia
+1799;17/09/2014;15;Rodolfo;13%;Cliente Nuevo;La Estancia
+1800;01/08/2014;14;Valentina;5%;Cliente Nuevo;La Estancia
+1801;09/01/2015;16;Mauricio;20%;Cliente Nuevo;Chapultepec
+1802;07/02/2014;6;Joel;7%;Cliente Nuevo;La Paz
+1803;10/09/2014;17;Omar;13%;Cliente Repetido;Chapultepec
+1804;30/10/2014;8;Valentina;8%;Cliente Nuevo;La Paz
+1805;06/04/2014;4;Ernesto;12%;Cliente Nuevo;Chapultepec
+1806;20/03/2014;5;Rodolfo;7%;Cliente Nuevo;La Estancia
+1807;20/09/2014;10;Saul;15%;Cliente Nuevo;La Estancia
+1808;25/12/2014;17;Omar;5%;Cliente Nuevo;La Estancia
+1809;12/04/2014;10;Joel;17%;Cliente Nuevo;La Estancia
+1810;26/10/2014;10;Joel;17%;Cliente Nuevo;La Paz
+1811;24/08/2014;7;Saul;11%;Cliente Nuevo;La Estancia
+1812;08/05/2014;3;Saul;7%;Cliente Repetido;Chapultepec
+1813;31/10/2014;2;Valentina;16%;Cliente Nuevo;La Paz
+1814;18/09/2014;14;Saul;16%;Cliente Repetido;La Estancia
+1815;02/06/2014;13;Saul;5%;Cliente Nuevo;La Estancia
+1816;14/02/2014;13;Omar;17%;Cliente Nuevo;La Estancia
+1817;07/08/2014;9;Mariana;8%;Cliente Repetido;La Paz
+1818;13/05/2014;17;Mariana;6%;Cliente Nuevo;Chapultepec
+1819;14/10/2014;17;Ernesto;8%;Cliente Nuevo;La Paz
+1820;13/10/2014;13;Rodolfo;7%;Cliente Repetido;La Estancia
+1821;27/03/2014;6;Valentina;14%;Cliente Repetido;La Paz
+1822;17/07/2014;4;Joel;10%;Cliente Nuevo;Chapultepec
+1823;03/03/2014;8;Joel;8%;Cliente Nuevo;La Estancia
+1824;09/07/2014;16;Omar;14%;Cliente Repetido;Chapultepec
+1825;01/02/2014;13;Rodolfo;16%;Cliente Nuevo;Chapultepec
+1826;12/03/2014;12;Saul;7%;Cliente Nuevo;La Paz
+1827;07/11/2014;17;Mauricio;20%;Cliente Nuevo;La Estancia
+1828;09/11/2014;3;Valentina;14%;Cliente Repetido;La Paz
+1829;02/11/2014;15;Ernesto;15%;Cliente Nuevo;La Paz
+1830;16/03/2014;16;Joel;14%;Cliente Nuevo;La Estancia
+1831;07/05/2014;13;Omar;13%;Cliente Nuevo;La Paz
+1832;12/11/2014;4;Ernesto;11%;Cliente Repetido;La Estancia
+1833;20/11/2014;16;Rodolfo;9%;Cliente Repetido;La Paz
+1834;29/03/2014;14;Valentina;9%;Cliente Nuevo;Chapultepec
+1835;11/10/2014;2;Mauricio;20%;Cliente Nuevo;Chapultepec
+1836;02/05/2014;11;Rodolfo;9%;Cliente Nuevo;La Paz
+1837;03/09/2014;1;Rodolfo;7%;Cliente Nuevo;La Paz
+1838;22/02/2014;17;Rodolfo;7%;Cliente Nuevo;La Estancia
+1839;03/02/2014;17;Omar;9%;Cliente Nuevo;Chapultepec
+1840;05/11/2014;12;Alejandro;10%;Cliente Repetido;La Estancia
+1841;05/12/2014;7;Mauricio;20%;Cliente Nuevo;Chapultepec
+1842;27/05/2014;1;Mariana;12%;Cliente Repetido;Chapultepec
+1843;20/12/2014;15;Mariana;15%;Cliente Nuevo;La Estancia
+1844;25/05/2014;3;Rodolfo;16%;Cliente Repetido;Chapultepec
+1845;24/03/2014;7;Saul;8%;Cliente Nuevo;La Estancia
+1846;15/03/2014;11;Valentina;11%;Cliente Nuevo;La Estancia
+1847;26/05/2014;16;Rodolfo;13%;Cliente Nuevo;La Paz
+1848;01/09/2014;14;Valentina;8%;Cliente Nuevo;Chapultepec
+1849;22/12/2014;10;Valentina;8%;Cliente Repetido;Chapultepec
+1850;16/03/2014;16;Rodolfo;11%;Cliente Nuevo;Chapultepec
+1851;02/01/2015;7;Mauricio;20%;Cliente Nuevo;La Paz
+1852;08/05/2014;4;Rodolfo;6%;Cliente Repetido;La Paz
+1853;02/07/2014;3;Valentina;14%;Cliente Nuevo;La Paz
+1854;10/07/2014;16;Omar;14%;Cliente Repetido;Chapultepec
+1855;13/02/2014;12;Alejandro;9%;Cliente Repetido;La Paz
+1856;18/11/2014;11;Omar;16%;Cliente Nuevo;La Estancia
+1857;15/08/2014;4;Rodolfo;13%;Cliente Nuevo;La Estancia
+1858;05/12/2014;8;Mauricio;20%;Cliente Nuevo;La Estancia
+1859;21/07/2014;12;Joel;15%;Cliente Nuevo;La Estancia
+1860;22/03/2014;5;Valentina;6%;Cliente Nuevo;La Estancia
+1861;13/03/2014;3;Rodolfo;6%;Cliente Repetido;La Estancia
+1862;25/03/2014;10;Valentina;12%;Cliente Nuevo;Chapultepec
+1863;11/08/2014;15;Omar;8%;Cliente Nuevo;La Estancia
+1864;24/12/2014;15;Rodolfo;15%;Cliente Nuevo;La Paz
+1865;17/08/2014;5;Joel;13%;Cliente Nuevo;Chapultepec
+1866;27/06/2014;9;Omar;5%;Cliente Nuevo;La Estancia
+1867;15/09/2014;17;Alejandro;14%;Cliente Nuevo;La Paz
+1868;27/03/2014;17;Rodolfo;12%;Cliente Nuevo;La Estancia
+1869;05/08/2014;12;Saul;15%;Cliente Repetido;La Estancia
+1870;28/02/2014;15;Rodolfo;6%;Cliente Repetido;Chapultepec
+1871;01/09/2014;16;Omar;5%;Cliente Repetido;La Estancia
+1872;10/12/2014;17;Mariana;15%;Cliente Nuevo;La Paz
+1873;02/02/2014;14;Ernesto;6%;Cliente Repetido;Chapultepec
+1874;29/01/2015;4;Saul;5%;Cliente Nuevo;La Estancia
+1875;16/05/2014;8;Joel;6%;Cliente Repetido;La Estancia
+1876;11/01/2015;16;Alejandro;12%;Cliente Nuevo;La Paz
+1877;06/04/2014;10;Saul;9%;Cliente Nuevo;Chapultepec
+1878;24/01/2015;16;Saul;7%;Cliente Repetido;La Paz
+1879;24/05/2014;16;Rodolfo;12%;Cliente Nuevo;Chapultepec
+1880;16/08/2014;14;Rodolfo;15%;Cliente Repetido;Chapultepec
+1881;11/07/2014;14;Mariana;6%;Cliente Nuevo;La Estancia
+1882;18/01/2015;12;Alejandro;7%;Cliente Nuevo;La Estancia
+1883;13/04/2014;1;Omar;10%;Cliente Nuevo;Chapultepec
+1884;17/08/2014;8;Omar;15%;Cliente Repetido;La Paz
+1885;16/09/2014;6;Saul;15%;Cliente Nuevo;La Paz
+1886;01/05/2014;11;Rodolfo;10%;Cliente Nuevo;La Paz
+1887;30/11/2014;8;Alejandro;11%;Cliente Nuevo;La Paz
+1888;19/08/2014;13;Joel;15%;Cliente Nuevo;La Estancia
+1889;19/06/2014;6;Mariana;7%;Cliente Nuevo;Chapultepec
+1890;16/08/2014;12;Rodolfo;10%;Cliente Nuevo;La Estancia
+1891;17/07/2014;10;Valentina;10%;Cliente Nuevo;Chapultepec
+1892;12/12/2014;1;Joel;5%;Cliente Nuevo;La Estancia
+1893;27/03/2014;6;Omar;10%;Cliente Repetido;La Estancia
+1894;13/09/2014;6;Joel;7%;Cliente Nuevo;La Estancia
+1895;15/08/2014;7;Mariana;16%;Cliente Nuevo;Chapultepec
+1896;04/08/2014;13;Omar;14%;Cliente Nuevo;La Paz
+1897;22/04/2014;5;Omar;16%;Cliente Repetido;La Estancia
+1898;08/12/2014;4;Saul;16%;Cliente Nuevo;La Paz
+1899;18/04/2014;4;Saul;10%;Cliente Nuevo;La Paz
+1900;14/09/2014;9;Omar;7%;Cliente Nuevo;Chapultepec
+1901;13/10/2014;12;Alejandro;6%;Cliente Repetido;La Estancia
+1902;12/10/2014;8;Valentina;8%;Cliente Nuevo;Chapultepec
+1903;11/11/2014;4;Ernesto;16%;Cliente Nuevo;La Paz
+1904;05/11/2014;13;Mariana;8%;Cliente Nuevo;La Estancia
+1905;29/03/2014;2;Alejandro;15%;Cliente Nuevo;La Paz
+1906;10/08/2014;9;Ernesto;10%;Cliente Nuevo;La Estancia
+1907;26/10/2014;8;Mariana;8%;Cliente Nuevo;La Estancia
+1908;28/10/2014;4;Rodolfo;9%;Cliente Repetido;La Estancia
+1909;11/01/2015;8;Mariana;14%;Cliente Nuevo;La Paz
+1910;04/11/2014;10;Mariana;12%;Cliente Nuevo;La Estancia
+1911;24/08/2014;10;Saul;15%;Cliente Nuevo;Chapultepec
+1912;07/07/2014;7;Ernesto;11%;Cliente Repetido;La Paz
+1913;01/07/2014;7;Rodolfo;11%;Cliente Nuevo;Chapultepec
+1914;28/11/2014;10;Saul;5%;Cliente Nuevo;Chapultepec
+1915;30/12/2014;6;Ernesto;17%;Cliente Nuevo;Chapultepec
+1916;12/03/2014;11;Ernesto;5%;Cliente Repetido;La Estancia
+1917;27/09/2014;11;Mauricio;20%;Cliente Nuevo;La Estancia
+1918;05/06/2014;5;Alejandro;11%;Cliente Nuevo;La Estancia
+1919;17/05/2014;9;Ernesto;16%;Cliente Nuevo;La Paz
+1920;03/08/2014;4;Alejandro;15%;Cliente Nuevo;La Estancia
+1921;14/03/2014;14;Joel;9%;Cliente Nuevo;Chapultepec
+1922;11/10/2014;16;Mauricio;20%;Cliente Nuevo;Chapultepec
+1923;02/10/2014;11;Joel;15%;Cliente Repetido;Chapultepec
+1924;01/07/2014;6;Ernesto;5%;Cliente Repetido;La Paz
+1925;16/05/2014;4;Rodolfo;10%;Cliente Nuevo;Chapultepec
+1926;09/09/2014;14;Saul;7%;Cliente Repetido;La Estancia
+1927;11/02/2014;3;Rodolfo;11%;Cliente Repetido;Chapultepec
+1928;04/05/2014;9;Alejandro;6%;Cliente Nuevo;Chapultepec
+1929;10/09/2014;15;Mariana;16%;Cliente Nuevo;La Estancia
+1930;16/04/2014;13;Mariana;14%;Cliente Repetido;Chapultepec
+1931;20/05/2014;8;Valentina;6%;Cliente Repetido;La Paz
+1932;13/04/2014;14;Saul;16%;Cliente Nuevo;La Estancia
+1933;02/04/2014;14;Mariana;17%;Cliente Nuevo;La Estancia
+1934;04/10/2014;8;Alejandro;8%;Cliente Repetido;Chapultepec
+1935;27/07/2014;17;Joel;12%;Cliente Nuevo;La Paz
+1936;01/08/2014;11;Mariana;8%;Cliente Nuevo;La Estancia
+1937;29/05/2014;3;Ernesto;13%;Cliente Repetido;La Estancia
+1938;11/04/2014;17;Valentina;9%;Cliente Nuevo;La Estancia
+1939;15/11/2014;14;Mauricio;20%;Cliente Nuevo;La Paz
+1940;16/04/2014;16;Rodolfo;5%;Cliente Nuevo;La Estancia
+1941;15/12/2014;4;Mariana;7%;Cliente Nuevo;La Paz
+1942;13/06/2014;12;Ernesto;7%;Cliente Repetido;La Paz
+1943;22/02/2014;10;Valentina;14%;Cliente Nuevo;Chapultepec
+1944;15/10/2014;9;Omar;16%;Cliente Nuevo;Chapultepec
+1945;20/04/2014;7;Valentina;10%;Cliente Nuevo;La Estancia
+1946;12/12/2014;1;Mauricio;20%;Cliente Nuevo;La Estancia
+1947;26/05/2014;5;Alejandro;6%;Cliente Repetido;La Paz
+1948;12/08/2014;14;Joel;17%;Cliente Repetido;Chapultepec
+1949;17/08/2014;4;Alejandro;7%;Cliente Nuevo;Chapultepec
+1950;30/07/2014;17;Valentina;7%;Cliente Repetido;La Estancia
+1951;13/04/2014;6;Joel;10%;Cliente Nuevo;La Estancia
+1952;21/04/2014;5;Alejandro;13%;Cliente Nuevo;Chapultepec
+1953;29/03/2014;8;Rodolfo;7%;Cliente Nuevo;La Estancia
+1954;18/06/2014;12;Ernesto;9%;Cliente Repetido;Chapultepec
+1955;03/05/2014;16;Alejandro;16%;Cliente Nuevo;La Paz
+1956;27/05/2014;12;Rodolfo;16%;Cliente Nuevo;La Paz
+1957;23/07/2014;7;Joel;14%;Cliente Nuevo;Chapultepec
+1958;07/11/2014;9;Omar;10%;Cliente Repetido;La Estancia
+1959;25/03/2014;6;Ernesto;13%;Cliente Nuevo;La Paz
+1960;12/06/2014;9;Mariana;14%;Cliente Nuevo;Chapultepec
+1961;14/09/2014;17;Omar;5%;Cliente Nuevo;La Paz
+1962;26/06/2014;14;Saul;16%;Cliente Nuevo;Chapultepec
+1963;11/10/2014;16;Mauricio;20%;Cliente Nuevo;La Paz
+1964;23/11/2014;4;Omar;7%;Cliente Repetido;Chapultepec
+1965;07/12/2014;2;Ernesto;6%;Cliente Nuevo;Chapultepec
+1966;28/12/2014;7;Alejandro;8%;Cliente Nuevo;La Estancia
+1967;04/05/2014;14;Omar;7%;Cliente Nuevo;Chapultepec
+1968;06/04/2014;9;Rodolfo;5%;Cliente Repetido;Chapultepec
+1969;14/08/2014;10;Mariana;6%;Cliente Nuevo;La Paz
+1970;21/01/2015;6;Valentina;6%;Cliente Nuevo;La Estancia
+1971;25/03/2014;15;Mariana;8%;Cliente Nuevo;Chapultepec
+1972;19/05/2014;5;Ernesto;11%;Cliente Nuevo;La Paz
+1973;31/08/2014;4;Joel;8%;Cliente Nuevo;La Estancia
+1974;20/08/2014;14;Mariana;5%;Cliente Nuevo;Chapultepec
+1975;23/08/2014;1;Alejandro;17%;Cliente Repetido;La Paz
+1976;09/10/2014;15;Valentina;15%;Cliente Nuevo;La Estancia
+1977;18/03/2014;15;Valentina;5%;Cliente Nuevo;Chapultepec
+1978;27/12/2014;11;Mauricio;20%;Cliente Nuevo;La Estancia
+1979;10/11/2014;5;Alejandro;17%;Cliente Nuevo;La Paz
+1980;03/12/2014;14;Ernesto;13%;Cliente Repetido;Chapultepec
+1981;07/06/2014;6;Valentina;16%;Cliente Nuevo;La Paz
+1982;07/05/2014;15;Alejandro;7%;Cliente Repetido;La Paz
+1983;18/11/2014;2;Ernesto;6%;Cliente Nuevo;La Paz
+1984;04/10/2014;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+1985;14/12/2014;7;Joel;5%;Cliente Repetido;La Estancia
+1986;21/04/2014;2;Mariana;14%;Cliente Nuevo;La Estancia
+1987;05/09/2014;9;Mauricio;20%;Cliente Nuevo;La Estancia
+1988;13/02/2014;9;Rodolfo;15%;Cliente Nuevo;Chapultepec
+1989;27/12/2014;14;Mauricio;20%;Cliente Nuevo;Chapultepec
+1990;07/12/2014;15;Omar;10%;Cliente Repetido;Chapultepec
+1991;25/11/2014;15;Mariana;5%;Cliente Repetido;Chapultepec
+1992;24/01/2015;1;Mauricio;20%;Cliente Nuevo;La Estancia
+1993;10/01/2015;17;Mauricio;20%;Cliente Nuevo;Chapultepec
+1994;08/08/2014;12;Joel;15%;Cliente Nuevo;La Paz
+1995;11/08/2014;16;Omar;6%;Cliente Repetido;Chapultepec
+1996;08/04/2014;2;Rodolfo;17%;Cliente Nuevo;La Estancia
+1997;18/10/2014;11;Mauricio;20%;Cliente Nuevo;Chapultepec
+1998;01/01/2015;6;Saul;11%;Cliente Nuevo;Chapultepec
+1999;04/01/2015;7;Omar;10%;Cliente Nuevo;La Paz
+2000;10/07/2014;15;Saul;5%;Cliente Nuevo;La Estancia
+2001;04/12/2014;10;Alejandro;16%;Cliente Nuevo;La Estancia
+2002;11/06/2014;7;Saul;14%;Cliente Repetido;La Estancia
+2003;28/06/2014;4;Alejandro;5%;Cliente Nuevo;La Estancia
+2004;01/12/2014;7;Valentina;5%;Cliente Repetido;La Estancia
+2005;18/09/2014;7;Saul;15%;Cliente Repetido;Chapultepec
+2006;12/11/2014;14;Valentina;16%;Cliente Nuevo;La Paz
+2007;13/01/2015;4;Omar;10%;Cliente Nuevo;La Paz
+2008;03/10/2014;17;Mauricio;20%;Cliente Nuevo;Chapultepec
+2009;09/11/2014;5;Mariana;13%;Cliente Nuevo;La Paz
+2010;27/08/2014;6;Joel;16%;Cliente Nuevo;Chapultepec
+2011;23/02/2014;14;Saul;5%;Cliente Nuevo;La Paz
+2012;04/01/2015;17;Saul;13%;Cliente Nuevo;La Paz
+2013;24/05/2014;12;Saul;13%;Cliente Nuevo;La Estancia
+2014;06/04/2014;2;Valentina;13%;Cliente Repetido;La Estancia
+2015;13/02/2014;3;Rodolfo;5%;Cliente Nuevo;Chapultepec
+2016;25/06/2014;3;Joel;7%;Cliente Nuevo;La Paz
+2017;29/12/2014;16;Ernesto;13%;Cliente Repetido;La Estancia
+2018;19/12/2014;15;Mauricio;20%;Cliente Nuevo;La Estancia
+2019;14/05/2014;8;Omar;10%;Cliente Repetido;Chapultepec
+2020;14/12/2014;8;Omar;13%;Cliente Nuevo;La Paz
+2021;29/04/2014;7;Omar;16%;Cliente Nuevo;La Paz
+2022;06/09/2014;13;Mauricio;20%;Cliente Nuevo;La Estancia
+2023;14/03/2014;16;Saul;11%;Cliente Nuevo;La Paz
+2024;13/10/2014;11;Rodolfo;5%;Cliente Nuevo;Chapultepec
+2025;29/03/2014;17;Ernesto;13%;Cliente Nuevo;La Estancia
+2026;04/10/2014;15;Mauricio;20%;Cliente Nuevo;Chapultepec
+2027;10/01/2015;11;Mauricio;20%;Cliente Nuevo;La Paz
+2028;11/03/2014;14;Valentina;9%;Cliente Repetido;La Estancia
+2029;12/07/2014;11;Omar;17%;Cliente Repetido;Chapultepec
+2030;06/04/2014;2;Saul;17%;Cliente Nuevo;La Estancia
+2031;31/05/2014;10;Valentina;10%;Cliente Nuevo;La Paz
+2032;20/10/2014;17;Joel;17%;Cliente Repetido;La Paz
+2033;25/05/2014;16;Valentina;15%;Cliente Nuevo;Chapultepec
+2034;24/09/2014;8;Rodolfo;14%;Cliente Nuevo;Chapultepec
+2035;22/05/2014;3;Alejandro;15%;Cliente Nuevo;La Estancia
+2036;11/03/2014;10;Mariana;9%;Cliente Nuevo;La Estancia
+2037;04/02/2014;7;Rodolfo;11%;Cliente Nuevo;La Estancia
+2038;27/02/2014;15;Rodolfo;6%;Cliente Nuevo;La Estancia
+2039;14/04/2014;15;Valentina;11%;Cliente Nuevo;Chapultepec
+2040;25/03/2014;16;Omar;7%;Cliente Repetido;Chapultepec
+2041;09/04/2014;16;Joel;11%;Cliente Nuevo;La Paz
+2042;19/12/2014;4;Mauricio;20%;Cliente Nuevo;La Estancia
+2043;25/06/2014;17;Saul;8%;Cliente Nuevo;Chapultepec
+2044;30/03/2014;17;Rodolfo;5%;Cliente Repetido;Chapultepec
+2045;10/06/2014;9;Rodolfo;13%;Cliente Repetido;Chapultepec
+2046;18/04/2014;16;Omar;11%;Cliente Repetido;La Paz
+2047;22/12/2014;13;Joel;17%;Cliente Nuevo;Chapultepec
+2048;10/12/2014;12;Alejandro;17%;Cliente Nuevo;Chapultepec
+2049;10/03/2014;12;Rodolfo;17%;Cliente Nuevo;La Estancia
+2050;20/11/2014;8;Rodolfo;8%;Cliente Repetido;La Paz
+2051;18/08/2014;3;Rodolfo;13%;Cliente Nuevo;La Estancia
+2052;01/10/2014;14;Alejandro;7%;Cliente Repetido;La Paz
+2053;22/08/2014;5;Joel;17%;Cliente Nuevo;La Paz
+2054;20/01/2015;6;Omar;12%;Cliente Nuevo;La Estancia
+2055;02/04/2014;13;Rodolfo;6%;Cliente Nuevo;La Estancia
+2056;21/11/2014;17;Mauricio;20%;Cliente Nuevo;La Paz
+2057;05/01/2015;4;Omar;14%;Cliente Nuevo;Chapultepec
+2058;23/04/2014;13;Mariana;12%;Cliente Nuevo;La Paz
+2059;12/04/2014;3;Alejandro;14%;Cliente Nuevo;La Paz
+2060;22/03/2014;12;Valentina;15%;Cliente Nuevo;Chapultepec
+2061;28/08/2014;17;Omar;15%;Cliente Repetido;Chapultepec
+2062;28/09/2014;12;Rodolfo;17%;Cliente Repetido;La Estancia
+2063;19/02/2014;1;Alejandro;5%;Cliente Nuevo;Chapultepec
+2064;17/05/2014;13;Valentina;6%;Cliente Nuevo;Chapultepec
+2065;27/05/2014;10;Valentina;14%;Cliente Nuevo;Chapultepec
+2066;14/12/2014;15;Omar;8%;Cliente Nuevo;La Estancia
+2067;03/03/2014;11;Joel;11%;Cliente Nuevo;Chapultepec
+2068;19/04/2014;2;Rodolfo;7%;Cliente Repetido;Chapultepec
+2069;22/09/2014;1;Alejandro;9%;Cliente Repetido;La Estancia
+2070;11/12/2014;9;Omar;17%;Cliente Repetido;La Estancia
+2071;27/06/2014;10;Alejandro;15%;Cliente Nuevo;La Estancia
+2072;16/04/2014;11;Alejandro;15%;Cliente Nuevo;La Paz
+2073;04/12/2014;5;Saul;5%;Cliente Nuevo;La Paz
+2074;02/12/2014;13;Alejandro;16%;Cliente Repetido;La Paz
+2075;01/01/2015;8;Mariana;12%;Cliente Nuevo;Chapultepec
+2076;16/04/2014;6;Rodolfo;10%;Cliente Nuevo;La Estancia
+2077;02/07/2014;7;Rodolfo;8%;Cliente Nuevo;Chapultepec
+2078;21/12/2014;12;Mariana;17%;Cliente Nuevo;La Estancia
+2079;17/04/2014;10;Joel;9%;Cliente Nuevo;La Paz
+2080;11/09/2014;12;Alejandro;16%;Cliente Repetido;Chapultepec
+2081;03/03/2014;7;Alejandro;17%;Cliente Nuevo;La Estancia
+2082;25/07/2014;15;Saul;6%;Cliente Nuevo;La Paz
+2083;30/03/2014;17;Omar;16%;Cliente Repetido;La Estancia
+2084;13/12/2014;16;Mauricio;20%;Cliente Nuevo;La Estancia
+2085;06/06/2014;1;Saul;11%;Cliente Nuevo;La Paz
+2086;16/09/2014;14;Mariana;13%;Cliente Nuevo;La Estancia
+2087;24/10/2014;17;Ernesto;17%;Cliente Nuevo;La Estancia
+2088;27/05/2014;9;Rodolfo;13%;Cliente Nuevo;Chapultepec
+2089;19/04/2014;8;Rodolfo;8%;Cliente Nuevo;La Paz
+2090;01/12/2014;4;Joel;8%;Cliente Repetido;La Paz
+2091;26/01/2015;3;Ernesto;9%;Cliente Nuevo;La Estancia
+2092;02/02/2014;15;Ernesto;16%;Cliente Repetido;La Paz
+2093;16/06/2014;17;Valentina;5%;Cliente Nuevo;La Paz
+2094;26/03/2014;14;Saul;9%;Cliente Nuevo;La Estancia
+2095;19/06/2014;8;Alejandro;17%;Cliente Repetido;La Paz
+2096;31/01/2015;6;Mauricio;20%;Cliente Nuevo;La Estancia
+2097;03/01/2015;13;Mauricio;20%;Cliente Nuevo;La Paz
+2098;19/03/2014;16;Valentina;10%;Cliente Nuevo;La Paz
+2099;15/05/2014;1;Rodolfo;15%;Cliente Nuevo;Chapultepec
+2100;19/01/2015;8;Valentina;11%;Cliente Repetido;Chapultepec
+2101;26/05/2014;5;Rodolfo;11%;Cliente Nuevo;La Paz
+2102;09/02/2014;14;Rodolfo;17%;Cliente Nuevo;La Paz
+2103;27/12/2014;4;Mauricio;20%;Cliente Nuevo;La Paz
+2104;12/05/2014;16;Rodolfo;9%;Cliente Nuevo;La Estancia
+2105;11/01/2015;2;Rodolfo;15%;Cliente Repetido;La Paz
+2106;07/05/2014;1;Mariana;9%;Cliente Nuevo;La Paz
+2107;02/07/2014;3;Rodolfo;14%;Cliente Repetido;La Paz
+2108;22/09/2014;12;Mariana;15%;Cliente Nuevo;La Paz
+2109;18/02/2014;8;Valentina;12%;Cliente Repetido;Chapultepec
+2110;10/02/2014;4;Mariana;14%;Cliente Repetido;Chapultepec
+2111;21/01/2015;10;Valentina;5%;Cliente Nuevo;La Paz
+2112;02/02/2014;3;Mariana;8%;Cliente Nuevo;La Paz
+2113;22/02/2014;2;Joel;12%;Cliente Nuevo;Chapultepec
+2114;26/06/2014;6;Omar;6%;Cliente Repetido;Chapultepec
+2115;21/01/2015;12;Omar;8%;Cliente Nuevo;La Paz
+2116;22/02/2014;13;Alejandro;6%;Cliente Nuevo;Chapultepec
+2117;12/06/2014;13;Valentina;6%;Cliente Repetido;Chapultepec
+2118;01/09/2014;17;Omar;14%;Cliente Repetido;Chapultepec
+2119;21/08/2014;16;Rodolfo;9%;Cliente Nuevo;Chapultepec
+2120;05/03/2014;6;Omar;6%;Cliente Repetido;La Estancia
+2121;20/05/2014;4;Joel;5%;Cliente Nuevo;Chapultepec
+2122;02/04/2014;11;Joel;17%;Cliente Repetido;Chapultepec
+2123;27/04/2014;16;Ernesto;12%;Cliente Nuevo;Chapultepec
+2124;23/03/2014;13;Saul;15%;Cliente Nuevo;La Estancia
+2125;25/12/2014;5;Alejandro;8%;Cliente Nuevo;La Estancia
+2126;16/11/2014;10;Alejandro;9%;Cliente Nuevo;Chapultepec
+2127;07/10/2014;7;Rodolfo;9%;Cliente Repetido;Chapultepec
+2128;03/08/2014;16;Ernesto;14%;Cliente Nuevo;Chapultepec
+2129;01/04/2014;16;Rodolfo;13%;Cliente Nuevo;Chapultepec
+2130;03/02/2014;16;Ernesto;9%;Cliente Nuevo;La Estancia
+2131;15/10/2014;2;Alejandro;16%;Cliente Nuevo;Chapultepec
+2132;18/09/2014;12;Valentina;11%;Cliente Repetido;La Estancia
+2133;25/09/2014;14;Omar;14%;Cliente Nuevo;La Paz
+2134;24/06/2014;9;Omar;15%;Cliente Nuevo;La Paz
+2135;03/01/2015;7;Mauricio;20%;Cliente Nuevo;Chapultepec
+2136;23/10/2014;17;Ernesto;17%;Cliente Nuevo;La Estancia
+2137;12/06/2014;1;Saul;11%;Cliente Nuevo;La Paz
+2138;17/08/2014;4;Valentina;9%;Cliente Nuevo;La Paz
+2139;14/06/2014;4;Alejandro;14%;Cliente Nuevo;Chapultepec
+2140;25/09/2014;5;Joel;11%;Cliente Nuevo;La Paz
+2141;15/12/2014;16;Ernesto;12%;Cliente Repetido;La Paz
+2142;15/09/2014;3;Alejandro;17%;Cliente Nuevo;La Estancia
+2143;25/04/2014;14;Omar;13%;Cliente Nuevo;La Paz
+2144;07/02/2014;15;Valentina;9%;Cliente Nuevo;Chapultepec
+2145;24/07/2014;7;Saul;5%;Cliente Repetido;Chapultepec
+2146;19/05/2014;1;Omar;8%;Cliente Nuevo;Chapultepec
+2147;19/12/2014;2;Mauricio;20%;Cliente Nuevo;Chapultepec
+2148;02/02/2014;5;Omar;14%;Cliente Repetido;La Paz
+2149;20/03/2014;13;Ernesto;12%;Cliente Repetido;La Estancia
+2150;16/03/2014;10;Ernesto;16%;Cliente Nuevo;La Paz
+2151;17/08/2014;3;Alejandro;12%;Cliente Repetido;La Paz
+2152;02/01/2015;1;Mauricio;20%;Cliente Nuevo;La Paz
+2153;29/05/2014;12;Valentina;13%;Cliente Repetido;La Estancia
+2154;09/04/2014;10;Valentina;12%;Cliente Repetido;Chapultepec
+2155;18/10/2014;4;Mauricio;20%;Cliente Nuevo;La Estancia
+2156;11/12/2014;5;Alejandro;5%;Cliente Nuevo;La Estancia
+2157;18/06/2014;9;Rodolfo;13%;Cliente Nuevo;La Estancia
+2158;18/07/2014;5;Ernesto;8%;Cliente Repetido;La Paz
+2159;11/01/2015;9;Rodolfo;16%;Cliente Repetido;La Paz
+2160;31/01/2015;5;Mauricio;20%;Cliente Nuevo;La Paz
+2161;25/10/2014;5;Mauricio;20%;Cliente Nuevo;La Paz
+2162;05/11/2014;12;Ernesto;15%;Cliente Repetido;Chapultepec
+2163;28/03/2014;15;Alejandro;11%;Cliente Nuevo;La Paz
+2164;15/02/2014;15;Mariana;9%;Cliente Nuevo;Chapultepec
+2165;19/05/2014;9;Ernesto;8%;Cliente Nuevo;La Paz
+2166;14/06/2014;15;Mariana;14%;Cliente Repetido;La Paz
+2167;16/07/2014;3;Valentina;5%;Cliente Nuevo;Chapultepec
+2168;13/10/2014;16;Saul;12%;Cliente Nuevo;La Paz
+2169;05/08/2014;2;Mariana;16%;Cliente Repetido;Chapultepec
+2170;27/01/2015;5;Ernesto;17%;Cliente Nuevo;La Estancia
+2171;08/01/2015;8;Saul;5%;Cliente Nuevo;La Paz
+2172;25/12/2014;15;Rodolfo;16%;Cliente Nuevo;Chapultepec
+2173;20/10/2014;9;Mariana;6%;Cliente Nuevo;La Paz
+2174;24/11/2014;17;Saul;14%;Cliente Repetido;La Paz
+2175;03/04/2014;4;Ernesto;10%;Cliente Nuevo;Chapultepec
+2176;27/05/2014;8;Mariana;9%;Cliente Nuevo;La Paz
+2177;04/04/2014;3;Omar;12%;Cliente Nuevo;La Estancia
+2178;06/09/2014;5;Mauricio;20%;Cliente Nuevo;La Paz
+2179;13/06/2014;5;Ernesto;10%;Cliente Nuevo;Chapultepec
+2180;07/03/2014;8;Joel;11%;Cliente Nuevo;Chapultepec
+2181;12/04/2014;6;Saul;17%;Cliente Nuevo;La Paz
+2182;31/08/2014;7;Mariana;13%;Cliente Nuevo;La Estancia
+2183;08/02/2014;4;Saul;15%;Cliente Nuevo;La Estancia
+2184;20/02/2014;1;Valentina;16%;Cliente Nuevo;La Estancia
+2185;13/10/2014;16;Alejandro;6%;Cliente Repetido;La Paz
+2186;13/10/2014;15;Alejandro;10%;Cliente Repetido;La Estancia
+2187;25/06/2014;14;Omar;11%;Cliente Nuevo;La Paz
+2188;01/12/2014;11;Ernesto;5%;Cliente Nuevo;La Paz
+2189;25/04/2014;1;Mariana;9%;Cliente Nuevo;La Paz
+2190;08/11/2014;1;Mauricio;20%;Cliente Nuevo;Chapultepec
+2191;01/10/2014;10;Valentina;16%;Cliente Nuevo;La Estancia
+2192;29/12/2014;12;Omar;12%;Cliente Nuevo;La Estancia
+2193;22/02/2014;4;Ernesto;13%;Cliente Nuevo;La Paz
+2194;05/06/2014;9;Alejandro;8%;Cliente Repetido;Chapultepec
+2195;20/01/2015;15;Rodolfo;12%;Cliente Nuevo;La Estancia
+2196;19/06/2014;2;Mariana;11%;Cliente Nuevo;Chapultepec
+2197;13/02/2014;7;Ernesto;16%;Cliente Nuevo;La Estancia
+2198;12/04/2014;8;Alejandro;8%;Cliente Nuevo;La Estancia
+2199;04/10/2014;7;Mauricio;20%;Cliente Nuevo;La Paz
+2200;22/06/2014;10;Saul;6%;Cliente Nuevo;La Estancia
+2201;08/10/2014;3;Ernesto;12%;Cliente Nuevo;La Estancia
+2202;19/11/2014;13;Joel;8%;Cliente Repetido;Chapultepec
+2203;14/02/2014;13;Omar;12%;Cliente Nuevo;La Paz
+2204;16/07/2014;10;Ernesto;7%;Cliente Nuevo;La Paz
+2205;28/05/2014;5;Saul;15%;Cliente Nuevo;La Estancia
+2206;19/04/2014;15;Valentina;8%;Cliente Nuevo;La Paz
+2207;29/09/2014;3;Alejandro;7%;Cliente Nuevo;La Estancia
+2208;27/06/2014;6;Saul;8%;Cliente Nuevo;Chapultepec
+2209;02/01/2015;3;Mauricio;20%;Cliente Nuevo;La Estancia
+2210;12/02/2014;9;Ernesto;13%;Cliente Nuevo;La Estancia
+2211;14/03/2014;7;Saul;17%;Cliente Nuevo;La Paz
+2212;16/10/2014;10;Omar;17%;Cliente Nuevo;Chapultepec
+2213;23/03/2014;4;Joel;16%;Cliente Nuevo;La Estancia
+2214;20/02/2014;13;Mariana;15%;Cliente Nuevo;Chapultepec
+2215;06/03/2014;4;Omar;16%;Cliente Nuevo;Chapultepec
+2216;14/03/2014;2;Valentina;7%;Cliente Nuevo;La Paz
+2217;14/01/2015;6;Omar;9%;Cliente Nuevo;La Paz
+2218;14/03/2014;10;Rodolfo;9%;Cliente Nuevo;Chapultepec
+2219;11/12/2014;11;Omar;9%;Cliente Repetido;La Estancia
+2220;17/06/2014;12;Rodolfo;12%;Cliente Repetido;Chapultepec
+2221;06/08/2014;3;Joel;7%;Cliente Nuevo;La Estancia
+2222;27/06/2014;5;Ernesto;8%;Cliente Nuevo;Chapultepec
+2223;12/12/2014;9;Mauricio;20%;Cliente Nuevo;La Estancia
+2224;06/07/2014;8;Rodolfo;9%;Cliente Repetido;La Estancia
+2225;02/11/2014;6;Valentina;10%;Cliente Nuevo;La Estancia
+2226;04/06/2014;3;Joel;5%;Cliente Nuevo;La Estancia
+2227;17/08/2014;2;Saul;5%;Cliente Nuevo;La Paz
+2228;14/06/2014;11;Joel;8%;Cliente Nuevo;Chapultepec
+2229;28/09/2014;10;Ernesto;5%;Cliente Nuevo;Chapultepec
+2230;07/08/2014;16;Ernesto;10%;Cliente Repetido;La Paz
+2231;20/08/2014;14;Mariana;8%;Cliente Nuevo;Chapultepec
+2232;03/02/2014;16;Omar;14%;Cliente Nuevo;La Paz
+2233;01/01/2015;3;Omar;9%;Cliente Repetido;La Estancia
+2234;31/12/2014;9;Valentina;5%;Cliente Repetido;Chapultepec
+2235;13/05/2014;12;Omar;10%;Cliente Repetido;La Estancia
+2236;21/07/2014;17;Ernesto;7%;Cliente Nuevo;La Estancia
+2237;25/01/2015;17;Saul;7%;Cliente Nuevo;La Estancia
+2238;16/02/2014;17;Ernesto;13%;Cliente Repetido;Chapultepec
+2239;20/04/2014;4;Joel;9%;Cliente Nuevo;Chapultepec
+2240;01/06/2014;4;Alejandro;15%;Cliente Repetido;Chapultepec
+2241;14/01/2015;1;Ernesto;16%;Cliente Nuevo;Chapultepec
+2242;27/06/2014;5;Mariana;11%;Cliente Nuevo;Chapultepec
+2243;09/10/2014;4;Rodolfo;5%;Cliente Repetido;Chapultepec
+2244;07/06/2014;5;Saul;15%;Cliente Repetido;La Paz
+2245;12/08/2014;12;Omar;9%;Cliente Repetido;Chapultepec
+2246;18/04/2014;1;Ernesto;12%;Cliente Nuevo;La Paz
+2247;19/12/2014;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+2248;10/05/2014;10;Valentina;8%;Cliente Repetido;La Paz
+2249;22/08/2014;10;Ernesto;15%;Cliente Repetido;La Paz
+2250;23/05/2014;2;Joel;13%;Cliente Repetido;Chapultepec
+2251;03/11/2014;2;Saul;17%;Cliente Repetido;La Paz
+2252;29/04/2014;1;Valentina;9%;Cliente Nuevo;La Estancia
+2253;30/10/2014;1;Rodolfo;11%;Cliente Nuevo;Chapultepec
+2254;06/01/2015;6;Rodolfo;12%;Cliente Nuevo;La Estancia
+2255;24/06/2014;8;Joel;12%;Cliente Nuevo;La Paz
+2256;19/10/2014;4;Valentina;10%;Cliente Nuevo;La Paz
+2257;02/02/2014;9;Alejandro;6%;Cliente Repetido;La Paz
+2258;27/10/2014;11;Saul;10%;Cliente Nuevo;La Paz
+2259;02/03/2014;9;Ernesto;15%;Cliente Nuevo;La Paz
+2260;28/08/2014;11;Omar;13%;Cliente Repetido;La Paz
+2261;22/12/2014;13;Omar;10%;Cliente Nuevo;La Paz
+2262;31/03/2014;16;Rodolfo;5%;Cliente Nuevo;La Paz
+2263;11/12/2014;6;Saul;9%;Cliente Nuevo;Chapultepec
+2264;23/09/2014;1;Saul;17%;Cliente Nuevo;Chapultepec
+2265;19/07/2014;2;Saul;14%;Cliente Nuevo;Chapultepec
+2266;23/10/2014;6;Joel;11%;Cliente Nuevo;La Estancia
+2267;23/08/2014;17;Mariana;5%;Cliente Nuevo;La Estancia
+2268;09/05/2014;1;Rodolfo;8%;Cliente Repetido;La Estancia
+2269;30/06/2014;3;Omar;15%;Cliente Nuevo;Chapultepec
+2270;15/06/2014;6;Omar;5%;Cliente Nuevo;La Paz
+2271;18/02/2014;16;Saul;13%;Cliente Repetido;La Estancia
+2272;17/06/2014;16;Omar;8%;Cliente Repetido;La Estancia
+2273;01/03/2014;8;Joel;15%;Cliente Repetido;La Estancia
+2274;17/11/2014;10;Valentina;10%;Cliente Nuevo;Chapultepec
+2275;08/12/2014;2;Valentina;17%;Cliente Nuevo;Chapultepec
+2276;19/08/2014;14;Rodolfo;12%;Cliente Nuevo;Chapultepec
+2277;18/11/2014;5;Ernesto;16%;Cliente Nuevo;Chapultepec
+2278;29/09/2014;12;Ernesto;7%;Cliente Nuevo;Chapultepec
+2279;17/09/2014;3;Saul;17%;Cliente Nuevo;Chapultepec
+2280;02/10/2014;3;Omar;10%;Cliente Nuevo;La Estancia
+2281;27/04/2014;9;Joel;17%;Cliente Nuevo;Chapultepec
+2282;31/07/2014;7;Joel;6%;Cliente Nuevo;Chapultepec
+2283;06/04/2014;2;Rodolfo;16%;Cliente Nuevo;Chapultepec
+2284;16/11/2014;13;Rodolfo;11%;Cliente Nuevo;La Paz
+2285;10/10/2014;13;Mauricio;20%;Cliente Nuevo;Chapultepec
+2286;05/07/2014;16;Alejandro;16%;Cliente Nuevo;Chapultepec
+2287;21/09/2014;2;Mariana;15%;Cliente Nuevo;La Estancia
+2288;30/11/2014;15;Alejandro;7%;Cliente Nuevo;La Estancia
+2289;13/11/2014;4;Valentina;17%;Cliente Nuevo;La Estancia
+2290;01/10/2014;4;Saul;10%;Cliente Nuevo;Chapultepec
+2291;26/08/2014;5;Rodolfo;10%;Cliente Nuevo;Chapultepec
+2292;09/07/2014;9;Joel;11%;Cliente Nuevo;La Paz
+2293;06/09/2014;1;Mauricio;20%;Cliente Nuevo;Chapultepec
+2294;27/07/2014;13;Saul;16%;Cliente Nuevo;La Paz
+2295;12/09/2014;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+2296;18/04/2014;17;Rodolfo;5%;Cliente Nuevo;La Paz
+2297;22/12/2014;13;Saul;14%;Cliente Repetido;La Estancia
+2298;28/07/2014;7;Ernesto;13%;Cliente Nuevo;Chapultepec
+2299;13/05/2014;8;Valentina;14%;Cliente Nuevo;La Estancia
+2300;07/09/2014;3;Alejandro;17%;Cliente Nuevo;Chapultepec
+2301;08/10/2014;14;Ernesto;5%;Cliente Nuevo;La Estancia
+2302;28/11/2014;9;Mauricio;20%;Cliente Nuevo;Chapultepec
+2303;08/03/2014;15;Joel;14%;Cliente Nuevo;Chapultepec
+2304;09/06/2014;17;Joel;12%;Cliente Nuevo;La Paz
+2305;03/10/2014;9;Mauricio;20%;Cliente Nuevo;La Estancia
+2306;24/06/2014;7;Mariana;16%;Cliente Nuevo;Chapultepec
+2307;17/07/2014;14;Joel;11%;Cliente Nuevo;La Estancia
+2308;05/09/2014;13;Mauricio;20%;Cliente Nuevo;La Paz
+2309;10/06/2014;5;Rodolfo;10%;Cliente Nuevo;La Estancia
+2310;21/04/2014;6;Omar;11%;Cliente Nuevo;Chapultepec
+2311;21/02/2014;1;Joel;12%;Cliente Nuevo;La Estancia
+2312;05/07/2014;15;Omar;5%;Cliente Repetido;La Estancia
+2313;23/05/2014;14;Alejandro;11%;Cliente Nuevo;La Paz
+2314;09/11/2014;7;Ernesto;17%;Cliente Nuevo;Chapultepec
+2315;02/10/2014;5;Saul;5%;Cliente Nuevo;La Estancia
+2316;06/07/2014;4;Ernesto;14%;Cliente Nuevo;La Estancia
+2317;01/12/2014;6;Rodolfo;13%;Cliente Nuevo;La Estancia
+2318;10/10/2014;16;Mauricio;20%;Cliente Nuevo;La Estancia
+2319;29/11/2014;14;Mauricio;20%;Cliente Nuevo;La Estancia
+2320;16/11/2014;17;Joel;13%;Cliente Repetido;Chapultepec
+2321;24/05/2014;12;Rodolfo;14%;Cliente Nuevo;La Paz
+2322;18/11/2014;1;Omar;14%;Cliente Nuevo;La Paz
+2323;29/09/2014;4;Saul;5%;Cliente Nuevo;La Estancia
+2324;01/02/2014;4;Valentina;13%;Cliente Nuevo;La Estancia
+2325;04/03/2014;9;Joel;12%;Cliente Nuevo;La Paz
+2326;23/11/2014;5;Ernesto;15%;Cliente Nuevo;La Estancia
+2327;22/11/2014;1;Mauricio;20%;Cliente Nuevo;Chapultepec
+2328;18/04/2014;4;Saul;10%;Cliente Repetido;La Paz
+2329;13/08/2014;5;Joel;5%;Cliente Repetido;La Paz
+2330;20/11/2014;13;Ernesto;17%;Cliente Nuevo;La Paz
+2331;19/12/2014;5;Mauricio;20%;Cliente Nuevo;La Estancia
+2332;19/01/2015;12;Saul;15%;Cliente Nuevo;Chapultepec
+2333;06/09/2014;11;Mauricio;20%;Cliente Nuevo;La Estancia
+2334;30/03/2014;17;Mariana;16%;Cliente Nuevo;La Estancia
+2335;30/07/2014;8;Omar;9%;Cliente Repetido;La Paz
+2336;09/09/2014;14;Alejandro;9%;Cliente Nuevo;Chapultepec
+2337;13/11/2014;1;Omar;5%;Cliente Nuevo;Chapultepec
+2338;06/01/2015;5;Omar;12%;Cliente Nuevo;La Estancia
+2339;24/05/2014;7;Joel;16%;Cliente Nuevo;Chapultepec
+2340;20/03/2014;14;Joel;17%;Cliente Nuevo;Chapultepec
+2341;14/05/2014;16;Valentina;6%;Cliente Nuevo;Chapultepec
+2342;15/12/2014;13;Saul;15%;Cliente Nuevo;La Paz
+2343;04/05/2014;9;Valentina;8%;Cliente Nuevo;La Estancia
+2344;06/12/2014;6;Mauricio;20%;Cliente Nuevo;Chapultepec
+2345;13/06/2014;14;Alejandro;5%;Cliente Repetido;La Paz
+2346;02/02/2014;13;Mariana;9%;Cliente Nuevo;La Paz
+2347;04/11/2014;9;Mariana;11%;Cliente Repetido;Chapultepec
+2348;11/11/2014;12;Alejandro;16%;Cliente Nuevo;La Paz
+2349;14/12/2014;1;Joel;9%;Cliente Nuevo;Chapultepec
+2350;24/07/2014;9;Mariana;11%;Cliente Nuevo;La Paz
+2351;09/05/2014;17;Valentina;14%;Cliente Nuevo;La Estancia
+2352;23/11/2014;6;Mariana;16%;Cliente Nuevo;Chapultepec
+2353;17/06/2014;2;Alejandro;9%;Cliente Nuevo;Chapultepec
+2354;29/11/2014;8;Mauricio;20%;Cliente Nuevo;Chapultepec
+2355;04/12/2014;1;Rodolfo;7%;Cliente Nuevo;La Estancia
+2356;24/06/2014;16;Joel;11%;Cliente Nuevo;Chapultepec
+2357;14/11/2014;11;Mauricio;20%;Cliente Nuevo;Chapultepec
+2358;26/06/2014;4;Rodolfo;6%;Cliente Nuevo;La Paz
+2359;28/05/2014;1;Alejandro;16%;Cliente Nuevo;Chapultepec
+2360;16/06/2014;10;Valentina;15%;Cliente Nuevo;La Paz
+2361;08/08/2014;5;Mariana;13%;Cliente Nuevo;Chapultepec
+2362;09/08/2014;3;Omar;12%;Cliente Repetido;Chapultepec
+2363;14/10/2014;2;Omar;14%;Cliente Repetido;Chapultepec
+2364;16/05/2014;3;Valentina;10%;Cliente Repetido;La Paz
+2365;22/11/2014;14;Mauricio;20%;Cliente Nuevo;La Paz
+2366;10/07/2014;14;Rodolfo;14%;Cliente Nuevo;La Estancia
+2367;21/05/2014;10;Mariana;7%;Cliente Nuevo;Chapultepec
+2368;30/09/2014;4;Ernesto;17%;Cliente Nuevo;La Paz
+2369;31/03/2014;2;Alejandro;6%;Cliente Nuevo;La Estancia
+2370;07/11/2014;15;Mauricio;20%;Cliente Nuevo;La Paz
+2371;09/05/2014;17;Mariana;5%;Cliente Nuevo;Chapultepec
+2372;27/09/2014;14;Mauricio;20%;Cliente Nuevo;Chapultepec
+2373;22/07/2014;1;Joel;9%;Cliente Repetido;Chapultepec
+2374;19/12/2014;7;Mauricio;20%;Cliente Nuevo;La Estancia
+2375;18/01/2015;11;Alejandro;17%;Cliente Nuevo;Chapultepec
+2376;04/04/2014;1;Saul;16%;Cliente Nuevo;La Paz
+2377;05/06/2014;11;Joel;6%;Cliente Nuevo;La Paz
+2378;25/04/2014;11;Mariana;14%;Cliente Nuevo;Chapultepec
+2379;14/05/2014;10;Valentina;7%;Cliente Nuevo;La Estancia
+2380;14/04/2014;9;Alejandro;15%;Cliente Nuevo;Chapultepec
+2381;14/04/2014;8;Mariana;17%;Cliente Repetido;Chapultepec
+2382;23/12/2014;9;Valentina;7%;Cliente Repetido;La Estancia
+2383;02/07/2014;2;Saul;6%;Cliente Nuevo;Chapultepec
+2384;25/04/2014;13;Saul;17%;Cliente Nuevo;La Paz
+2385;17/09/2014;7;Alejandro;5%;Cliente Nuevo;Chapultepec
+2386;16/10/2014;8;Joel;15%;Cliente Repetido;Chapultepec
+2387;24/12/2014;14;Ernesto;7%;Cliente Nuevo;La Estancia
+2388;13/05/2014;11;Ernesto;15%;Cliente Repetido;Chapultepec
+2389;29/06/2014;11;Joel;7%;Cliente Nuevo;Chapultepec
+2390;10/09/2014;15;Joel;8%;Cliente Nuevo;La Paz
+2391;19/10/2014;4;Joel;5%;Cliente Repetido;La Estancia
+2392;12/09/2014;13;Mauricio;20%;Cliente Nuevo;La Paz
+2393;17/06/2014;14;Saul;7%;Cliente Repetido;La Estancia
+2394;12/01/2015;2;Mariana;7%;Cliente Nuevo;Chapultepec
+2395;31/10/2014;13;Mauricio;20%;Cliente Nuevo;La Estancia
+2396;29/05/2014;14;Omar;13%;Cliente Repetido;La Estancia
+2397;19/11/2014;3;Rodolfo;15%;Cliente Nuevo;La Paz
+2398;23/06/2014;5;Omar;13%;Cliente Repetido;Chapultepec
+2399;01/01/2015;11;Saul;5%;Cliente Nuevo;La Paz
+2400;14/11/2014;12;Mauricio;20%;Cliente Nuevo;Chapultepec
+2401;19/12/2014;8;Mauricio;20%;Cliente Nuevo;La Estancia
+2402;27/07/2014;11;Joel;16%;Cliente Nuevo;La Estancia
+2403;19/04/2014;14;Ernesto;13%;Cliente Nuevo;La Paz
+2404;19/10/2014;3;Rodolfo;15%;Cliente Nuevo;La Paz
+2405;04/08/2014;8;Rodolfo;14%;Cliente Nuevo;La Paz
+2406;18/01/2015;10;Ernesto;6%;Cliente Repetido;La Estancia
+2407;11/08/2014;6;Saul;10%;Cliente Nuevo;Chapultepec
+2408;30/05/2014;15;Alejandro;5%;Cliente Nuevo;La Estancia
+2409;08/12/2014;15;Joel;8%;Cliente Nuevo;Chapultepec
+2410;13/04/2014;6;Joel;9%;Cliente Nuevo;La Estancia
+2411;18/12/2014;9;Valentina;7%;Cliente Nuevo;La Paz
+2412;25/07/2014;7;Valentina;8%;Cliente Nuevo;La Estancia
+2413;21/11/2014;7;Mauricio;20%;Cliente Nuevo;La Paz
+2414;20/07/2014;4;Mariana;13%;Cliente Nuevo;La Estancia
+2415;05/02/2014;2;Valentina;15%;Cliente Nuevo;La Paz
+2416;26/03/2014;15;Joel;8%;Cliente Nuevo;La Estancia
+2417;03/03/2014;6;Valentina;5%;Cliente Repetido;Chapultepec
+2418;23/10/2014;9;Mariana;5%;Cliente Nuevo;La Paz
+2419;23/06/2014;11;Omar;16%;Cliente Nuevo;La Estancia
+2420;16/07/2014;14;Joel;6%;Cliente Repetido;La Estancia
+2421;25/09/2014;11;Saul;7%;Cliente Repetido;Chapultepec
+2422;10/12/2014;15;Omar;7%;Cliente Nuevo;La Paz
+2423;15/02/2014;12;Mariana;5%;Cliente Repetido;Chapultepec
+2424;15/08/2014;8;Joel;6%;Cliente Nuevo;La Paz
+2425;25/10/2014;14;Mauricio;20%;Cliente Nuevo;Chapultepec
+2426;09/04/2014;9;Joel;15%;Cliente Nuevo;La Estancia
+2427;17/10/2014;7;Mauricio;20%;Cliente Nuevo;La Paz
+2428;07/11/2014;4;Mauricio;20%;Cliente Nuevo;La Estancia
+2429;05/11/2014;7;Alejandro;14%;Cliente Repetido;La Paz
+2430;09/10/2014;16;Mariana;13%;Cliente Repetido;La Estancia
+2431;20/09/2014;4;Mauricio;20%;Cliente Nuevo;Chapultepec
+2432;15/05/2014;7;Alejandro;12%;Cliente Nuevo;Chapultepec
+2433;26/05/2014;9;Valentina;17%;Cliente Nuevo;Chapultepec
+2434;03/02/2014;11;Valentina;8%;Cliente Nuevo;La Estancia
+2435;28/12/2014;16;Mariana;5%;Cliente Nuevo;La Estancia
+2436;27/11/2014;17;Saul;15%;Cliente Nuevo;La Estancia
+2437;05/09/2014;6;Mauricio;20%;Cliente Nuevo;Chapultepec
+2438;14/12/2014;10;Ernesto;14%;Cliente Nuevo;La Paz
+2439;25/09/2014;10;Mariana;13%;Cliente Nuevo;La Paz
+2440;04/09/2014;2;Rodolfo;8%;Cliente Nuevo;La Paz
+2441;18/01/2015;9;Joel;17%;Cliente Nuevo;La Estancia
+2442;14/06/2014;6;Rodolfo;6%;Cliente Nuevo;La Estancia
+2443;07/04/2014;8;Omar;17%;Cliente Nuevo;Chapultepec
+2444;23/07/2014;15;Ernesto;15%;Cliente Nuevo;Chapultepec
+2445;13/11/2014;3;Rodolfo;12%;Cliente Repetido;La Estancia
+2446;27/11/2014;17;Valentina;6%;Cliente Repetido;La Paz
+2447;20/12/2014;11;Mauricio;20%;Cliente Nuevo;La Paz
+2448;30/01/2015;17;Mauricio;20%;Cliente Nuevo;La Paz
+2449;18/12/2014;4;Alejandro;16%;Cliente Repetido;Chapultepec
+2450;21/06/2014;10;Saul;12%;Cliente Nuevo;La Estancia
+2451;05/09/2014;8;Mauricio;20%;Cliente Nuevo;La Estancia
+2452;22/01/2015;15;Ernesto;14%;Cliente Nuevo;La Estancia
+2453;31/10/2014;6;Saul;14%;Cliente Repetido;La Estancia
+2454;12/07/2014;4;Ernesto;6%;Cliente Nuevo;La Estancia
+2455;08/09/2014;17;Joel;11%;Cliente Nuevo;La Paz
+2456;06/03/2014;4;Mariana;14%;Cliente Repetido;La Estancia
+2457;19/02/2014;14;Mariana;14%;Cliente Repetido;La Estancia
+2458;30/06/2014;1;Omar;7%;Cliente Repetido;Chapultepec
+2459;31/05/2014;5;Saul;8%;Cliente Repetido;La Estancia
+2460;09/05/2014;9;Alejandro;8%;Cliente Nuevo;La Paz
+2461;22/07/2014;15;Joel;7%;Cliente Nuevo;La Paz
+2462;06/04/2014;3;Valentina;14%;Cliente Nuevo;La Paz
+2463;04/04/2014;2;Omar;10%;Cliente Nuevo;La Paz
+2464;28/02/2014;16;Mariana;5%;Cliente Nuevo;La Paz
+2465;20/08/2014;17;Omar;15%;Cliente Nuevo;Chapultepec
+2466;16/10/2014;7;Mariana;10%;Cliente Nuevo;La Paz
+2467;02/03/2014;3;Omar;9%;Cliente Nuevo;La Estancia
+2468;26/12/2014;5;Mauricio;20%;Cliente Nuevo;Chapultepec
+2469;09/11/2014;6;Ernesto;12%;Cliente Nuevo;Chapultepec
+2470;19/08/2014;14;Alejandro;10%;Cliente Nuevo;La Paz
+2471;17/03/2014;1;Saul;7%;Cliente Nuevo;La Paz
+2472;20/04/2014;8;Joel;11%;Cliente Nuevo;La Estancia
+2473;16/02/2014;10;Mariana;8%;Cliente Nuevo;La Paz
+2474;03/01/2015;10;Mauricio;20%;Cliente Nuevo;Chapultepec
+2475;07/03/2014;4;Rodolfo;7%;Cliente Repetido;Chapultepec
+2476;04/05/2014;3;Omar;5%;Cliente Nuevo;Chapultepec
+2477;14/03/2014;15;Ernesto;10%;Cliente Repetido;Chapultepec
+2478;23/09/2014;17;Alejandro;9%;Cliente Nuevo;Chapultepec
+2479;30/04/2014;6;Ernesto;6%;Cliente Nuevo;La Estancia
+2480;22/06/2014;9;Saul;12%;Cliente Repetido;Chapultepec
+2481;12/10/2014;14;Mariana;14%;Cliente Repetido;La Estancia
+2482;26/07/2014;11;Joel;15%;Cliente Nuevo;Chapultepec
+2483;01/01/2015;4;Saul;15%;Cliente Nuevo;La Estancia
+2484;12/03/2014;9;Alejandro;6%;Cliente Nuevo;La Estancia
+2485;11/07/2014;3;Joel;17%;Cliente Nuevo;La Paz
+2486;26/12/2014;5;Mauricio;20%;Cliente Nuevo;La Estancia
+2487;16/01/2015;11;Mauricio;20%;Cliente Nuevo;La Estancia
+2488;11/09/2014;15;Valentina;12%;Cliente Nuevo;Chapultepec
+2489;05/02/2014;4;Ernesto;9%;Cliente Nuevo;La Paz
+2490;15/02/2014;9;Alejandro;7%;Cliente Nuevo;Chapultepec
+2491;07/10/2014;11;Joel;13%;Cliente Repetido;La Estancia
+2492;08/04/2014;5;Valentina;10%;Cliente Nuevo;La Estancia
+2493;09/02/2014;6;Saul;6%;Cliente Nuevo;La Paz
+2494;23/02/2014;9;Ernesto;16%;Cliente Nuevo;La Estancia
+2495;30/09/2014;12;Omar;13%;Cliente Nuevo;Chapultepec
+2496;07/03/2014;12;Ernesto;11%;Cliente Nuevo;La Estancia
+2497;22/02/2014;6;Valentina;9%;Cliente Nuevo;La Paz
+2498;02/07/2014;4;Omar;9%;Cliente Nuevo;La Paz
+2499;20/11/2014;14;Mariana;17%;Cliente Repetido;Chapultepec
+2500;17/07/2014;6;Joel;10%;Cliente Nuevo;La Paz
