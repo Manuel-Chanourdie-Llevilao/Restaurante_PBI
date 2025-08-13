@@ -1,0 +1,77 @@
+table Detalles1
+	isHidden
+	lineageTag: da45d3be-b687-4a47-8e0f-892a7c8c4bfb
+
+	column Orden
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 8945456d-c194-474e-bb68-98894dd77a57
+		summarizeBy: none
+		sourceColumn: Orden
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Producto
+		dataType: string
+		isHidden
+		lineageTag: 76555e34-4cf4-4556-a285-a02f114e1a15
+		summarizeBy: none
+		sourceColumn: Producto
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Precio
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: ca78258a-ef3c-444b-a22c-a836ab2a1a5a
+		summarizeBy: sum
+		sourceColumn: Precio
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Costo
+		dataType: double
+		isHidden
+		lineageTag: 9959a955-c35b-47c4-a72c-0e8a550f8f09
+		summarizeBy: sum
+		sourceColumn: Costo
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Clave
+		dataType: string
+		isHidden
+		lineageTag: 06295354-dbe8-4c80-8c72-411d22d8b898
+		summarizeBy: none
+		sourceColumn: Clave
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Detalles1 = m
+		mode: import
+		source =
+				let
+				    Origen = Excel.Workbook(File.Contents("C:\Users\chanu\OneDrive\A2 Curso - SQL\OPWER BI - PIVOT\Restaurante Redux, Power BI, Datos.xlsx"), null, true),
+				    Detalles_Table = Origen{[Item="Detalles",Kind="Table"]}[Data],
+				    #"Tipo cambiado" = Table.TransformColumnTypes(Detalles_Table,{{"Orden", Int64.Type}, {"Producto", type text}, {"Precio", Int64.Type}, {"Costo", type number}, {"Clave", type text}})
+				in
+				    #"Tipo cambiado"
+
+	changedProperty = IsHidden
+
+	annotation PBI_ResultType = Table
+

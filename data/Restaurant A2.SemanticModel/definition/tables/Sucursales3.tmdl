@@ -1,0 +1,55 @@
+table Sucursales3
+	lineageTag: 89bca13d-c7c7-41c7-bc14-5054ceea132e
+
+	column Sucursal
+		dataType: string
+		lineageTag: 406fc8ac-8a02-455e-9242-591c07a22a54
+		summarizeBy: none
+		sourceColumn: Sucursal
+
+		annotation SummarizationSetBy = Automatic
+
+	column Dirección
+		dataType: string
+		lineageTag: b034ed00-312c-47dc-9b55-39ed6c65534f
+		summarizeBy: none
+		sourceColumn: Dirección
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ciudad
+		dataType: string
+		lineageTag: 544e94a8-5366-4c81-89d6-fb228fb43737
+		summarizeBy: none
+		sourceColumn: Ciudad
+
+		annotation SummarizationSetBy = Automatic
+
+	column Estado
+		dataType: string
+		lineageTag: f2ee6496-90ae-4d9c-b0df-97e02fbcc5ff
+		summarizeBy: none
+		sourceColumn: Estado
+
+		annotation SummarizationSetBy = Automatic
+
+	column Pais
+		dataType: string
+		lineageTag: 37df09b7-b503-49ef-861a-e17b65ab4a28
+		summarizeBy: none
+		sourceColumn: Pais
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Sucursales3 = m
+		mode: import
+		source =
+				let
+				    Origen = Excel.Workbook(File.Contents("C:\Users\chanu\OneDrive\A2 Curso - SQL\OPWER BI - PIVOT\Restaurante Redux, Power BI, Datos.xlsx"), null, true),
+				    Sucursales_Table = Origen{[Item="Sucursales",Kind="Table"]}[Data],
+				    #"Tipo cambiado" = Table.TransformColumnTypes(Sucursales_Table,{{"Sucursal", type text}, {"Dirección", type text}, {"Ciudad", type text}, {"Estado", type text}, {"Pais", type text}})
+				in
+				    #"Tipo cambiado"
+
+	annotation PBI_ResultType = Table
+
