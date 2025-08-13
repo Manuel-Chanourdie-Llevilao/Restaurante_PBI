@@ -1,0 +1,28 @@
+model Model
+	culture: es-ES
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: es-ES
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["Ordenes","Productos2","Sucursales3","Detalles1","DetalleOrdenes"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBIDesktopVersion = 2.146.705.0 (25.08)+b71502aff0a01340c88f384884ef42771068f115
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table Ordenes
+ref table DateTableTemplate_c07c67a9-d5e2-459c-a370-96e13dbd3357
+ref table LocalDateTable_b316bf8a-fab0-429c-a89b-b62f087face7
+ref table Productos2
+ref table Sucursales3
+ref table Detalles1
+ref table DetalleOrdenes
+ref table LocalDateTable_bd46947b-efac-4069-be36-18c9de66c5ff
+ref table 'Análisis de Órdenes'
+
+ref cultureInfo es-ES
+

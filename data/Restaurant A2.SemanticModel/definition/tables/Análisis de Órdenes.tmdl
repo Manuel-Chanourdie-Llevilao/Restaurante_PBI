@@ -1,0 +1,38 @@
+table 'Análisis de Órdenes'
+	lineageTag: f3c70c9d-2d6c-435e-92fc-31e21a28964f
+
+	column Orden
+		formatString: 0
+		lineageTag: 829a0964-f809-4d1a-9d93-da7b3375530b
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: DetalleOrdenes[Orden]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cuenta de Producto'
+		formatString: 0
+		lineageTag: 958f3b4b-3aec-4ea6-82aa-67f45afb44a3
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Cuenta de Producto]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ventas Totales'
+		formatString: \$\ #,0;-\$\ #,0;\$\ #,0
+		lineageTag: 9e9a2811-4d0d-4a9b-a815-fd80a4ff01ca
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Ventas Totales]
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	partition 'Análisis de Órdenes' = calculated
+		mode: import
+		source = SUMMARIZE(DetalleOrdenes,DetalleOrdenes[Orden],"Cuenta de Producto",COUNTA(DetalleOrdenes[Producto]),"Ventas Totales",SUM(DetalleOrdenes[Precio]))
+
+	annotation PBI_Id = d16f1ba056f14b1b9a50f24de09140b5
+

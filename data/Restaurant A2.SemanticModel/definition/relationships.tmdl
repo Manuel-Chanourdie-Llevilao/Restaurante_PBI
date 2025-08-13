@@ -1,0 +1,28 @@
+relationship 3e242ecf-a00b-4b2d-93ea-56e50b16d479
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Ordenes.Fecha
+	toColumn: LocalDateTable_b316bf8a-fab0-429c-a89b-b62f087face7.Date
+
+relationship 0c341e73-e7b6-478e-b607-9aeef5cc72d2
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DetalleOrdenes.Fecha
+	toColumn: LocalDateTable_bd46947b-efac-4069-be36-18c9de66c5ff.Date
+
+relationship AutoDetected_0226b117-520a-49df-b1e8-0e4510637fdc
+	crossFilteringBehavior: bothDirections
+	fromColumn: DetalleOrdenes.Sucursal
+	toColumn: Sucursales3.Sucursal
+
+relationship AutoDetected_c25d1379-dec6-44b5-a88c-afff9b789ca4
+	fromColumn: DetalleOrdenes.Producto
+	toColumn: Productos2.Producto
+
+relationship 50cebaf2-c592-bbe0-0a63-f7f8da1c8947
+	fromColumn: Detalles1.Orden
+	toColumn: Ordenes.Orden
+
+relationship 24a2ae90-6d6e-e007-d95e-94615367221b
+	crossFilteringBehavior: bothDirections
+	fromColumn: DetalleOrdenes.Orden
+	toColumn: 'Análisis de Órdenes'.Orden
+

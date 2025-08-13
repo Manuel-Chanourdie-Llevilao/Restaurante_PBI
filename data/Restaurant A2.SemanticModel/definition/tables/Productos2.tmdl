@@ -1,0 +1,47 @@
+table Productos2
+	lineageTag: cf8773ab-744c-4c00-b844-5e94e5be2d8c
+
+	column Tipo
+		dataType: string
+		lineageTag: aad9f858-8b22-46a7-a6a8-379898d7f432
+		summarizeBy: none
+		sourceColumn: Tipo
+
+		annotation SummarizationSetBy = Automatic
+
+	column Producto
+		dataType: string
+		lineageTag: 11bf8faa-5d3a-404d-a5f1-523fa5ed68eb
+		summarizeBy: none
+		sourceColumn: Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Categoria
+		dataType: string
+		lineageTag: 75ece75f-c00d-4a41-a6cd-86cf74863fe0
+		summarizeBy: none
+		sourceColumn: Categoria
+
+		annotation SummarizationSetBy = Automatic
+
+	column Clave
+		dataType: string
+		lineageTag: 9004dfb7-005a-4363-9b52-99f84b2b64e8
+		summarizeBy: none
+		sourceColumn: Clave
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Productos2 = m
+		mode: import
+		source =
+				let
+				    Origen = Excel.Workbook(File.Contents("C:\Users\chanu\OneDrive\A2 Curso - SQL\OPWER BI - PIVOT\Restaurante Redux, Power BI, Datos.xlsx"), null, true),
+				    Productos_Table = Origen{[Item="Productos",Kind="Table"]}[Data],
+				    #"Tipo cambiado" = Table.TransformColumnTypes(Productos_Table,{{"Tipo", type text}, {"Producto", type text}, {"Categoria", type text}, {"Clave", type text}})
+				in
+				    #"Tipo cambiado"
+
+	annotation PBI_ResultType = Table
+

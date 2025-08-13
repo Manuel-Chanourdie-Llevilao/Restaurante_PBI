@@ -1,0 +1,107 @@
+table Ordenes
+	isHidden
+	lineageTag: dd639720-7b21-4be0-ae51-b5fb90e6536d
+
+	column Orden
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: f56bb634-d4e4-428a-b58b-bca0d7384074
+		summarizeBy: none
+		sourceColumn: Orden
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha
+		dataType: dateTime
+		isHidden
+		formatString: Long Date
+		lineageTag: 643e5532-4202-476b-a82e-fa353b840d6f
+		summarizeBy: none
+		sourceColumn: Fecha
+
+		variation Variación
+			isDefault
+			relationship: 3e242ecf-a00b-4b2d-93ea-56e50b16d479
+			defaultHierarchy: LocalDateTable_b316bf8a-fab0-429c-a89b-b62f087face7.'Jerarquía de fechas'
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Mesa
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 6c9c1057-d4c0-4a39-a05f-6c738925f2fe
+		summarizeBy: sum
+		sourceColumn: Mesa
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Atendió
+		dataType: string
+		isHidden
+		lineageTag: 32f3d39f-5646-4dbb-9b2d-b91964fda32a
+		summarizeBy: none
+		sourceColumn: Atendió
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Propina
+		dataType: double
+		isHidden
+		lineageTag: c8d31874-643f-439b-b089-ba8bdaf922bf
+		summarizeBy: sum
+		sourceColumn: Propina
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Tipo de Cliente'
+		dataType: string
+		isHidden
+		lineageTag: 6ee1d0ea-af4d-4118-8f3d-aff011374342
+		summarizeBy: none
+		sourceColumn: Tipo de Cliente
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Sucursal
+		dataType: string
+		isHidden
+		lineageTag: 3e47f615-b243-486d-9178-f25dc7d892be
+		summarizeBy: none
+		sourceColumn: Sucursal
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Ordenes = m
+		mode: import
+		source =
+				let
+				    Origen = Excel.Workbook(File.Contents("C:\Users\chanu\OneDrive\A2 Curso - SQL\OPWER BI - PIVOT\Restaurante Redux, Power BI, Datos.xlsx"), null, true),
+				    Ordenes_Table = Origen{[Item="Ordenes",Kind="Table"]}[Data],
+				    #"Tipo cambiado" = Table.TransformColumnTypes(Ordenes_Table,{{"Orden", Int64.Type}, {"Fecha", type date}, {"Mesa", Int64.Type}, {"Atendió", type text}, {"Propina", type number}, {"Tipo de Cliente", type text}, {"Sucursal", type text}})
+				in
+				    #"Tipo cambiado"
+
+	changedProperty = IsHidden
+
+	annotation PBI_ResultType = Table
+

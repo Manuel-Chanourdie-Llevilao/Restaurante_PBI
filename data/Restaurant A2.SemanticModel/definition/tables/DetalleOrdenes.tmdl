@@ -1,0 +1,195 @@
+table DetalleOrdenes
+	lineageTag: f8637772-2966-4080-a45e-2b301d2ee05b
+
+	measure 'Ventas Totales' = SUM(DetalleOrdenes[Precio])
+		formatString: \$\ #,0.00;-\$\ #,0.00;\$\ #,0.00
+		lineageTag: 07ea3533-ccf5-49aa-8e96-d62208cca03d
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	measure 'Ventas del Mes Pasado' = CALCULATE([Ventas Totales],DATEADD(DetalleOrdenes[Fecha].[Date],-1,MONTH))
+		formatString: \$\ #,0.00;-\$\ #,0.00;\$\ #,0.00
+		lineageTag: edc7c65d-c765-4a5d-a6c6-9b9e4bd52ced
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	measure 'Diferencia Mes' = [Ventas Totales]-[Ventas del Mes Pasado]
+		formatString: \$\ #,0;-\$\ #,0;\$\ #,0
+		lineageTag: 74da2954-f934-4968-af38-9c8656b40979
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	measure 'Diferencia % Mes' = DIVIDE([Diferencia Mes],[Ventas Totales],0)
+		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		lineageTag: 8ad02d57-4f6c-43ad-b7a8-e68da7976aee
+
+	measure 'Ventas YTD' = TOTALYTD([Ventas Totales],DetalleOrdenes[Fecha].[Date])
+		formatString: 0\ %;-0\ %;0\ %
+		lineageTag: ff03472d-8d4d-4cd5-9c85-f9f3fc5f834c
+
+	measure 'Cantidad de Ordenes Diferentes' = ```
+			DISTINCTCOUNT(DetalleOrdenes[Orden]) 
+			```
+		formatString: 0
+		lineageTag: ea2ad275-c0b2-4fcb-a3b6-cb9002626bbf
+
+		changedProperty = IsHidden
+
+	measure 'Productos Promedio Vendidos' = AVERAGEX('Análisis de Órdenes','Análisis de Órdenes'[Cuenta de Producto])
+		lineageTag: 817f7a99-4e70-4dd1-9f38-e06ad8b1fbb0
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Ventas Promedio por Orden' = AVERAGEX('Análisis de Órdenes','Análisis de Órdenes'[Ventas Totales])
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 14b1007d-d363-4dde-88c2-c63500723cc6
+
+		changedProperty = IsHidden
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	measure 'Objetivo Diario' = 2300
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 40803c10-47b1-4e84-8d96-5bdd4e3fb5de
+
+	measure 'Objetivo Mensual' = ```
+			170000 
+			```
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: ca07bee7-5428-4583-b620-9fdf996d2a18
+
+	column Orden
+		dataType: int64
+		formatString: 0
+		lineageTag: 443efaf4-aeeb-4dd8-88f2-3093566143c6
+		summarizeBy: none
+		sourceColumn: Orden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Producto
+		dataType: string
+		lineageTag: 553b4ca1-72f1-4c04-a0d8-9d7b75e5cab5
+		summarizeBy: none
+		sourceColumn: Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Precio
+		dataType: int64
+		formatString: \$\ #,0.00;-\$\ #,0.00;\$\ #,0.00
+		lineageTag: e21df88d-d6d4-49c4-ba8f-763326c91329
+		summarizeBy: sum
+		sourceColumn: Precio
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	column Costo
+		dataType: double
+		formatString: \$\ #,0.00;-\$\ #,0.00;\$\ #,0.00
+		lineageTag: edc9d8a9-11cd-40fe-b712-60d5a1f2fc90
+		summarizeBy: sum
+		sourceColumn: Costo
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	column Clave
+		dataType: string
+		lineageTag: c1eddc86-dabc-43b8-a7e2-fed5700eafa9
+		summarizeBy: none
+		sourceColumn: Clave
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 12e97b12-0b07-48c4-9ef2-20acd71114b7
+		summarizeBy: none
+		sourceColumn: Fecha
+
+		variation Variación
+			isDefault
+			relationship: 0c341e73-e7b6-478e-b607-9aeef5cc72d2
+			defaultHierarchy: LocalDateTable_bd46947b-efac-4069-be36-18c9de66c5ff.'Jerarquía de fechas'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Mesa
+		dataType: int64
+		formatString: 0
+		lineageTag: 50159d98-e63d-4cec-b3ff-b2aac33d0a10
+		summarizeBy: sum
+		sourceColumn: Mesa
+
+		annotation SummarizationSetBy = Automatic
+
+	column Atendió
+		dataType: string
+		lineageTag: 8577a7d3-237d-4e94-a5aa-2f15417270b5
+		summarizeBy: none
+		sourceColumn: Atendió
+
+		annotation SummarizationSetBy = Automatic
+
+	column Propina
+		dataType: double
+		formatString: 0\ %;-0\ %;0\ %
+		lineageTag: 86fda7f4-eedd-4983-b1bd-3ce8f6491a10
+		summarizeBy: sum
+		sourceColumn: Propina
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Tipo de Cliente'
+		dataType: string
+		lineageTag: ed204083-5669-4aa7-8a52-f1b077493cc8
+		summarizeBy: none
+		sourceColumn: Tipo de Cliente
+
+		annotation SummarizationSetBy = Automatic
+
+	column Sucursal
+		dataType: string
+		lineageTag: ea512369-f0bd-423d-a143-95ee24ffc7e4
+		summarizeBy: none
+		sourceColumn: Sucursal
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Valor Propina' = DetalleOrdenes[Precio]*DetalleOrdenes[Propina]
+		formatString: \$\ #,0.00;-\$\ #,0.00;\$\ #,0.00
+		lineageTag: 630a540e-8cf7-47df-96c9-f06a50870d6c
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"currencyCulture":"es-AR"}
+
+	column Mes = MONTH(DetalleOrdenes[Fecha])
+		formatString: 0
+		lineageTag: 01795796-a8d1-4a22-9493-17270a16bc60
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DetalleOrdenes = m
+		mode: import
+		source =
+				let
+				    Origen = Table.NestedJoin(Detalles1, {"Orden"}, Ordenes, {"Orden"}, "Ordenes", JoinKind.LeftOuter),
+				    #"Se expandió Ordenes" = Table.ExpandTableColumn(Origen, "Ordenes", {"Fecha", "Mesa", "Atendió", "Propina", "Tipo de Cliente", "Sucursal"}, {"Ordenes.Fecha", "Ordenes.Mesa", "Ordenes.Atendió", "Ordenes.Propina", "Ordenes.Tipo de Cliente", "Ordenes.Sucursal"}),
+				    #"Columnas con nombre cambiado" = Table.RenameColumns(#"Se expandió Ordenes",{{"Ordenes.Fecha", "Fecha"}, {"Ordenes.Mesa", "Mesa"}, {"Ordenes.Atendió", "Atendió"}, {"Ordenes.Propina", "Propina"}, {"Ordenes.Tipo de Cliente", "Tipo de Cliente"}, {"Ordenes.Sucursal", "Sucursal"}})
+				in
+				    #"Columnas con nombre cambiado"
+
+	annotation PBI_NavigationStepName = Navegación
+
+	annotation PBI_ResultType = Table
+
