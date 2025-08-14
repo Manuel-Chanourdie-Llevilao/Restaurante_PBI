@@ -18,26 +18,26 @@
 
 ## Modelo de relación PBI
 
-![alt text](image-5.png) 
+ ![alt text](img/image-5.png)
 
 ## 🚦 KPI (Indicadores Clave de Desempeño) 
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ## Ordenes y Productos vendidos
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 ## Meseros:
     Indicadores de desempeño.
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ## Sucursales:
     Sus ventas, grafico de evolución en el año (2014) y Geoposición
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 ## Informe:
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
